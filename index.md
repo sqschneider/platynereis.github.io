@@ -1,4 +1,4 @@
-# *Platynereis dumerilii* synopsis
+# Synopsis
 
 [Resources](resources.md)
 
