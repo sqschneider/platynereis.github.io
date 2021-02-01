@@ -1,5 +1,5 @@
 # Labs
-[Back to Homepage](index.md)
+[**Back to Homepage**](index.md)
 
 [Arendt lab](#arendt-lab)
 
