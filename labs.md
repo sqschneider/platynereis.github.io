@@ -36,7 +36,7 @@
 
 ## Arendt lab
 (Affiliation)
-(link to lab webpage)
+(link to lab webpage, Twitter)
 
 Some text explaining what the people do.
 
