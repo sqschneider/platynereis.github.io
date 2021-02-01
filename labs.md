@@ -1,6 +1,8 @@
 # Labs
 [**Back to Homepage**](index.md)
 
+Research about development, regeneration, evolution, neurobiology, ecology and behavior in *Platynereis dumerilii*.
+
 [Arendt lab](#arendt-lab)
 
 [Balavoine lab](#balavoine-lab)
