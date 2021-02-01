@@ -1,9 +1,9 @@
 # Labs
 [Back to Homepage](index.md)
 
-[Arendt lab](arendt-lab)
+[Arendt lab](#arendt-lab)
 
-[Schneider lab](schneider-lab)
+[Schneider lab](#schneider-lab)
 
 
 ## Arendt lab
