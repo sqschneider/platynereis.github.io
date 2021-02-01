@@ -3,34 +3,22 @@
 
 [Arendt lab](#arendt-lab)
 
+[Handberg-Thorsager lab](#Handberg-Thorsager-lab)
+
+[Özpolat lab](#özpolat-lab)
+
 [Schneider lab](#schneider-lab)
 
 
 ## Arendt lab
+(Affiliation)
 (link to lab webpage)
 
 Some text explaining what the people do.
 
-giewbglwjglwnbrng
+## Handberg-Thorsager lab
 
-ekrugnenw
-
-elrjgewgnle
-
-ejrbgleng
-
-text
-
-
-more text
-
-
-ganz viel text
-
-
-noch mehr text
-
-
+## Özpolat lab
 
 ## Schneider lab
 
