@@ -31,6 +31,8 @@ Research about development, regeneration, evolution, neurobiology, ecology and b
 
 [Tessmar-Raible lab](#tessmar-raible-lab)
 
+[Tomancak lab](#tomancak-lab)
+
 [Vervoort lab](#vervoort-lab)
 
 [Williams lab](#williams-lab)
@@ -69,6 +71,8 @@ Add a small picture about research
 ## Schneider lab
 
 ## Tessmar-Raible lab
+
+## Tomancak lab
 
 ## Vervoort lab
 
