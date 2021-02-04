@@ -78,8 +78,6 @@ Bauknecht P, Jékely G. **Ancient coexistence of norepinephrine, tyramine, and o
 
 Williams EA, Jékely G. **Towards a systems-level understanding of development in the marine annelid Platynereis dumerilii.** Curr Opin Genet Dev. 2016 Aug;39:175-181. doi: 10.1016/j.gde.2016.07.005. Epub 2016 Aug 6. PMID: 27501412.
 
-Randel N, Jékely G. **Phototaxis and the origin of visual eyes.** Philos Trans R Soc Lond B Biol Sci. 2016 Jan 5;371(1685):20150042. doi: 10.1098/rstb.2015.0042. PMID: 26598725; PMCID: PMC4685581.
-
 Chou HC, Pruitt MM, Bastin BR, Schneider SQ. **A transcriptional blueprint for a spiral-cleaving embryo.** BMC Genomics. 2016 Aug 5;17:552. doi: 10.1186/s12864-016-2860-6. PMID: 27496340; PMCID: PMC4974748.
 
 Grimmel J, Dorresteijn AW, Fröbius AC. **Formation of body appendages during caudal regeneration in Platynereis dumerilii: adaptation of conserved molecular toolsets.** Evodevo. 2016 Apr 12;7:10. doi: 10.1186/s13227-016-0046-6. PMID: 27076904; PMCID: PMC4830062.
@@ -245,3 +243,44 @@ Steinmetz PR, Zelada-Gonzáles F, Burgtorf C, Wittbrodt J, Arendt D. **Polychaet
 Denes AS, Jékely G, Steinmetz PR, Raible F, Snyman H, Prud'homme B, Ferrier DE, Balavoine G, Arendt D. **Molecular architecture of annelid nerve cord supports common origin of nervous system centralization in bilateria.** Cell. 2007 Apr 20;129(2):277-88. doi: 10.1016/j.cell.2007.02.040. PMID: 17448990.
 
 Tessmar-Raible K, Raible F, Christodoulou F, Guy K, Rembold M, Hausen H, Arendt D. **Conserved sensory-neurosecretory cell types in annelid and fish forebrain: insights into hypothalamus evolution.** Cell. 2007 Jun 29;129(7):1389-400. doi: 10.1016/j.cell.2007.04.041. PMID: 17604726.
+
+### 2006
+
+Kerner P, Zelada González F, Le Gouar M, Ledent V, Arendt D, Vervoort M. **The expression of a hunchback ortholog in the polychaete annelid Platynereis dumerilii suggests an ancestral role in mesoderm development and neurogenesis.** Dev Genes Evol. 2006 Dec;216(12):821-8. doi: 10.1007/s00427-006-0100-9. Epub 2006 Sep 16. PMID: 16983541.
+
+### 2005
+
+Raible F, Tessmar-Raible K, Osoegawa K, Wincker P, Jubin C, Balavoine G, Ferrier D, Benes V, de Jong P, Weissenbach J, Bork P, Arendt D. **Vertebrate-type intron-rich genes in the marine annelid Platynereis dumerilii.** Science. 2005 Nov 25;310(5752):1325-6. doi: 10.1126/science.1119089. PMID: 16311335.
+
+Ackermann C, Dorresteijn A, Fischer A. **Clonal domains in postlarval Platynereis dumerilii (Annelida: Polychaeta).** J Morphol. 2005 Dec;266(3):258-80. doi: 10.1002/jmor.10375. PMID: 16170805.
+
+de Rosa R, Prud'homme B, Balavoine G. **Caudal and even-skipped in the annelid Platynereis dumerilii and the ancestry of posterior growth.** Evol Dev. 2005 Nov-Dec;7(6):574-87. doi: 10.1111/j.1525-142X.2005.05061.x. PMID: 16336411.
+
+Tessmar-Raible K, Steinmetz PR, Snyman H, Hassel M, Arendt D. **Fluorescent two-color whole mount in situ hybridization in Platynereis dumerilii (Polychaeta, Annelida), an emerging marine molecular model for evolution and development.** Biotechniques. 2005 Oct;39(4):460, 462, 464. doi: 10.2144/000112023. PMID: 16235555.
+
+### 2004
+
+Fischer A, Dorresteijn A. **The polychaete Platynereis dumerilii (Annelida): a laboratory animal with spiralian cleavage, lifelong segment proliferation and a mixed benthic/pelagic life cycle.** Bioessays. 2004 Mar;26(3):314-25. doi: 10.1002/bies.10409. PMID: 14988933.
+
+Arendt D, Tessmar-Raible K, Snyman H, Dorresteijn AW, Wittbrodt J. **Ciliary photoreceptors with a vertebrate-type opsin in an invertebrate brain.** Science. 2004 Oct 29;306(5697):869-71. doi: 10.1126/science.1099955. PMID: 15514158.
+
+### 2003
+
+Prud'homme B, de Rosa R, Arendt D, Julien JF, Pajaziti R, Dorresteijn AW, Adoutte A, Wittbrodt J, Balavoine G. **Arthropod-like expression patterns of engrailed and wingless in the annelid Platynereis dumerilii suggest a role in segment formation.** Curr Biol. 2003 Oct 28;13(21):1876-81. doi: 10.1016/j.cub.2003.10.006. PMID: 14588243.
+
+### 2002
+
+Arendt D, Tessmar K, de Campos-Baptista MI, Dorresteijn A, Wittbrodt J. **Development of pigment-cup eyes in the polychaete Platynereis dumerilii and evolutionary conservation of larval eyes in Bilateria.** Development. 2002 Mar;129(5):1143-54. PMID: 11874910.
+
+Prud'homme B, Lartillot N, Balavoine G, Adoutte A, Vervoort M. **Phylogenetic analysis of the Wnt gene family. Insights from lophotrochozoan members.** Curr Biol. 2002 Aug 20;12(16):1395. doi: 10.1016/s0960-9822(02)01068-0. PMID: 12194820.
+
+### 2001
+
+Boore JL. **Complete mitochondrial genome sequence of the polychaete annelid Platynereis dumerilii.** Mol Biol Evol. 2001 Jul;18(7):1413-6. doi: 10.1093/oxfordjournals.molbev.a003925. PMID: 11420379.
+
+Arendt D, Technau U, Wittbrodt J. **Evolution of the bilaterian larval foregut.** Nature. 2001 Jan 4;409(6816):81-5. doi: 10.1038/35051075. PMID: 11343117.
+
+### 2000
+
+Boore JL, Brown WM. **Mitochondrial genomes of Galathealinum, Helobdella, and Platynereis: sequence and gene arrangement comparisons indicate that Pogonophora is not a phylum and Annelida and Arthropoda are not sister taxa.** Mol Biol Evol. 2000 Jan;17(1):87-106. doi: 10.1093/oxfordjournals.molbev.a026241. PMID: 10666709.
+
