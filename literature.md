@@ -15,6 +15,10 @@ Song S, Starunov V, Bailly X, Ruta C, Kerner P, Cornelissen AJM, Balavoine G. **
 
 Marinković M, Berger J, Jékely G. **Neuronal coordination of motile cilia in locomotion and feeding.** Philos Trans R Soc Lond B Biol Sci. 2020 Feb 17;375(1792):20190165. doi: 10.1098/rstb.2019.0165. Epub 2019 Dec 30. PMID: 31884921; PMCID: PMC7017327.
 
+Pende M, Vadiwala K, Schmidbaur H, Stockinger AW, Murawala P, Saghafi S, Dekens MPS, Becker K, Revilla-I-Domingo R, Papadopoulos SC, Zurl M, Pasierbek P, Simakov O, Tanaka EM, Raible F, Dodt HU. **A versatile depigmentation, clearing, and labeling method for exploring nervous system diversity.** Sci Adv. 2020 May 29;6(22):eaba0365. doi: 10.1126/sciadv.aba0365. PMID: 32523996; PMCID: PMC7259959.
+
+Kara J, Santos CSG, Macdonald AHH, Simon CA **Resolving the taxonomic identities and genetic structure of two cryptic Platynereis Kinberg species from South Africa** Invertebrate Systematic 2020; 34(6):618-636. doi: 10.1071/IS19072
+
 ### 2019
 
 Williams EA, Jékely G. **Neuronal cell types in the annelid Platynereis dumerilii.** Curr Opin Neurobiol. 2019 Jun;56:106-116. doi: 10.1016/j.conb.2018.12.008. Epub 2019 Jan 24. PMID: 30685735.
@@ -55,6 +59,8 @@ Achim K, Eling N, Vergara HM, Bertucci PY, Musser J, Vopalensky P, Brunet T, Col
 
 Handberg-Thorsager M, Gutierrez-Mazariegos J, Arold ST, Kumar Nadendla E, Bertucci PY, Germain P, Tomançak P, Pierzchalski K, Jones JW, Albalat R, Kane MA, Bourguet W, Laudet V, Arendt D, Schubert M. **The ancestral retinoic acid receptor was a low-affinity sensor triggering neuronal differentiation.** Sci Adv. 2018 Feb 21;4(2):eaao1261. doi: 10.1126/sciadv.aao1261. PMID: 29492455; PMCID: PMC5821490.
 
+Wage J, Rotchell JM, Gambi MC, Hardege JD **Target gene expression studies on Platynereis dumerilii and Platynereis cfr massiliensis at the shallow CO2 vents off Ischia, Italy** Estuarine Coastal and Shelf Science 2018 Jul;207:351-358. doi: 10.1016/j.ecss.2017.11.012 
+
 ### 2017
 
 Gazave E, Lemaître QI, Balavoine G. **The Notch pathway in the annelid Platynereis: insights into chaetogenesis and neurogenesis processes.** Open Biol. 2017 Feb;7(2):160242. doi: 10.1098/rsob.160242. PMID: 28148821; PMCID: PMC5356439.
@@ -74,6 +80,12 @@ Williams EA, Verasztó C, Jasek S, Conzelmann M, Shahidi R, Bauknecht P, Mirabea
 Tsukamoto H, Chen IS, Kubo Y, Furutani Y. **A ciliary opsin in the brain of a marine annelid zooplankton is ultraviolet-sensitive, and the sensitivity is tuned by a single amino acid residue.** J Biol Chem. 2017 Aug 4;292(31):12971-12980. doi: 10.1074/jbc.M117.793539. Epub 2017 Jun 16. PMID: 28623234; PMCID: PMC5546036.
 
 Bauknecht P, Jékely G. **Ancient coexistence of norepinephrine, tyramine, and octopamine signaling in bilaterians.** BMC Biol. 2017 Jan 30;15(1):6. doi: 10.1186/s12915-016-0341-7. PMID: 28137258; PMCID: PMC5282848.
+
+Wage J, Valvassori G, Hardege JD, Schulze A, Gambi, MC. **The sibling polychaetes Platynereis dumerilii and Platynereis massiliensis in the Mediterranean Sea: are phylogeographic patterns related to exposure to ocean acidification?** Mar Biol 2017 Oct;164(10). doi: 10.1007/s00227-017-3222-x.
+
+Starunov VV, Voronezhskaya EE, Nezlin LP. **Development of the nervous system in Platynereis dumerilii (Nereididae, Annelida).** Front Zool. 2017 May 25;14:27. doi: 10.1186/s12983-017-0211-3. PMID: 28559917; PMCID: PMC5445494.
+
+Bakalenko NI, Poznyak AV, Novikova EL, Kulakova MA. **Effect of Retinoids on Post2 Hox gene Expression in Nereid Polychaetes** Russ. J. Dev. Biol. 2017 May;48(3):211-218. doi: 10.1134/S106236041703002X.
 
 ### 2016
 
