@@ -42,6 +42,8 @@ Research about development, regeneration, evolution, neurobiology, ecology and b
 
 Some text explaining what the people do.
 
+Add a small picture about research
+
 ## Balavoine lab
 
 ## Ferrier lab
