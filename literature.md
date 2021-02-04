@@ -151,3 +151,97 @@ Popa LO, Popa OP, Krapal AM, Iorgu EI, Surugiu V. **Fine-scale population geneti
 ### 2013
 
 Conzelmann M, Williams EA, Krug K, Franz-Wachtel M, Macek B, Jékely G. **The neuropeptide complement of the marine annelid Platynereis dumerilii.** BMC Genomics. 2013 Dec 20;14:906. doi: 10.1186/1471-2164-14-906. PMID: 24359412; PMCID: PMC3890597.
+
+Veedin-Rajan VB, Fischer RM, Raible F, Tessmar-Raible K. **Conditional and specific cell ablation in the marine annelid Platynereis dumerilii.** PLoS One. 2013 Sep 24;8(9):e75811. doi: 10.1371/journal.pone.0075811. PMID: 24086637; PMCID: PMC3782428.
+
+Simakov O, Larsson TA, Arendt D. **Linking micro- and macro-evolution at the cell type level: a view from the lophotrochozoan Platynereis dumerilii.** Brief Funct Genomics. 2013 Sep;12(5):430-9. doi: 10.1093/bfgp/els049. Epub 2012 Nov 20. PMID: 23172798.
+
+Randel N, Bezares-Calderón LA, Gühmann M, Shahidi R, Jékely G. **Expression dynamics and protein localization of rhabdomeric opsins in Platynereis larvae.** Integr Comp Biol. 2013 Jul;53(1):7-16. doi: 10.1093/icb/ict046. Epub 2013 May 10. PMID: 23667045; PMCID: PMC3687135.
+
+Conzelmann M, Williams EA, Tunaru S, Randel N, Shahidi R, Asadulina A, Berger J, Offermanns S, Jékely G. **Conserved MIP receptor-ligand pair regulates Platynereis larval settlement.** Proc Natl Acad Sci U S A. 2013 May 14;110(20):8224-9. doi: 10.1073/pnas.1220285110. Epub 2013 Apr 8. PMID: 23569279; PMCID: PMC3657792.
+
+Demilly A, Steinmetz P, Gazave E, Marchand L, Vervoort M. **Involvement of the Wnt/β-catenin pathway in neurectoderm architecture in Platynereis dumerilii.** Nat Commun. 2013;4:1915. doi: 10.1038/ncomms2915. PMID: 23715274.
+
+Backfisch B, Veedin Rajan VB, Fischer RM, Lohs C, Arboleda E, Tessmar-Raible K, Raible F. **Stable transgenesis in the marine annelid Platynereis dumerilii sheds new light on photoreceptor evolution.** Proc Natl Acad Sci U S A. 2013 Jan 2;110(1):193-8. doi: 10.1073/pnas.1209657109. Epub 2013 Jan 2. PMID: 23284166; PMCID: PMC3538230.
+
+Gazave E, Béhague J, Laplane L, Guillou A, Préau L, Demilly A, Balavoine G, Vervoort M. **Posterior elongation in the annelid Platynereis dumerilii involves stem cells molecularly related to primordial germ cells.** Dev Biol. 2013 Oct 1;382(1):246-67. doi: 10.1016/j.ydbio.2013.07.013. Epub 2013 Jul 25. PMID: 23891818.
+
+Fischer AH, Arendt D. **Mesoteloblast-like mesodermal stem cells in the polychaete annelid Platynereis dumerilii (Nereididae).** J Exp Zool B Mol Dev Evol. 2013 Mar;320(2):94-104. doi: 10.1002/jez.b.22486. Epub 2013 Feb 13. PMID: 23408594.
+
+Pfeifer K, Schaub C, Wolfstetter G, Dorresteijn A. **Identification and characterization of a twist ortholog in the polychaete annelid Platynereis dumerilii reveals mesodermal expression of Pdu-twist.** Dev Genes Evol. 2013 Sep;223(5):319-28. doi: 10.1007/s00427-013-0448-6. Epub 2013 Jul 2. PMID: 23817621.
+
+Zantke J, Ishikawa-Fujiwara T, Arboleda E, Lohs C, Schipany K, Hallay N, Straw AD, Todo T, Tessmar-Raible K. **Circadian and circalunar clock interactions in a marine annelid.** Cell Rep. 2013 Oct 17;5(1):99-113. doi: 10.1016/j.celrep.2013.08.031. Epub 2013 Sep 26. PMID: 24075994; PMCID: PMC3913041.
+
+### 2012
+
+Asadulina A, Panzera A, Verasztó C, Liebig C, Jékely G. **Whole-body gene expression pattern registration in Platynereis larvae.** Evodevo. 2012 Dec 3;3(1):27. doi: 10.1186/2041-9139-3-27. PMID: 23199348; PMCID: PMC3586958.
+
+Rebscher N, Lidke AK, Ackermann CF. **Hidden in the crowd: primordial germ cells and somatic stem cells in the mesodermal posterior growth zone of the polychaete Platynereis dumerillii are two distinct cell populations.** Evodevo. 2012 Apr 18;3:9. doi: 10.1186/2041-9139-3-9. PMID: 22512981; PMCID: PMC3348064.
+
+Pfeifer K, Dorresteijn AW, Fröbius AC. **Activation of Hox genes during caudal regeneration of the polychaete annelid Platynereis dumerilii.** Dev Genes Evol. 2012 May;222(3):165-79. doi: 10.1007/s00427-012-0402-z. Epub 2012 May 9. PMID: 22569931.
+
+Hui JH, McDougall C, Monteiro AS, Holland PW, Arendt D, Balavoine G, Ferrier DE. **Extensive chordate and annelid macrosynteny reveals ancestral homeobox gene organization.** Mol Biol Evol. 2012 Jan;29(1):157-65. doi: 10.1093/molbev/msr175. Epub 2011 Jul 4. PMID: 21727239.
+
+Conzelmann M, Jékely G. **Antibodies against conserved amidated neuropeptide epitopes enrich the comparative neurobiology toolbox.** Evodevo. 2012 Oct 1;3(1):23. doi: 10.1186/2041-9139-3-23. PMID: 23020891; PMCID: PMC3503879.
+
+### 2011
+
+Conzelmann M, Offenburger SL, Asadulina A, Keller T, Münch TA, Jékely G. **Neuropeptides regulate swimming depth of Platynereis larvae.** Proc Natl Acad Sci U S A. 2011 Nov 15;108(46):E1174-83. doi: 10.1073/pnas.1109085108. Epub 2011 Oct 17. PMID: 22006315; PMCID: PMC3219130.
+
+Steinmetz PR, Kostyuchenko RP, Fischer A, Arendt D. **The segmental pattern of otx, gbx, and Hox genes in the annelid Platynereis dumerilii.** Evol Dev. 2011 Jan-Feb;13(1):72-9. doi: 10.1111/j.1525-142X.2010.00457.x. PMID: 21210944.
+
+García-Alonso J, Ayoola JA, Crompton J, Rebscher N, Hardege JD. **Development and maturation in the nereidid polychaetes Platynereis dumerilii and Nereis succinea exposed to xenoestrogens.** Comp Biochem Physiol C Toxicol Pharmacol. 2011 Sep;154(3):196-203. doi: 10.1016/j.cbpc.2011.05.007. Epub 2011 May 30. PMID: 21642012.
+
+McDougall C, Korchagina N, Tobin JL, Ferrier DE. **Annelid Distal-less/Dlx duplications reveal varied post-duplication fates.** BMC Evol Biol. 2011 Aug 16;11:241. doi: 10.1186/1471-2148-11-241. PMID: 21846345; PMCID: PMC3199776.
+
+### 2010
+
+Fischer AH, Henrich T, Arendt D. **The normal development of Platynereis dumerilii (Nereididae, Annelida).** Front Zool. 2010 Dec 30;7:31. doi: 10.1186/1742-9994-7-31. PMID: 21192805; PMCID: PMC3027123.
+
+Dray N, Tessmar-Raible K, Le Gouar M, Vibert L, Christodoulou F, Schipany K, Guillou A, Zantke J, Snyman H, Béhague J, Vervoort M, Arendt D, Balavoine G. **Hedgehog signaling regulates segment formation in the annelid Platynereis.** Science. 2010 Jul 16;329(5989):339-42. doi: 10.1126/science.1188913. PMID: 20647470; PMCID: PMC3182550.
+
+Janssen R, Le Gouar M, Pechmann M, Poulin F, Bolognesi R, Schwager EE, Hopfen C, Colbourne JK, Budd GE, Brown SJ, Prpic NM, Kosiol C, Vervoort M, Damen WG, Balavoine G, McGregor AP. **Conservation, loss, and redeployment of Wnt ligands in protostomes: implications for understanding the evolution of segment formation.** BMC Evol Biol. 2010 Dec 1;10:374. doi: 10.1186/1471-2148-10-374. PMID: 21122121; PMCID: PMC3003278.
+
+Christodoulou F, Raible F, Tomer R, Simakov O, Trachana K, Klaus S, Snyman H, Hannon GJ, Bork P, Arendt D. **Ancient animal microRNAs and the evolution of tissue identity.** Nature. 2010 Feb 25;463(7284):1084-8. doi: 10.1038/nature08744. Epub 2010 Jan 31. PMID: 20118916; PMCID: PMC2981144.
+
+Hasse C, Rebscher N, Reiher W, Sobjinski K, Moerschel E, Beck L, Tessmar-Raible K, Arendt D, Hassel M. **Three consecutive generations of nephridia occur during development of Platynereis dumerilii (Annelida, Polychaeta).** Dev Dyn. 2010 Jul;239(7):1967-76. doi: 10.1002/dvdy.22331. PMID: 20549733.
+
+Steinmetz PR, Urbach R, Posnien N, Eriksson J, Kostyuchenko RP, Brena C, Guy K, Akam M, Bucher G, Arendt D. **Six3 demarcates the anterior-most developing brain region in bilaterian animals.** Evodevo. 2010 Dec 29;1(1):14. doi: 10.1186/2041-9139-1-14. PMID: 21190549; PMCID: PMC3025827.
+
+### 2009
+
+Kerner P, Simionato E, Le Gouar M, Vervoort M. **Orthologs of key vertebrate neural genes are expressed during neurogenesis in the annelid Platynereis dumerilii.** Evol Dev. 2009 Sep-Oct;11(5):513-24. doi: 10.1111/j.1525-142X.2009.00359.x. PMID: 19754708.
+
+Hui JH, Raible F, Korchagina N, Dray N, Samain S, Magdelenat G, Jubin C, Segurens B, Balavoine G, Arendt D, Ferrier DE. **Features of the ancestral bilaterian inferred from Platynereis dumerilii ParaHox genes.** BMC Biol. 2009 Jul 23;7:43. doi: 10.1186/1741-7007-7-43. PMID: 19627570; PMCID: PMC2723086.
+
+### 2008
+
+Simionato E, Kerner P, Dray N, Le Gouar M, Ledent V, Arendt D, Vervoort M. **atonal- and achaete-scute-related genes in the annelid Platynereis dumerilii: insights into the evolution of neural basic-Helix-Loop-Helix genes.** BMC Evol Biol. 2008 Jun 9;8:170. doi: 10.1186/1471-2148-8-170. PMID: 18541016; PMCID: PMC2435551.
+
+Arendt D, Denes AS, Jékely G, Tessmar-Raible K. **The evolution of nervous system centralization.** Philos Trans R Soc Lond B Biol Sci. 2008 Apr 27;363(1496):1523-8. doi: 10.1098/rstb.2007.2242. PMID: 18192182; PMCID: PMC2614231.
+
+Saudemont A, Dray N, Hudry B, Le Gouar M, Vervoort M, Balavoine G. **Complementary striped expression patterns of NK homeobox genes during segment formation in the annelid Platynereis.** Dev Biol. 2008 May 15;317(2):430-43. doi: 10.1016/j.ydbio.2008.02.013. Epub 2008 Feb 21. PMID: 18343360.
+
+Jékely G, Colombelli J, Hausen H, Guy K, Stelzer E, Nédélec F, Arendt D. **Mechanism of phototaxis in marine zooplankton.** Nature. 2008 Nov 20;456(7220):395-9. doi: 10.1038/nature07590. PMID: 19020621.
+
+Keay J, Thornton JW. **Hormone-activated estrogen receptors in annelid invertebrates: implications for evolution and endocrine disruption.** Endocrinology. 2009 Apr;150(4):1731-8. doi: 10.1210/en.2008-1338. Epub 2008 Nov 26. PMID: 19036877; PMCID: PMC2659264.
+
+Voronezhskaya EE, Glebov KI, Khabarova MY, Ponimaskin EG, Nezlin LP. **Adult-to-embryo chemical signaling in the regulation of larval development in trochophore animals: cellular and molecular mechanisms.** Acta Biol Hung. 2008;59 Suppl:117-22. doi: 10.1556/ABiol.59.2008.Suppl.19. PMID: 18652383.
+
+### 2007
+
+Schneider SQ, Bowerman B. **beta-Catenin asymmetries after all animal/vegetal- oriented cell divisions in Platynereis dumerilii embryos mediate binary cell-fate specification.** Dev Cell. 2007 Jul;13(1):73-86. doi: 10.1016/j.devcel.2007.05.002. PMID: 17609111.
+
+Altincicek B, Vilcinskas A. **Analysis of the immune-related transcriptome of a lophotrochozoan model, the marine annelid Platynereis dumerilii.** Front Zool. 2007 Jul 6;4:18. doi: 10.1186/1742-9994-4-18. PMID: 17617895; PMCID: PMC1939704.
+
+Gillis WJ, Bowerman B, Schneider SQ. **Ectoderm- and endomesoderm-specific GATA transcription factors in the marine annelid Platynereis dumerilli.** Evol Dev. 2007 Jan-Feb;9(1):39-50. doi: 10.1111/j.1525-142X.2006.00136.x. PMID: 17227365.
+
+Kulakova M, Bakalenko N, Novikova E, Cook CE, Eliseeva E, Steinmetz PR, Kostyuchenko RP, Dondua A, Arendt D, Akam M, Andreeva T. **Hox gene expression in larval development of the polychaetes Nereis virens and Platynereis dumerilii (Annelida, Lophotrochozoa).** Dev Genes Evol. 2007 Jan;217(1):39-54. doi: 10.1007/s00427-006-0119-y. Epub 2006 Dec 19. PMID: 17180685.
+
+Rebscher N, Zelada-González F, Banisch TU, Raible F, Arendt D. **Vasa unveils a common origin of germ cells and of somatic stem cells from the posterior growth zone in the polychaete Platynereis dumerilii.** Dev Biol. 2007 Jun 15;306(2):599-611. doi: 10.1016/j.ydbio.2007.03.521. Epub 2007 Apr 1. PMID: 17467683.
+
+Steinmetz PR, Zelada-Gonzáles F, Burgtorf C, Wittbrodt J, Arendt D. **Polychaete trunk neuroectoderm converges and extends by mediolateral cell intercalation.** Proc Natl Acad Sci U S A. 2007 Feb 20;104(8):2727-32. doi: 10.1073/pnas.0606589104. Epub 2007 Feb 14. PMID: 17301244; PMCID: PMC1815249.
+
+Denes AS, Jékely G, Steinmetz PR, Raible F, Snyman H, Prud'homme B, Ferrier DE, Balavoine G, Arendt D. **Molecular architecture of annelid nerve cord supports common origin of nervous system centralization in bilateria.** Cell. 2007 Apr 20;129(2):277-88. doi: 10.1016/j.cell.2007.02.040. PMID: 17448990.
+
+Tessmar-Raible K, Raible F, Christodoulou F, Guy K, Rembold M, Hausen H, Arendt D. **Conserved sensory-neurosecretory cell types in annelid and fish forebrain: insights into hypothalamus evolution.** Cell. 2007 Jun 29;129(7):1389-400. doi: 10.1016/j.cell.2007.04.041. PMID: 17604726.
