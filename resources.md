@@ -3,7 +3,7 @@
 
 [*Platynereis* culture](culture.md)
 
-[Database](database.md)
+[Databases](database.md)
 
 [Genome/ transcriptome](genome.md)
 
