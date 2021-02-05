@@ -1,7 +1,7 @@
 # Literature
 [**Back to Homepage**](index.md)
 
-[2021](#2021)/ [2020](#2020)/ [2019](#2019)/ [2018](#2018)/ [2017](#2017)/ [2016](#2016)/ [2015](#2015)/ [2014](#2014)/ [2013](#2013)/ [2012](#2012)/ [2011](#2011)/ [2010](#2010)/ [2009](#2009)/ [2008](#2008)/ [2007](#2007)/ [2006](#2006)/ [2005](#2005)/ [2004](#2004)/ [2003](#2003)/ [2002](#2002)/ [2001](#2001)/ [2000](#2000)/ [1999](#1999)/ [1998](#1998)/ [1997](#1997)/ [1996](#1996)/ [1995](#1995)/ [1993](#1993)/ [1992](#1992)/ [1991](#1991)/ [1990](#1990)/ [1989](#1989)/ [1987](#1987)/ [1986](#1986)
+[2021](#2021)/ [2020](#2020)/ [2019](#2019)/ [2018](#2018)/ [2017](#2017)/ [2016](#2016)/ [2015](#2015)/ [2014](#2014)/ [2013](#2013)/ [2012](#2012)/ [2011](#2011)/ [2010](#2010)/ [2009](#2009)/ [2008](#2008)/ [2007](#2007)/ [2006](#2006)/ [2005](#2005)/ [2004](#2004)/ [2003](#2003)/ [2002](#2002)/ [2001](#2001)/ [2000](#2000)/ [1999](#1999)/ [1998](#1998)/ [1997](#1997)/ [1996](#1996)/ [1995](#1995)/ [1993](#1993)/ [1992](#1992)/ [1991](#1991)/ [1990](#1990)/ [1989](#1989)/ [1987](#1987)/ [1986](#1986)/ [1985](#1985)
 
 ### 2021
 
@@ -455,6 +455,79 @@ Dorresteijn AW, Bornewasser H, Fischer A. **A correlative study of experimentall
 
 Sellos D. **Fractionation by high-performance liquid chromatography and characterization of the highly related protamines from the sperm of the marine worm Platynereis dumerilii.** FEBS Letters 1986;202(2):211-216. doi: 10.1016/0014-5793(86)80689-5.
 
-Evans SM, Downie PJ. **Decision-making processes in the polychaete Platynereis dumerilii.** Animal Behaviour 1986; 34(2):472-479. doi 10.1016/S0003-3472(86)80116-6.
+Evans SM, Downie PJ. **Decision-making processes in the polychaete Platynereis dumerilii.** Animal Behaviour 1986;34(2):472-479. doi 10.1016/S0003-3472(86)80116-6.
 
 [[go to the top]](#literature)
+
+### 1985
+
+Sellos D, Kmiécik D. **Characterization of the histones and protamines from the sperm of the marine worm platynereis dumerilii.** Comp. Biochem. Physiol. B: Comp Biochem 1985;80(1):119-126.
+
+Bedford AP, Moore PG. **Macrofaunal involvement in the sublittoral decay of kelp debris: the polychaete Platynereis dumerilii (Audouin and Milne-Edwards) (Annelida: Polychaeta).** Estuar. Coast. Shelf Sci. 1985;20(2):117-134.
+
+Kmiecik D, Sellos D, Belaïche D, Sautiere P. **Primary structure of the two variants of a sperm-specific histone H1 from the annelid Platynereis dumerilii.** Eur J Biochem. 1985 Jul 15;150(2):359-70. doi: 10.1111/j.1432-1033.1985.tb09028.x. PMID: 4018088.
+
+[[go to the top]](#literature)
+
+### 1984
+
+HOFMANN DK, SCHIEDGES I. **Brain hormone levels and feed back regulation during gametogenesis, metamorphosis and regeneration in Platynereis dumerilii - An experimental approach.** Fortschritte der Zoologie 1984;29:73-79.
+
+### 1981
+
+Evans SM. **Effects of changes in sensory input on patterns of tubicolous activity in the polychaete Platynereis dumerilii.** Mar Freshw Behav Physiol 1981;7(4):307-139.
+
+### 1979
+Jacobs RPWM, Pierson ES. **Zostera marina spathes as a habitat for Platynereis dumerilii (Audouin and Milne-Edwards, 1834).** Aquatic Botany 1979;6:403-406.
+
+### 1977
+
+Fischer A. **Autonomy for a specific gene product in oocytes-experimental evidence in polychaetous annelid, Platynereis dumerilii.** Dev Biol 1977;55(1):46-58.
+
+### 1976
+
+Hofmann DK. **Regeneration and Endocrinology in polychaete Platynereis dumerilii - Experimental and structural study.** Wilehm Roux's Arch. Dev. Biol. 1976;180(1):47-71.
+
+### 1975
+
+Fischer A. **Structure of symplasmic early oocytes and their enveloping sheath cells in polychaete, Platynereis dumerilii.** Cell Tissue Res. 1975;160(3):327-343.
+
+Hofmann DK. **Prostomial regeneration in the polychaetePlatynereis dumerilii (Audouin et Milne-Edwards) (Annelida).** Wilehm Roux Arch Dev Biol. 1975 Dec;177(4):309-322. doi: 10.1007/BF00848182. PMID: 28304999.
+
+### 1974
+
+Fischer A. **Stages and stage distribution in early oogenesis in the Annelid, Platynereis dumerilii.** Cell Tissue Res. 1974;156(1):35-45. doi: 10.1007/BF00220100. PMID: 4616751.
+
+Hauenschild C. **Normalization of sexual development in headless fragments of young female Platynereis dumerilii (Polychaeta) due to treatment with preserved protostomia of juvenile specimens.** HELGOLANDER WISSENSCHAFTLICHE MEERESUNTERSUCHUNGEN 1974;26(1):63-81.
+
+Boillyma Y. **Experimental study on nuptial behavior of Platynereis dumerilii (Annelida-Polychaeta) - Chemoreception, emission of genital products.** Mar Biol 1974;24(2):167-179.
+
+Fischer A. **Activity of a gene in transplanted oocytes in the annelid, Platynereis.** Wilhelm Roux Arch Entwickl Mech Org. 1974 Sep;174(3):250-251. doi: 10.1007/BF00573228. PMID: 28304851.
+
+### 1973
+
+Müller WA. **Autoradiographische Untersuchungen über die synthetische Aktivität neurosektrotorischer Zellen im Gehirn von Platynereis dumerilii während der sexuellen Entwicklung und Regeneration** [Autoradiographic studies on the synthetic activity of neurosecretory cells in the brain of Platynereis dumerilii during sexual development and regeneration]. Z Zellforsch Mikrosk Anat. 1973 Jun 7;139(4):487-510. German. PMID: 4724528.
+
+### 1971
+
+Fischer A. **Action of or-gene on pigmentation in Platynereis dumerilii (Polychaeta) 1. Time-course and sites of pigment deposition.** Wilhelm Roux Arch Entwickl Mech Org. 1971;168(3):226-+.
+
+Fischer A. **Action of or-gene on pigmentation in Platynereis dumerilii (Polychaeta) 2.Pigment deposition as caused by a maternal effect or immediately by or-gene activity.** Wilhelm Roux Arch Entwickl Mech Org. 1971;168(3):242-+.
+
+### 1970
+
+Viscontini M, Hummel W, Fischer A. **Pigments of nereids (Annelida, Polychaeta) 1. Isolation of pterin dimers from eyes of Platynereis dumerilii.** Helvetica Chimica Acta 1970;53(5);1207-+.
+
+Roseler, I. **Rhythm of chromatophores of polychaeta Platynereis dumerilii.**  Z Vgl Physiol 1970;70(2).
+
+### 1969
+
+Boillymarer Y. **Experimental researchs on nuptial dance in Platynereis dumerilii.** Cahiers de Biologie Marine 1969;10(3).
+
+Boillymarer Y. **Isolation of substance responsible for onset of nuptial dance and emission of sexual products in Platynereis dumerilii Aud and M Edw (Polychaeta Annelid).**  COMPTES RENDUS HEBDOMADAIRES DES SEANCES DE L ACADEMIE DES SCIENCES SERIE D 1969:268(1).
+
+Fischer A. **Eine Pigmentmangelmutante bei dem Polychaeten Platynereis dumerilii** [A pigment deficient mutant in the polychaete Platynereis dumerilii]. Mol Gen Genet. 1969 Aug 15;104(4):360-70. German. doi: 10.1007/BF00334235. PMID: 5367411.
+
+
+
+
