@@ -391,3 +391,4 @@ Sellos D. **Fractionation by high-performance liquid chromatography and characte
 
 Evans SM, Downie PJ. **Decision-making processes in the polychaete Platynereis dumerilii.** Animal Behaviour 1986; 34(2):472-479. doi 10.1016/S0003-3472(86)80116-6.
 
+[[go to the top]](#literature)
