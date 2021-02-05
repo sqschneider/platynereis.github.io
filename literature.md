@@ -385,7 +385,7 @@ GRANT A. **The reproductive cycle of Platynereis dumerilii (Audouin & Milne-Edwa
 
 Dorresteijn AW, Bornewasser H, Fischer A. **A correlative study of experimentally changed first cleavage and Janus development in the trunk of Platynereis dumerilii (Annelida, Polychaeta).** Rouxs Arch Dev Biol. 1987 Jan;196(1):51-58. doi: 10.1007/BF00376021. PMID: 28305659.
 
-### 1996
+### 1986
 
 Sellos D. **Fractionation by high-performance liquid chromatography and characterization of the highly related protamines from the sperm of the marine worm Platynereis dumerilii.** FEBS Letters 1986;202(2):211-216. doi: 10.1016/0014-5793(86)80689-5.
 
