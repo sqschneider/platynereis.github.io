@@ -1,7 +1,7 @@
 # Literature
 [**Back to Homepage**](index.md)
 
-[2021](#2021)/ [2020](#2020)/ [2019](#2019)/ [2018](#2018)/ [2017](#2017)/ [2016](#2016)/ [2015](#2015)/ [2014](#2014)/ [2013](#2013)/ [2012](#2012)/ [2011](#2011)/ [2010](#2010)/ [2009](#2009)/ [2008](#2008)/ [2007](#2007)/ [2006](#2006)/ [2005](#2005)/ [2004](#2004)/ [2003](#2003)/ [2002](#2002)/ [2001](#2001)/ [2000](#2000)/ [1999](#1999)/ [1998](#1998)
+[2021](#2021)/ [2020](#2020)/ [2019](#2019)/ [2018](#2018)/ [2017](#2017)/ [2016](#2016)/ [2015](#2015)/ [2014](#2014)/ [2013](#2013)/ [2012](#2012)/ [2011](#2011)/ [2010](#2010)/ [2009](#2009)/ [2008](#2008)/ [2007](#2007)/ [2006](#2006)/ [2005](#2005)/ [2004](#2004)/ [2003](#2003)/ [2002](#2002)/ [2001](#2001)/ [2000](#2000)/ [1999](#1999)/ [1998](#1998)[1997](#1997)/ [1996](#1996)/ [1995](#1995)/ [1993](#1993)/ [1992](#1992)/ [1991](#1991)/ [1990](#1990)/ [1989](#1989)/ [1987](#1987)/ [1986](#1986)
 
 ### 2021
 
@@ -333,4 +333,61 @@ Hardege JD, Muller CT, Beckmann M, Hardege DB, Bentley MG. **Timing of reproduct
 
 Zeeck E, Harder T, Beckmann M. **Uric acid: The sperm-release pheromone of the marine polychaete Platynereis dumerilii** J. Chem. Ecol 1998 JAN;24(1):13-22. doi: 10.1023/A:1022328610423.
 
+### 1997
+
+Jha AN, Hutchinson TH, Mackay JM, Elliott BM, Dixons DR. **Evaluation of the genotoxicity of municipal sewage effluent using the marine worm Platynereis dumerilii (Polychaeta: Nereidae)** MUTATION RESEARCH-GENETIC TOXICOLOGY AND ENVIRONMENTAL MUTAGENESIS 1997 Jul;391(3):179-188. doi: 10.1016/S1383-5718(97)00070-3.
+
+### 1996
+
+Jha AN, Hutchinson TH, Mackay JM, Elliott BM, Dixons DR. **Development of an in vivo genotoxicity assay using the marine worm Platynereis dumerilii (Polychaeta: Nereidae)** MUTATION RESEARCH-ENVIRONMENTAL MUTAGENESIS AND RELATED SUBJECTS 1996 Feb;359(2):141-150. doi: 10.1016/S0165-1161(96)90260-5.
+
+### 1995
+
+JHA AN, HUTCHINSON TH, MACKAY JM, ELLIOTT BM, PASCOE PL, DIXON DR. **The chromosomes of Platynereis dumerilii (Polychaeta, Nereidae)** J. Mar. Biolog 1995 Aug;75(3):551-562. doi: 10.1017/S002531540003900X.
+
+Kluge B, Lehmann-Greif M, Fischer A. **Long-lasting exocytosis and massive structural reorganisation in the egg periphery during cortical reaction in Platynereis dumerilii (Annelida, Polychaeta).** Zygote. 1995 May;3(2):141-56. doi: 10.1017/s0967199400002513. PMID: 7582916.
+
+### 1993
+
+Dorresteijn AW, O'Grady B, Fischer A, Porchet-Henneré E, Boilly-Marer Y. **Molecular specification of cell lines in the embryo of Platynereis (Annelida).** Rouxs Arch Dev Biol. 1993 May;202(5):260-269. doi: 10.1007/BF00363215. PMID: 28306038.
+
+Dorresteijn AW, Graffy C. **Competence of blastomeres for the expression of molecular tissue markers is acquired by diverse mechanisms in the embryo of Platynereis (Annelida).** Rouxs Arch Dev Biol. 1993 May;202(5):270-275. doi: 10.1007/BF00363216. PMID: 28306039.
+
+Krawetz SA, Sellos D, Dixon GH. **Analysis of the core histone gene cluster of the annelid Platynereis dumerilii.** DNA Seq. 1993;4(1):29-35. doi: 10.3109/10425179309015619. PMID: 8312603.
+
+### 1992
+
+Schneider S, Fischer A, Dorresteijn AW. **A morphometric comparison of dissimilar early development in sibling species of Platynereis (Annelida, Polychaeta).** Rouxs Arch Dev Biol. 1992 Jun;201(4):243-256. doi: 10.1007/BF00188755. PMID: 28305848.
+
+Rhode B. **Development and differentiation of the eye in Platynereis dumerilii (Annelida, Polychaeta).** J Morphol. 1992 Apr;212(1):71-85. doi: 10.1002/jmor.1052120108. PMID: 29865584.
+
+### 1991
+
+Dorresteijn AW, Eich P. **Experimental change of cytoplasmic composition can convert determination of blastomeres inPlatynereis dumerilii (Annelida, Polychaeta).** Rouxs Arch Dev Biol. 1991 Nov;200(6):342-351. doi: 10.1007/BF00665530. PMID: 28305909.
+
+ZEECK E, HARDEGE JD, BARTELSHARDEGE H, WILLIG A, WESSELMANN G. **Sex pheromones in a marine polychaete: Biologically active compounds from female Platynereis dumerilii** J. Exp. Zool. 1991 Oct;260(1):93-98. doi: 10.1002/jez.1402600112.
+
+### 1990
+
+Sellos D, Krawetz SA, Dixon GH. **Organization and complete nucleotide sequence of the core-histone-gene cluster of the annelid Platynereis dumerilii.** Eur J Biochem. 1990 May 31;190(1):21-9. doi: 10.1111/j.1432-1033.1990.tb15540.x. PMID: 2194796.
+
+Dorresteijn AW. **Quantitative analysis of cellular differentiation during early embryogenesis of Platynereis dumerilii.** Rouxs Arch Dev Biol. 1990 Jul;199(1):14-30. doi: 10.1007/BF01681530. PMID: 28305527.
+
+Zeeck E, Hardege JD, Bartels-Hardege H, Wesselmann G. **Potential sex pheromone in Platynereis dumerilii - identification and synthesis.** Tetrahedron Letters 1990;31(39):5613-5614. doi: 10.1016/S0040-4039(00)97910-3.
+
+### 1989
+
+Schulz G, Ulbrich KP, Hauenschild C, Pfannenstiel HD. **The atokous-epitokous border is determined before the onset of heteronereid development in Platynereis dumerilii (Annelida, Polychaeta).** Rouxs Arch Dev Biol. 1989 May;198(1):29-33. doi: 10.1007/BF00376367. PMID: 28305780.
+
+GRANT A. **The reproductive cycle of Platynereis dumerilii (Audouin & Milne-Edwards) (Polychaeta: Nereidae) from the firth of clyde** Sarsia 1989;74920:79-84. doi: 10.1080/00364827.1989.10420524.
+
+### 1987
+
+Dorresteijn AW, Bornewasser H, Fischer A. **A correlative study of experimentally changed first cleavage and Janus development in the trunk of Platynereis dumerilii (Annelida, Polychaeta).** Rouxs Arch Dev Biol. 1987 Jan;196(1):51-58. doi: 10.1007/BF00376021. PMID: 28305659.
+
+### 1996
+
+Sellos D. **Fractionation by high-performance liquid chromatography and characterization of the highly related protamines from the sperm of the marine worm Platynereis dumerilii.** FEBS Letters 1986;202(2):211-216. doi: 10.1016/0014-5793(86)80689-5.
+
+Evans SM, Downie PJ. **Decision-making processes in the polychaete Platynereis dumerilii.** Animal Behaviour 1986; 34(2):472-479. doi 10.1016/S0003-3472(86)80116-6.
 
