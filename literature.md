@@ -473,26 +473,38 @@ Kmiecik D, Sellos D, Belaïche D, Sautiere P. **Primary structure of the two var
 
 HOFMANN DK, SCHIEDGES I. **Brain hormone levels and feed back regulation during gametogenesis, metamorphosis and regeneration in Platynereis dumerilii - An experimental approach.** Fortschritte der Zoologie 1984;29:73-79.
 
+[[go to the top]](#literature)
+
 ### 1981
 
 Evans SM. **Effects of changes in sensory input on patterns of tubicolous activity in the polychaete Platynereis dumerilii.** Mar Freshw Behav Physiol 1981;7(4):307-139.
 
+[[go to the top]](#literature)
+
 ### 1979
 Jacobs RPWM, Pierson ES. **Zostera marina spathes as a habitat for Platynereis dumerilii (Audouin and Milne-Edwards, 1834).** Aquatic Botany 1979;6:403-406.
+
+[[go to the top]](#literature)
 
 ### 1977
 
 Fischer A. **Autonomy for a specific gene product in oocytes-experimental evidence in polychaetous annelid, Platynereis dumerilii.** Dev Biol 1977;55(1):46-58.
 
+[[go to the top]](#literature)
+
 ### 1976
 
 Hofmann DK. **Regeneration and Endocrinology in polychaete Platynereis dumerilii - Experimental and structural study.** Wilehm Roux's Arch. Dev. Biol. 1976;180(1):47-71.
+
+[[go to the top]](#literature)
 
 ### 1975
 
 Fischer A. **Structure of symplasmic early oocytes and their enveloping sheath cells in polychaete, Platynereis dumerilii.** Cell Tissue Res. 1975;160(3):327-343.
 
 Hofmann DK. **Prostomial regeneration in the polychaetePlatynereis dumerilii (Audouin et Milne-Edwards) (Annelida).** Wilehm Roux Arch Dev Biol. 1975 Dec;177(4):309-322. doi: 10.1007/BF00848182. PMID: 28304999.
+
+[[go to the top]](#literature)
 
 ### 1974
 
@@ -504,9 +516,13 @@ Boillyma Y. **Experimental study on nuptial behavior of Platynereis dumerilii (A
 
 Fischer A. **Activity of a gene in transplanted oocytes in the annelid, Platynereis.** Wilhelm Roux Arch Entwickl Mech Org. 1974 Sep;174(3):250-251. doi: 10.1007/BF00573228. PMID: 28304851.
 
+[[go to the top]](#literature)
+
 ### 1973
 
 Müller WA. **Autoradiographische Untersuchungen über die synthetische Aktivität neurosektrotorischer Zellen im Gehirn von Platynereis dumerilii während der sexuellen Entwicklung und Regeneration** [Autoradiographic studies on the synthetic activity of neurosecretory cells in the brain of Platynereis dumerilii during sexual development and regeneration]. Z Zellforsch Mikrosk Anat. 1973 Jun 7;139(4):487-510. German. PMID: 4724528.
+
+[[go to the top]](#literature)
 
 ### 1971
 
@@ -514,11 +530,15 @@ Fischer A. **Action of or-gene on pigmentation in Platynereis dumerilii (Polycha
 
 Fischer A. **Action of or-gene on pigmentation in Platynereis dumerilii (Polychaeta) 2.Pigment deposition as caused by a maternal effect or immediately by or-gene activity.** Wilhelm Roux Arch Entwickl Mech Org. 1971;168(3):242-+.
 
+[[go to the top]](#literature)
+
 ### 1970
 
 Viscontini M, Hummel W, Fischer A. **Pigments of nereids (Annelida, Polychaeta) 1. Isolation of pterin dimers from eyes of Platynereis dumerilii.** Helvetica Chimica Acta 1970;53(5);1207-+.
 
 Roseler, I. **Rhythm of chromatophores of polychaeta Platynereis dumerilii.**  Z Vgl Physiol 1970;70(2).
+
+[[go to the top]](#literature)
 
 ### 1969
 
@@ -530,9 +550,13 @@ Fischer A. **Eine Pigmentmangelmutante bei dem Polychaeten Platynereis dumerilii
 
 Cazaux C, Labourg PJ. **Swarming of Platynereis dumerilii in Bassin of Arachon.** VIE ET MILIEU SERIE A-BIOLOGIE MARINE 1969;20(3).
 
+[[go to the top]](#literature)
+
 ### 1967
 
 Boillymarer Y. **CONTRIBUTION A LETUDE DU DETERMINISME DE LEMISSION DES PRODUITS GENITAUX CHEZ UN NEREIDIEN (PLATYNEREIS DUMERILII AUD ET M EDW ANNELIDE POLYCHETE).** COMPTES RENDUS HEBDOMADAIRES DES SEANCES DE L ACADEMIE DES SCIENCES SERIE 1967;264(18).
+
+[[go to the top]](#literature)
 
 ### 1966
 
@@ -542,9 +566,13 @@ Fischer A, Brökelmann J. **Das Auge von Platynereis dumerilii (Polychaeta): Sei
 
 Brökelmann J, Fischer A. **Uber die Cuticula von Platynereis Dumerilii (Polychaeta)** [On the cuticle of Platynereis Dumerilii (Polychaeta)]. Z Zellforsch Mikrosk Anat. 1966;70(2):131-5. German. doi: 10.1007/BF00335669. PMID: 5987160.
 
+[[go to the top]](#literature)
+
 ### 1965
 
 Fischer A. **Uber die Chromatophoren und den Farbwechsel bei dem Polychaeten Platynereis dumerilii.** Z Zellforsch Mikrosk Anat. 1965;65(2).
+
+[[go to the top]](#literature)
 
 ### 1964
 
@@ -552,25 +580,37 @@ Hauenschild C. **LINFLUENCE DE LHORMONE DU CERVEAU SUR LE DEVELOPPEMENT POSTEMBR
 
 Lindner E, Fischer A. **Zur Feinstruktur nereider und heteronereider Muskulatur von Platynereis dumerillii}** Naturwissenschaften 1964;51(17).
 
+[[go to the top]](#literature)
+
 ### 1963
 
 FISCHER A. **UBER DEN BAU UND DIE HELL-DUNKEL-ADAPTATION DER AUGEN DES POLYCHAETEN PLATYNEREIS DUMERILII.** [ON THE STRUCTURE AND LIGHT-DARK ADAPTATION OF THE EYES OF THE POLYCHAETE PLATYNEREIS DUMERILII]. Z Zellforsch Mikrosk Anat. 1963 Nov 21;61:338-53. German. PMID: 14104679.
+
+[[go to the top]](#literature)
 
 ### 1961
 
 Hauenschild C. **DIE SCHWARMPERIODIZITAT VON PLATYNEREIS DUMERILII IM DD/LD-BELICHTUNGSZYKLUS UND NACH AUGENAUSSCHALTUNG**  ZEITSCHRIFT FUR NATURFORSCHUNG PART B-CHEMIE BIOCHEMIE BIOPHYSIK BIOLOGIE UND VERWANDTEN GEBIETE 1961;B16(11).
 
+[[go to the top]](#literature)
+
 ### 1960
 
 Hauenschild C. **ABHANGIGKEIT DER REGENERATIONSLEISTUNG VON DER INNEREN SEKRETION IM PROSTOMIUM BEI PLATYNEREIS-DUMERILII.** ZEITSCHRIFT FUR NATURFORSCHUNG PART B-CHEMIE BIOCHEMIE BIOPHYSIK BIOLOGIE UND VERWANDTEN GEBIETE 1960;15(1):52-55.
+
+[[go to the top]](#literature)
 
 ### 1959
 
 Hauenschild C. **ZYKLISCHE VERANDERUNGEN AN DEN INKRETORISCHEN DRUSENZELLEN IM PROSTOMIUM DES POLYCHAETEN PLATYNEREIS-DUMERILII ALS GRUNDLAGE DER SCHWARMPERIODIZITAT.** ZEITSCHRIFT FUR NATURFORSCHUNG PART B-CHEMIE BIOCHEMIE BIOPHYSIK BIOLOGIE UND VERWANDTEN GEBIETE 1959;14(2).
 
+[[go to the top]](#literature)
+
 ### 1957
 
 Kiseleva MI. **LUNAR PERIODICITY IN THE SWARMING OF HETERONEREITIC FORMS OF PLATYNEREIS-DUMERILII (AUD ET EDW) AND NEREIS-ZONATA MALMGREN IN THE BLACK SEA.**  DOKLADY AKADEMII NAUK SSSR 1957;117(4):713-716.
+
+[[go to the top]](#literature)
 
 ### 1956
 
@@ -578,13 +618,19 @@ Hauenschild C. **HORMONALE HEMMUNG DER GESCHLECHTSREIFE UND METAMORPHOSE BEI DEM
 
 Hauenschild C. **WEITERE VERSUCHE ZUR FRAGE DES JUVENILHORMONS BEI PLATYNEREIS** ZEITSCHRIFT FUR NATURFORSCHUNG PART B-CHEMIE BIOCHEMIE BIOPHYSIK BIOLOGIE UND VERWANDTEN GEBIETE 1956;11(9-10).
 
+[[go to the top]](#literature)
+
 ### 1955
 
 Hauenschild C. **PHOTOPERIODIZITAT ALS URSACHE DES VON DER MONDPHASE ABHANGIGEN METAMORPHOSE-RHYTHMUS BEI DEM POLYCHAETEN PLATYNEREIS-DUMERILII** ZEITSCHRIFT FUR NATURFORSCHUNG PART B-CHEMIE BIOCHEMIE BIOPHYSIK BIOLOGIE UND VERWANDTEN GEBIETE 1955;10(11):658-662.
 
+[[go to the top]](#literature)
+
 ### 1954
 
 Hauenschild C. **UBER DAS LUNARPERIODISCHE SCHWARMEN VON PLATYNEREIS DUMERILII IN LABORATORIUMSZUCHTEN.** Naturwissenschaften 1954;41(23).
+
+[[go to the top]](#literature)
 
 ### 1951
 
@@ -592,13 +638,19 @@ Cresp J. **AUTOTOMIE ET REGENERATION CHEZ PLATYNEREIS-DUMERILII (AUD ET M-EDW).*
 
 Abeloos M. **IRREVERSIBILITE DU CHANGEMENT DE SEXE CHEZ PLATYNEREIS-DUMERILII (AUD ET M-EDW.)** COMPTES RENDUS HEBDOMADAIRES DES SEANCES DE L ACADEMIE DES SCIENCES 1951;232(26).
 
+[[go to the top]](#literature)
+
 ### 1950
 
 Abeloos M. **CHANGEMENT DE SEXE ET COMPORTEMENT SEXUEL DE PLATYNEREIS-DUMERILII (AUD ET M EDW) (FORME ATOQUE)** COMPTES RENDUS HEBDOMADAIRES DES SEANCES DE L ACADEMIE DES SCIENCES 1950;231(2):179-180.
 
+[[go to the top]](#literature)
+
 ### 1924
 
 Herpin R. **Swarming of Perinereis Marioni (Aud and Edwards) - The evolutionary cycle of Platynereis Dumerilii (Aud and Edwards)**  COMPTES RENDUS HEBDOMADAIRES DES SEANCES DE L ACADEMIE DES SCIENCES 1924;179:1209-1212. 
+
+[[go to the top]](#literature)
 
 
 
