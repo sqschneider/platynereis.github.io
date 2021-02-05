@@ -379,7 +379,7 @@ Zeeck E, Hardege JD, Bartels-Hardege H, Wesselmann G. **Potential sex pheromone 
 
 Schulz G, Ulbrich KP, Hauenschild C, Pfannenstiel HD. **The atokous-epitokous border is determined before the onset of heteronereid development in Platynereis dumerilii (Annelida, Polychaeta).** Rouxs Arch Dev Biol. 1989 May;198(1):29-33. doi: 10.1007/BF00376367. PMID: 28305780.
 
-GRANT A. **The reproductive cycle of Platynereis dumerilii (Audouin & Milne-Edwards) (Polychaeta: Nereidae) from the firth of clyde** Sarsia 1989;74920:79-84. doi: 10.1080/00364827.1989.10420524.
+Grant A. **The reproductive cycle of Platynereis dumerilii (Audouin & Milne-Edwards) (Polychaeta: Nereidae) from the firth of clyde** Sarsia 1989;74920:79-84. doi: 10.1080/00364827.1989.10420524.
 
 ### 1987
 
