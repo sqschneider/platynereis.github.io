@@ -101,6 +101,10 @@ Wäge J, Lerebours A, Hardege JD, Rotchell JM. **Exposure to low pH induces mole
 
 Brunet T, Fischer AH, Steinmetz PR, Lauri A, Bertucci P, Arendt D. **The evolutionary origin of bilaterian smooth and striated myocytes.** Elife. 2016 Dec 1;5:e19607. doi: 10.7554/eLife.19607. PMID: 27906129; PMCID: PMC5167519.
 
+Gambi MC, Musco L, Giangrande A, Badalamenti F, Micheli F, Kroeker KJ. **Distribution and functional traits of polychaetes in a CO2 vent system: winners and losers among closely related species** Mar. Ecol. Prog. Ser. 2016 May;550:121-134. doi: 10.3354/meps11727.
+
+Arendt D, Tosches MA, Marlow H. **From nerve net to nerve ring, nerve cord and brain--evolution of the nervous system.** Nat Rev Neurosci. 2016 Jan;17(1):61-72. doi: 10.1038/nrn.2015.15. PMID: 26675821.
+
 ### 2015
 
 Williams EA, Conzelmann M, Jékely G. **Myoinhibitory peptide regulates feeding in the marine annelid Platynereis.** Front Zool. 2015 Jan 7;12(1):1. doi: 10.1186/s12983-014-0093-6. PMID: 25628752; PMCID: PMC4307165.
@@ -126,6 +130,8 @@ Shahidi R, Williams EA, Conzelmann M, Asadulina A, Verasztó C, Jasek S, Bezares
 Hanswillemenke A, Kuzdere T, Vogel P, Jékely G, Stafforst T. **Site-Directed RNA Editing in Vivo Can Be Triggered by the Light-Driven Assembly of an Artificial Riboprotein.** J Am Chem Soc. 2015 Dec 23;137(50):15875-81. doi: 10.1021/jacs.5b10216. Epub 2015 Dec 10. PMID: 26594902; PMCID: PMC4731850.
 
 Asadulina A, Conzelmann M, Williams EA, Panzera A, Jékely G. **Object-based representation and analysis of light and electron microscopic volume data using Blender.** BMC Bioinformatics. 2015 Jul 25;16:229. doi: 10.1186/s12859-015-0652-7. PMID: 26208945; PMCID: PMC4513682.
+
+Ricevuto E, Vizzini S, Gambi MC. **Ocean acidification effects on stable isotope signatures and trophic interactions of polychaete consumers and organic matter sources at a CO2 shallow vent system** J. Exp. Mar. Biol. Ecol. 2015 Jul;468:105-117. doi: 10.1016/j.jembe.2015.03.016.
 
 ### 2014
 
@@ -159,6 +165,8 @@ Tosches MA, Bucher D, Vopalensky P, Arendt D. **Melatonin signaling controls cir
 
 Popa LO, Popa OP, Krapal AM, Iorgu EI, Surugiu V. **Fine-scale population genetics analysis of Platynereis dumerilii (Polychaeta, Nereididae) in the Black Sea: how do local marine currents drive geographical differentiation?** J Exp Zool A Ecol Genet Physiol. 2014 Jan;321(1):41-7. doi: 10.1002/jez.1835. Epub 2013 Oct 7. PMID: 24123900.
 
+Rajasree V, Shankar CVS, Satheesh S, Punitha SMJ. **Biofilm inhibitory activity of Extracellular Polymeric Substance produced by Exiguobacterium sp. associated with the polychaete Platynereis dumerilii.** Thalassas 2014 Jul;30(2):13-19.
+
 ### 2013
 
 Conzelmann M, Williams EA, Krug K, Franz-Wachtel M, Macek B, Jékely G. **The neuropeptide complement of the marine annelid Platynereis dumerilii.** BMC Genomics. 2013 Dec 20;14:906. doi: 10.1186/1471-2164-14-906. PMID: 24359412; PMCID: PMC3890597.
@@ -182,6 +190,8 @@ Fischer AH, Arendt D. **Mesoteloblast-like mesodermal stem cells in the polychae
 Pfeifer K, Schaub C, Wolfstetter G, Dorresteijn A. **Identification and characterization of a twist ortholog in the polychaete annelid Platynereis dumerilii reveals mesodermal expression of Pdu-twist.** Dev Genes Evol. 2013 Sep;223(5):319-28. doi: 10.1007/s00427-013-0448-6. Epub 2013 Jul 2. PMID: 23817621.
 
 Zantke J, Ishikawa-Fujiwara T, Arboleda E, Lohs C, Schipany K, Hallay N, Straw AD, Todo T, Tessmar-Raible K. **Circadian and circalunar clock interactions in a marine annelid.** Cell Rep. 2013 Oct 17;5(1):99-113. doi: 10.1016/j.celrep.2013.08.031. Epub 2013 Sep 26. PMID: 24075994; PMCID: PMC3913041.
+
+Yang M, Zhang X. **Comparative developmental toxicity of new aromatic halogenated DBPs in a chlorinated saline sewage effluent to the marine polychaete Platynereis dumerilii.** Environ Sci Technol. 2013 Oct 1;47(19):10868-76. doi: 10.1021/es401841t. Epub 2013 Sep 20. PMID: 24024886.
 
 ### 2012
 
@@ -218,6 +228,10 @@ Christodoulou F, Raible F, Tomer R, Simakov O, Trachana K, Klaus S, Snyman H, Ha
 Hasse C, Rebscher N, Reiher W, Sobjinski K, Moerschel E, Beck L, Tessmar-Raible K, Arendt D, Hassel M. **Three consecutive generations of nephridia occur during development of Platynereis dumerilii (Annelida, Polychaeta).** Dev Dyn. 2010 Jul;239(7):1967-76. doi: 10.1002/dvdy.22331. PMID: 20549733.
 
 Steinmetz PR, Urbach R, Posnien N, Eriksson J, Kostyuchenko RP, Brena C, Guy K, Akam M, Bucher G, Arendt D. **Six3 demarcates the anterior-most developing brain region in bilaterian animals.** Evodevo. 2010 Dec 29;1(1):14. doi: 10.1186/2041-9139-1-14. PMID: 21190549; PMCID: PMC3025827.
+
+Tomer R, Denes AS, Tessmar-Raible K, Arendt D. **Profiling by image registration reveals common origin of annelid mushroom bodies and vertebrate pallium.** Cell. 2010 Sep 3;142(5):800-9. doi: 10.1016/j.cell.2010.07.043. PMID: 20813265.
+
+Schmidtberg H, Dorresteijn AWC **Ultrastructure of the nuchal organs in the polychaete Platynereis dumerilii (Annelida, Nereididae)** Invertebr Biol 2010;129(3):252-265. doi: 10.1111/j.1744-7410.2010.00201.x.
 
 ### 2009
 
@@ -256,6 +270,8 @@ Steinmetz PR, Zelada-Gonzáles F, Burgtorf C, Wittbrodt J, Arendt D. **Polychaet
 Denes AS, Jékely G, Steinmetz PR, Raible F, Snyman H, Prud'homme B, Ferrier DE, Balavoine G, Arendt D. **Molecular architecture of annelid nerve cord supports common origin of nervous system centralization in bilateria.** Cell. 2007 Apr 20;129(2):277-88. doi: 10.1016/j.cell.2007.02.040. PMID: 17448990.
 
 Tessmar-Raible K, Raible F, Christodoulou F, Guy K, Rembold M, Hausen H, Arendt D. **Conserved sensory-neurosecretory cell types in annelid and fish forebrain: insights into hypothalamus evolution.** Cell. 2007 Jun 29;129(7):1389-400. doi: 10.1016/j.cell.2007.04.041. PMID: 17604726.
+
+Hui JHL, Kortchagina N, Arendt D, Balavoine G, Ferrier DEK. **Duplication of the ribosomal gene cluster in the marine polychaete Platynereis dumerilii correlates with ITS polymorphism** J. Mar. Biolog. 2007 Apr;87(2):443-449. doi: 10.1017/S002531540705566X 
 
 ### 2006
 
