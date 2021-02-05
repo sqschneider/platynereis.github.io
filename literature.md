@@ -528,6 +528,43 @@ Boillymarer Y. **Isolation of substance responsible for onset of nuptial dance a
 
 Fischer A. **Eine Pigmentmangelmutante bei dem Polychaeten Platynereis dumerilii** [A pigment deficient mutant in the polychaete Platynereis dumerilii]. Mol Gen Genet. 1969 Aug 15;104(4):360-70. German. doi: 10.1007/BF00334235. PMID: 5367411.
 
+Cazaux C, Labourg PJ. **Swarming of Platynereis dumerilii in Bassin of Arachon.** VIE ET MILIEU SERIE A-BIOLOGIE MARINE 1969;20(3).
+
+### 1967
+
+Boillymarer Y. **CONTRIBUTION A LETUDE DU DETERMINISME DE LEMISSION DES PRODUITS GENITAUX CHEZ UN NEREIDIEN (PLATYNEREIS DUMERILII AUD ET M EDW ANNELIDE POLYCHETE).** COMPTES RENDUS HEBDOMADAIRES DES SEANCES DE L ACADEMIE DES SCIENCES SERIE 1967;264(18).
+
+### 1966
+
+Hauenschild C. **Der hormonale Einfluss des Gehirns auf die sexuelle Entwicklung bei dem polychaeten Platynereis dumerilii.** General and Comparative Endocrinology 1966;6(1):26-73.
+
+Fischer A, Brökelmann J. **Das Auge von Platynereis dumerilii (Polychaeta): Sein Feinbau im ontogenetischen und adaptiven Wandel** [The eye of Platynereis dumerilii (Polychaeta): its fine structure in ontogenetic and adaptive change]. Z Zellforsch Mikrosk Anat. 1966;71(2):217-44. German. PMID: 4864472.
+
+Brökelmann J, Fischer A. **Uber die Cuticula von Platynereis Dumerilii (Polychaeta)** [On the cuticle of Platynereis Dumerilii (Polychaeta)]. Z Zellforsch Mikrosk Anat. 1966;70(2):131-5. German. doi: 10.1007/BF00335669. PMID: 5987160.
+
+### 1965
+
+Fischer A. **Uber die Chromatophoren und den Farbwechsel bei dem Polychaeten Platynereis dumerilii.** Z Zellforsch Mikrosk Anat. 1965;65(2).
+
+### 1964
+
+Hauenschild C. **LINFLUENCE DE LHORMONE DU CERVEAU SUR LE DEVELOPPEMENT POSTEMBRYONNAIRE DE PLATYNEREIS DUMERILLI**  ANNALES D ENDOCRINOLOGIE 1964;25(5S).
+
+Lindner E, Fischer A. **Zur Feinstruktur nereider und heteronereider Muskulatur von Platynereis dumerillii}** Naturwissenschaften 1964;51(17).
+
+### 1963
+
+FISCHER A. **UBER DEN BAU UND DIE HELL-DUNKEL-ADAPTATION DER AUGEN DES POLYCHAETEN PLATYNEREIS DUMERILII.** [ON THE STRUCTURE AND LIGHT-DARK ADAPTATION OF THE EYES OF THE POLYCHAETE PLATYNEREIS DUMERILII]. Z Zellforsch Mikrosk Anat. 1963 Nov 21;61:338-53. German. PMID: 14104679.
+
+### 1961
+
+Hauenschild C. **DIE SCHWARMPERIODIZITAT VON PLATYNEREIS DUMERILII IM DD/LD-BELICHTUNGSZYKLUS UND NACH AUGENAUSSCHALTUNG**  ZEITSCHRIFT FUR NATURFORSCHUNG PART B-CHEMIE BIOCHEMIE BIOPHYSIK BIOLOGIE UND VERWANDTEN GEBIETE 1961;B16(11).
+
+### 1960
+
+Hauenschild C. **ABHANGIGKEIT DER REGENERATIONSLEISTUNG VON DER INNEREN SEKRETION IM PROSTOMIUM BEI PLATYNEREIS-DUMERILII.** ZEITSCHRIFT FUR NATURFORSCHUNG PART B-CHEMIE BIOCHEMIE BIOPHYSIK BIOLOGIE UND VERWANDTEN GEBIETE 1960;15(1):52-55.
+
+
 
 
 
