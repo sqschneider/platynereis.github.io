@@ -5,4 +5,4 @@
 
 
 Over many years, culturing of *Platynereis* has been perfected and adapted to the needs of the lab. A scale
-able culturing system has been published by the [Özplot lab](labs.md#özplot-lab)
+able culturing system has been published by the [Özplot lab](labs.md)(#özplot-lab)
