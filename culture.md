@@ -9,4 +9,4 @@ The [culturing protocol](https://github.com/platynereis/resources/blob/main/Fisc
 
 ## Further developments and improvements
 
-The [Özplot lab](labs.md|#özplot-lab) developed a scaleable and movable culturing system, which is especially advantagous for small lab space [(Kuehn et al. 2019)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226156). Furthermore, the standardized feeding method guaranteed robust and comparable conditions. 
+The [Özplot lab](labs.md#özplot-lab) developed a scaleable and movable culturing system, which is especially advantagous for small lab space [(Kuehn et al. 2019)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0226156). Furthermore, the standardized feeding method guaranteed robust and comparable conditions. 
