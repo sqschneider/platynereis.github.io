@@ -1,7 +1,7 @@
 # Literature
 [**Back to Homepage**](index.md)
 
-[2021](#2021)/ [2020](#2020)/ [2019](#2019)/ [2018](#2018)/ [2017](#2017)/ [2016](#2016)/ [2015](#2015)/ [2014](#2014)/ [2013](#2013)/ [2012](#2012)/ [2011](#2011)/ [2010](#2010)/ [2009](#2009)/ [2008](#2008)/ [2007](#2007)/ [2006](#2006)/ [2005](#2005)/ [2004](#2004)/ [2003](#2003)/ [2002](#2002)/ [2001](#2001)/ [2000](#2000)
+[2021](#2021)/ [2020](#2020)/ [2019](#2019)/ [2018](#2018)/ [2017](#2017)/ [2016](#2016)/ [2015](#2015)/ [2014](#2014)/ [2013](#2013)/ [2012](#2012)/ [2011](#2011)/ [2010](#2010)/ [2009](#2009)/ [2008](#2008)/ [2007](#2007)/ [2006](#2006)/ [2005](#2005)/ [2004](#2004)/ [2003](#2003)/ [2002](#2002)/ [2001](#2001)/ [2000](#2000)/ [1999](#1999)/ [1998](#1998)
 
 ### 2021
 
@@ -303,6 +303,10 @@ Arendt D, Tessmar K, de Campos-Baptista MI, Dorresteijn A, Wittbrodt J. **Develo
 
 Prud'homme B, Lartillot N, Balavoine G, Adoutte A, Vervoort M. **Phylogenetic analysis of the Wnt gene family. Insights from lophotrochozoan members.** Curr Biol. 2002 Aug 20;12(16):1395. doi: 10.1016/s0960-9822(02)01068-0. PMID: 12194820.
 
+Hagger JA, Fisher AS, Hill SJ, Depledge MH, Jha AN. **Genotoxic, cytotoxic and ontogenetic effects of tri-n-butyltin on the marine worm, Platynereis dumerilii (Polychaeta: Nereidae).** Aquat Toxicol. 2002 Jun;57(4):243-55. doi: 10.1016/s0166-445x(01)00200-4. PMID: 11932004.
+
+Giangrande A, Fraschetti S, Terlizzi, A **Local recruitment differences in Platynereis dumerilii (Polychaeta, Nereididae) and their consequences for population structure** Ital. J. Zool. 2002;69(2):133-139. doi: 10.1080/11250000209356450.
+
 ### 2001
 
 Boore JL. **Complete mitochondrial genome sequence of the polychaete annelid Platynereis dumerilii.** Mol Biol Evol. 2001 Jul;18(7):1413-6. doi: 10.1093/oxfordjournals.molbev.a003925. PMID: 11420379.
@@ -312,4 +316,21 @@ Arendt D, Technau U, Wittbrodt J. **Evolution of the bilaterian larval foregut.*
 ### 2000
 
 Boore JL, Brown WM. **Mitochondrial genomes of Galathealinum, Helobdella, and Platynereis: sequence and gene arrangement comparisons indicate that Pogonophora is not a phylum and Annelida and Arthropoda are not sister taxa.** Mol Biol Evol. 2000 Jan;17(1):87-106. doi: 10.1093/oxfordjournals.molbev.a026241. PMID: 10666709.
+
+Gambi MC, Zupo V, Buia MC, Mazzella L. **Feeding ecology of Platynereis dumerilii (Audouin & Milne-Edwards) in the seagrass Posidonia oceanica system: The role of the epiphytic flora (Polychaeta, Nereididae)** Ophelia 2000 Dec;53(3):189-202. doi: 10.1080/00785326.2000.10409449.
+
+### 1999
+
+Rohl I, Schneider B, Schmidt B, Zeeck E. **L-Ovothiol A: The egg release pheromone of the marine polychaete Platynereis dumerilii: Annelida: Polychaeta** Zeitschrift für Naturforschung C 1999 Dec;54(12):1145-1147. 
+
+### 1998
+
+Palau-Casellas A, Hutchinson TH. **Acute toxicity of chlorinated organic chemicals to the embryos and larvae of the marine worm Platynereis dumerilii (Polychaeta : Nereidae)** Environ Toxicol Water Qual 1998 May;13(2):149-155. doi: 10.1002/(SICI)1098-2256(1998)13:2<149::AID-TOX6>3.0.CO;2-7.
+
+Hutchinson TH, Jha AN, Mackay JM, Elliott BM, Dixon DR. **Assessment of developmental effects, cytotoxicity and genotoxicity in the marine polychaete (Platynereis dumerilii) exposed to disinfected municipal sewage effluent** MUTATION RESEARCH-FUNDAMENTAL AND MOLECULAR MECHANISMS OF MUTAGENESIS 1998 Mar;399(1):97-108. doi: 10.1016/S0027-5107(97)00269-8.
+
+Hardege JD, Muller CT, Beckmann M, Hardege DB, Bentley MG. **Timing of reproduction in marine polychaetes: The role of sex pheromones** ECOSCIENCE 1998;5(3):395-404. doi: 10.1080/11956860.1998.11682477.
+
+Zeeck E, Harder T, Beckmann M. **Uric acid: The sperm-release pheromone of the marine polychaete Platynereis dumerilii** J. Chem. Ecol 1998 JAN;24(1):13-22. doi: 10.1023/A:1022328610423.
+
 
