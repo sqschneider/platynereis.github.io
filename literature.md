@@ -188,29 +188,29 @@ Rajasree V, Shankar CVS, Satheesh S, Punitha SMJ. **Biofilm inhibitory activity 
 
 ### 2013
 
-Conzelmann M, Williams EA, Krug K, Franz-Wachtel M, Macek B, Jékely G. **The neuropeptide complement of the marine annelid Platynereis dumerilii.** BMC Genomics. 2013 Dec 20;14:906. doi: 10.1186/1471-2164-14-906. PMID: 24359412; PMCID: PMC3890597.
+Conzelmann M, Williams EA, Krug K, Franz-Wachtel M, Macek B, Jékely G. **The neuropeptide complement of the marine annelid Platynereis dumerilii.** BMC Genomics. 2013 Dec 20;14:906. [doi: 10.1186/1471-2164-14-906](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-14-906). PMID: 24359412; PMCID: PMC3890597.
 
-Veedin-Rajan VB, Fischer RM, Raible F, Tessmar-Raible K. **Conditional and specific cell ablation in the marine annelid Platynereis dumerilii.** PLoS One. 2013 Sep 24;8(9):e75811. doi: 10.1371/journal.pone.0075811. PMID: 24086637; PMCID: PMC3782428.
+Veedin-Rajan VB, Fischer RM, Raible F, Tessmar-Raible K. **Conditional and specific cell ablation in the marine annelid Platynereis dumerilii.** PLoS One. 2013 Sep 24;8(9):e75811. [doi: 10.1371/journal.pone.0075811](https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0075811). PMID: 24086637; PMCID: PMC3782428.
 
-Simakov O, Larsson TA, Arendt D. **Linking micro- and macro-evolution at the cell type level: a view from the lophotrochozoan Platynereis dumerilii.** Brief Funct Genomics. 2013 Sep;12(5):430-9. doi: 10.1093/bfgp/els049. Epub 2012 Nov 20. PMID: 23172798.
+Simakov O, Larsson TA, Arendt D. **Linking micro- and macro-evolution at the cell type level: a view from the lophotrochozoan Platynereis dumerilii.** Brief Funct Genomics. 2013 Sep;12(5):430-9. [doi: 10.1093/bfgp/els049](https://pubmed.ncbi.nlm.nih.gov/23172798/). Epub 2012 Nov 20. PMID: 23172798.
 
-Randel N, Bezares-Calderón LA, Gühmann M, Shahidi R, Jékely G. **Expression dynamics and protein localization of rhabdomeric opsins in Platynereis larvae.** Integr Comp Biol. 2013 Jul;53(1):7-16. doi: 10.1093/icb/ict046. Epub 2013 May 10. PMID: 23667045; PMCID: PMC3687135.
+Randel N, Bezares-Calderón LA, Gühmann M, Shahidi R, Jékely G. **Expression dynamics and protein localization of rhabdomeric opsins in Platynereis larvae.** Integr Comp Biol. 2013 Jul;53(1):7-16. [doi: 10.1093/icb/ict046](https://pubmed.ncbi.nlm.nih.gov/23667045/). Epub 2013 May 10. PMID: 23667045; PMCID: PMC3687135.
 
-Conzelmann M, Williams EA, Tunaru S, Randel N, Shahidi R, Asadulina A, Berger J, Offermanns S, Jékely G. **Conserved MIP receptor-ligand pair regulates Platynereis larval settlement.** Proc Natl Acad Sci U S A. 2013 May 14;110(20):8224-9. doi: 10.1073/pnas.1220285110. Epub 2013 Apr 8. PMID: 23569279; PMCID: PMC3657792.
+Conzelmann M, Williams EA, Tunaru S, Randel N, Shahidi R, Asadulina A, Berger J, Offermanns S, Jékely G. **Conserved MIP receptor-ligand pair regulates Platynereis larval settlement.** Proc Natl Acad Sci U S A. 2013 May 14;110(20):8224-9. [doi: 10.1073/pnas.1220285110](https://www.pnas.org/content/110/20/8224.short). Epub 2013 Apr 8. PMID: 23569279; PMCID: PMC3657792.
 
-Demilly A, Steinmetz P, Gazave E, Marchand L, Vervoort M. **Involvement of the Wnt/β-catenin pathway in neurectoderm architecture in Platynereis dumerilii.** Nat Commun. 2013;4:1915. doi: 10.1038/ncomms2915. PMID: 23715274.
+Demilly A, Steinmetz P, Gazave E, Marchand L, Vervoort M. **Involvement of the Wnt/β-catenin pathway in neurectoderm architecture in Platynereis dumerilii.** Nat Commun. 2013;4:1915. [doi: 10.1038/ncomms2915](https://pubmed.ncbi.nlm.nih.gov/23715274/). PMID: 23715274.
 
-Backfisch B, Veedin Rajan VB, Fischer RM, Lohs C, Arboleda E, Tessmar-Raible K, Raible F. **Stable transgenesis in the marine annelid Platynereis dumerilii sheds new light on photoreceptor evolution.** Proc Natl Acad Sci U S A. 2013 Jan 2;110(1):193-8. doi: 10.1073/pnas.1209657109. Epub 2013 Jan 2. PMID: 23284166; PMCID: PMC3538230.
+Backfisch B, Veedin Rajan VB, Fischer RM, Lohs C, Arboleda E, Tessmar-Raible K, Raible F. **Stable transgenesis in the marine annelid Platynereis dumerilii sheds new light on photoreceptor evolution.** Proc Natl Acad Sci U S A. 2013 Jan 2;110(1):193-8. [doi: 10.1073/pnas.1209657109](https://www.pnas.org/content/110/1/193). Epub 2013 Jan 2. PMID: 23284166; PMCID: PMC3538230.
 
-Gazave E, Béhague J, Laplane L, Guillou A, Préau L, Demilly A, Balavoine G, Vervoort M. **Posterior elongation in the annelid Platynereis dumerilii involves stem cells molecularly related to primordial germ cells.** Dev Biol. 2013 Oct 1;382(1):246-67. doi: 10.1016/j.ydbio.2013.07.013. Epub 2013 Jul 25. PMID: 23891818.
+Gazave E, Béhague J, Laplane L, Guillou A, Préau L, Demilly A, Balavoine G, Vervoort M. **Posterior elongation in the annelid Platynereis dumerilii involves stem cells molecularly related to primordial germ cells.** Dev Biol. 2013 Oct 1;382(1):246-67. [doi: 10.1016/j.ydbio.2013.07.013](https://www.sciencedirect.com/science/article/pii/S0012160613003813). Epub 2013 Jul 25. PMID: 23891818.
 
-Fischer AH, Arendt D. **Mesoteloblast-like mesodermal stem cells in the polychaete annelid Platynereis dumerilii (Nereididae).** J Exp Zool B Mol Dev Evol. 2013 Mar;320(2):94-104. doi: 10.1002/jez.b.22486. Epub 2013 Feb 13. PMID: 23408594.
+Fischer AH, Arendt D. **Mesoteloblast-like mesodermal stem cells in the polychaete annelid Platynereis dumerilii (Nereididae).** J Exp Zool B Mol Dev Evol. 2013 Mar;320(2):94-104. [doi: 10.1002/jez.b.22486](https://onlinelibrary.wiley.com/doi/abs/10.1002/jez.b.22486). Epub 2013 Feb 13. PMID: 23408594.
 
-Pfeifer K, Schaub C, Wolfstetter G, Dorresteijn A. **Identification and characterization of a twist ortholog in the polychaete annelid Platynereis dumerilii reveals mesodermal expression of Pdu-twist.** Dev Genes Evol. 2013 Sep;223(5):319-28. doi: 10.1007/s00427-013-0448-6. Epub 2013 Jul 2. PMID: 23817621.
+Pfeifer K, Schaub C, Wolfstetter G, Dorresteijn A. **Identification and characterization of a twist ortholog in the polychaete annelid Platynereis dumerilii reveals mesodermal expression of Pdu-twist.** Dev Genes Evol. 2013 Sep;223(5):319-28. [doi: 10.1007/s00427-013-0448-6](https://pubmed.ncbi.nlm.nih.gov/23817621/). Epub 2013 Jul 2. PMID: 23817621.
 
-Zantke J, Ishikawa-Fujiwara T, Arboleda E, Lohs C, Schipany K, Hallay N, Straw AD, Todo T, Tessmar-Raible K. **Circadian and circalunar clock interactions in a marine annelid.** Cell Rep. 2013 Oct 17;5(1):99-113. doi: 10.1016/j.celrep.2013.08.031. Epub 2013 Sep 26. PMID: 24075994; PMCID: PMC3913041.
+Zantke J, Ishikawa-Fujiwara T, Arboleda E, Lohs C, Schipany K, Hallay N, Straw AD, Todo T, Tessmar-Raible K. **Circadian and circalunar clock interactions in a marine annelid.** Cell Rep. 2013 Oct 17;5(1):99-113. [doi: 10.1016/j.celrep.2013.08.031](https://pubmed.ncbi.nlm.nih.gov/24075994/). Epub 2013 Sep 26. PMID: 24075994; PMCID: PMC3913041.
 
-Yang M, Zhang X. **Comparative developmental toxicity of new aromatic halogenated DBPs in a chlorinated saline sewage effluent to the marine polychaete Platynereis dumerilii.** Environ Sci Technol. 2013 Oct 1;47(19):10868-76. doi: 10.1021/es401841t. Epub 2013 Sep 20. PMID: 24024886.
+Yang M, Zhang X. **Comparative developmental toxicity of new aromatic halogenated DBPs in a chlorinated saline sewage effluent to the marine polychaete Platynereis dumerilii.** Environ Sci Technol. 2013 Oct 1;47(19):10868-76. [doi: 10.1021/es401841t](https://pubmed.ncbi.nlm.nih.gov/24024886/). Epub 2013 Sep 20. PMID: 24024886.
 
 [[go to the top]](#literature)
 
