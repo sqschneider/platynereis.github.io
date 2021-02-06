@@ -432,33 +432,33 @@ ZEECK E, HARDEGE JD, BARTELSHARDEGE H, WILLIG A, WESSELMANN G. **Sex pheromones 
 
 ### 1990
 
-Sellos D, Krawetz SA, Dixon GH. **Organization and complete nucleotide sequence of the core-histone-gene cluster of the annelid Platynereis dumerilii.** Eur J Biochem. 1990 May 31;190(1):21-9. doi: 10.1111/j.1432-1033.1990.tb15540.x. PMID: 2194796.
+Sellos D, Krawetz SA, Dixon GH. **Organization and complete nucleotide sequence of the core-histone-gene cluster of the annelid Platynereis dumerilii.** Eur J Biochem. 1990 May 31;190(1):21-9. [doi: 10.1111/j.1432-1033.1990.tb15540.x](https://febs.onlinelibrary.wiley.com/doi/abs/10.1111/j.1432-1033.1990.tb15540.x). PMID: 2194796.
 
-Dorresteijn AW. **Quantitative analysis of cellular differentiation during early embryogenesis of Platynereis dumerilii.** Rouxs Arch Dev Biol. 1990 Jul;199(1):14-30. doi: 10.1007/BF01681530. PMID: 28305527.
+Dorresteijn AW. **Quantitative analysis of cellular differentiation during early embryogenesis of Platynereis dumerilii.** Rouxs Arch Dev Biol. 1990 Jul;199(1):14-30. [doi: 10.1007/BF01681530](https://pubmed.ncbi.nlm.nih.gov/28305527/). PMID: 28305527.
 
-Zeeck E, Hardege JD, Bartels-Hardege H, Wesselmann G. **Potential sex pheromone in Platynereis dumerilii - identification and synthesis.** Tetrahedron Letters 1990;31(39):5613-5614. doi: 10.1016/S0040-4039(00)97910-3.
+Zeeck E, Hardege JD, Bartels-Hardege H, Wesselmann G. **Potential sex pheromone in Platynereis dumerilii - identification and synthesis.** Tetrahedron Letters 1990;31(39):5613-5614. [doi: 10.1016/S0040-4039(00)97910-3](https://www.sciencedirect.com/science/article/pii/S0040403900979103).
 
 [[go to the top]](#literature)
 
 ### 1989
 
-Schulz G, Ulbrich KP, Hauenschild C, Pfannenstiel HD. **The atokous-epitokous border is determined before the onset of heteronereid development in Platynereis dumerilii (Annelida, Polychaeta).** Rouxs Arch Dev Biol. 1989 May;198(1):29-33. doi: 10.1007/BF00376367. PMID: 28305780.
+Schulz G, Ulbrich KP, Hauenschild C, Pfannenstiel HD. **The atokous-epitokous border is determined before the onset of heteronereid development in Platynereis dumerilii (Annelida, Polychaeta).** Rouxs Arch Dev Biol. 1989 May;198(1):29-33. [doi: 10.1007/BF00376367](https://pubmed.ncbi.nlm.nih.gov/28305780/). PMID: 28305780.
 
-Grant A. **The reproductive cycle of Platynereis dumerilii (Audouin & Milne-Edwards) (Polychaeta: Nereidae) from the firth of clyde** Sarsia 1989;74920:79-84. doi: 10.1080/00364827.1989.10420524.
+Grant A. **The reproductive cycle of Platynereis dumerilii (Audouin & Milne-Edwards) (Polychaeta: Nereidae) from the firth of clyde** Sarsia 1989;74920:79-84. [doi: 10.1080/00364827.1989.10420524](https://www.tandfonline.com/doi/abs/10.1080/00364827.1989.10420524).
 
 [[go to the top]](#literature)
 
 ### 1987
 
-Dorresteijn AW, Bornewasser H, Fischer A. **A correlative study of experimentally changed first cleavage and Janus development in the trunk of Platynereis dumerilii (Annelida, Polychaeta).** Rouxs Arch Dev Biol. 1987 Jan;196(1):51-58. doi: 10.1007/BF00376021. PMID: 28305659.
+Dorresteijn AW, Bornewasser H, Fischer A. **A correlative study of experimentally changed first cleavage and Janus development in the trunk of Platynereis dumerilii (Annelida, Polychaeta).** Rouxs Arch Dev Biol. 1987 Jan;196(1):51-58. [doi: 10.1007/BF00376021](https://link.springer.com/article/10.1007%2FBF00376021). PMID: 28305659.
 
 [[go to the top]](#literature)
 
 ### 1986
 
-Sellos D. **Fractionation by high-performance liquid chromatography and characterization of the highly related protamines from the sperm of the marine worm Platynereis dumerilii.** FEBS Letters 1986;202(2):211-216. doi: 10.1016/0014-5793(86)80689-5.
+Sellos D. **Fractionation by high-performance liquid chromatography and characterization of the highly related protamines from the sperm of the marine worm Platynereis dumerilii.** FEBS Letters 1986;202(2):211-216. [doi: 10.1016/0014-5793(86)80689-5](https://www.sciencedirect.com/science/article/pii/0014579386806895).
 
-Evans SM, Downie PJ. **Decision-making processes in the polychaete Platynereis dumerilii.** Animal Behaviour 1986;34(2):472-479. doi 10.1016/S0003-3472(86)80116-6.
+Evans SM, Downie PJ. **Decision-making processes in the polychaete Platynereis dumerilii.** Animal Behaviour 1986;34(2):472-479. [doi 10.1016/S0003-3472(86)80116-6](https://www.sciencedirect.com/science/article/pii/S0003347286801166).
 
 [[go to the top]](#literature)
 
@@ -468,7 +468,7 @@ Sellos D, Kmiécik D. **Characterization of the histones and protamines from the
 
 Bedford AP, Moore PG. **Macrofaunal involvement in the sublittoral decay of kelp debris: the polychaete Platynereis dumerilii (Audouin and Milne-Edwards) (Annelida: Polychaeta).** Estuar. Coast. Shelf Sci. 1985;20(2):117-134.
 
-Kmiecik D, Sellos D, Belaïche D, Sautiere P. **Primary structure of the two variants of a sperm-specific histone H1 from the annelid Platynereis dumerilii.** Eur J Biochem. 1985 Jul 15;150(2):359-70. doi: 10.1111/j.1432-1033.1985.tb09028.x. PMID: 4018088.
+Kmiecik D, Sellos D, Belaïche D, Sautiere P. **Primary structure of the two variants of a sperm-specific histone H1 from the annelid Platynereis dumerilii.** Eur J Biochem. 1985 Jul 15;150(2):359-70. [doi: 10.1111/j.1432-1033.1985.tb09028.x](https://febs.onlinelibrary.wiley.com/doi/full/10.1111/j.1432-1033.1985.tb09028.x). PMID: 4018088.
 
 [[go to the top]](#literature)
 
@@ -505,25 +505,25 @@ Hofmann DK. **Regeneration and Endocrinology in polychaete Platynereis dumerilii
 
 Fischer A. **Structure of symplasmic early oocytes and their enveloping sheath cells in polychaete, Platynereis dumerilii.** Cell Tissue Res. 1975;160(3):327-343.
 
-Hofmann DK. **Prostomial regeneration in the polychaetePlatynereis dumerilii (Audouin et Milne-Edwards) (Annelida).** Wilehm Roux Arch Dev Biol. 1975 Dec;177(4):309-322. doi: 10.1007/BF00848182. PMID: 28304999.
+Hofmann DK. **Prostomial regeneration in the polychaete Platynereis dumerilii (Audouin et Milne-Edwards) (Annelida).** Wilehm Roux Arch Dev Biol. 1975 Dec;177(4):309-322. [doi: 10.1007/BF00848182](https://pubmed.ncbi.nlm.nih.gov/28304999/). PMID: 28304999.
 
 [[go to the top]](#literature)
 
 ### 1974
 
-Fischer A. **Stages and stage distribution in early oogenesis in the Annelid, Platynereis dumerilii.** Cell Tissue Res. 1974;156(1):35-45. doi: 10.1007/BF00220100. PMID: 4616751.
+Fischer A. **Stages and stage distribution in early oogenesis in the Annelid, Platynereis dumerilii.** Cell Tissue Res. 1974;156(1):35-45. [doi: 10.1007/BF00220100](https://pubmed.ncbi.nlm.nih.gov/4616751/). PMID: 4616751.
 
 Hauenschild C. **Normalization of sexual development in headless fragments of young female Platynereis dumerilii (Polychaeta) due to treatment with preserved protostomia of juvenile specimens.** HELGOLANDER WISSENSCHAFTLICHE MEERESUNTERSUCHUNGEN 1974;26(1):63-81.
 
 Boillyma Y. **Experimental study on nuptial behavior of Platynereis dumerilii (Annelida-Polychaeta) - Chemoreception, emission of genital products.** Mar Biol 1974;24(2):167-179.
 
-Fischer A. **Activity of a gene in transplanted oocytes in the annelid, Platynereis.** Wilhelm Roux Arch Entwickl Mech Org. 1974 Sep;174(3):250-251. doi: 10.1007/BF00573228. PMID: 28304851.
+Fischer A. **Activity of a gene in transplanted oocytes in the annelid, Platynereis.** Wilhelm Roux Arch Entwickl Mech Org. 1974 Sep;174(3):250-251. [doi: 10.1007/BF00573228](https://pubmed.ncbi.nlm.nih.gov/28304851/). PMID: 28304851.
 
 [[go to the top]](#literature)
 
 ### 1973
 
-Müller WA. **Autoradiographische Untersuchungen über die synthetische Aktivität neurosektrotorischer Zellen im Gehirn von Platynereis dumerilii während der sexuellen Entwicklung und Regeneration** [Autoradiographic studies on the synthetic activity of neurosecretory cells in the brain of Platynereis dumerilii during sexual development and regeneration]. Z Zellforsch Mikrosk Anat. 1973 Jun 7;139(4):487-510. German. PMID: 4724528.
+Müller WA. **Autoradiographische Untersuchungen über die synthetische Aktivität neurosektrotorischer Zellen im Gehirn von Platynereis dumerilii während der sexuellen Entwicklung und Regeneration** [Autoradiographic studies on the synthetic activity of neurosecretory cells in the brain of Platynereis dumerilii during sexual development and regeneration]. Z Zellforsch Mikrosk Anat. 1973 Jun 7;139(4):487-510. German. [PMID: 4724528](https://pubmed.ncbi.nlm.nih.gov/4724528/).
 
 [[go to the top]](#literature)
 
@@ -549,7 +549,7 @@ Boillymarer Y. **Experimental researchs on nuptial dance in Platynereis dumerili
 
 Boillymarer Y. **Isolation of substance responsible for onset of nuptial dance and emission of sexual products in Platynereis dumerilii Aud and M Edw (Polychaeta Annelid).**  COMPTES RENDUS HEBDOMADAIRES DES SEANCES DE L ACADEMIE DES SCIENCES SERIE D 1969:268(1).
 
-Fischer A. **Eine Pigmentmangelmutante bei dem Polychaeten Platynereis dumerilii** [A pigment deficient mutant in the polychaete Platynereis dumerilii]. Mol Gen Genet. 1969 Aug 15;104(4):360-70. German. doi: 10.1007/BF00334235. PMID: 5367411.
+Fischer A. **Eine Pigmentmangelmutante bei dem Polychaeten Platynereis dumerilii** [A pigment deficient mutant in the polychaete Platynereis dumerilii]. Mol Gen Genet. 1969 Aug 15;104(4):360-70. German. [doi: 10.1007/BF00334235](https://link.springer.com/article/10.1007/BF00334235). PMID: 5367411.
 
 Cazaux C, Labourg PJ. **Swarming of Platynereis dumerilii in Bassin of Arachon.** VIE ET MILIEU SERIE A-BIOLOGIE MARINE 1969;20(3).
 
@@ -567,7 +567,7 @@ Hauenschild C. **Der hormonale Einfluss des Gehirns auf die sexuelle Entwicklung
 
 Fischer A, Brökelmann J. **Das Auge von Platynereis dumerilii (Polychaeta): Sein Feinbau im ontogenetischen und adaptiven Wandel** [The eye of Platynereis dumerilii (Polychaeta): its fine structure in ontogenetic and adaptive change]. Z Zellforsch Mikrosk Anat. 1966;71(2):217-44. German. PMID: 4864472.
 
-Brökelmann J, Fischer A. **Uber die Cuticula von Platynereis Dumerilii (Polychaeta)** [On the cuticle of Platynereis Dumerilii (Polychaeta)]. Z Zellforsch Mikrosk Anat. 1966;70(2):131-5. German. doi: 10.1007/BF00335669. PMID: 5987160.
+Brökelmann J, Fischer A. **Uber die Cuticula von Platynereis Dumerilii (Polychaeta)** [On the cuticle of Platynereis Dumerilii (Polychaeta)]. Z Zellforsch Mikrosk Anat. 1966;70(2):131-5. German. [doi: 10.1007/BF00335669](https://link.springer.com/article/10.1007/BF00335669). PMID: 5987160.
 
 [[go to the top]](#literature)
 
