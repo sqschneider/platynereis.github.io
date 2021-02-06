@@ -14,15 +14,15 @@ Veedin Rajan VB, Häfker NS, Arboleda E, Poehn B, Gossenreiter T, Gerrard E, Hof
 
 ### 2020
 
-Andreatta G, Broyart C, Borghgraef C, Vadiwala K, Kozin V, Polo A, Bileck A, Beets I, Schoofs L, Gerner C, Raible F. **Corazonin signaling integrates energy homeostasis and lunar phase to regulate aspects of growth and sexual maturation in Platynereis.** Proc Natl Acad Sci U S A. 2020 Jan 14;117(2):1097-1106. doi: 10.1073/pnas.1910262116. Epub 2019 Dec 16. PMID: 31843923; PMCID: PMC6969523.
+Andreatta G, Broyart C, Borghgraef C, Vadiwala K, Kozin V, Polo A, Bileck A, Beets I, Schoofs L, Gerner C, Raible F. **Corazonin signaling integrates energy homeostasis and lunar phase to regulate aspects of growth and sexual maturation in Platynereis.** Proc Natl Acad Sci U S A. 2020 Jan 14;117(2):1097-1106. [doi: 10.1073/pnas.1910262116](https://pubmed.ncbi.nlm.nih.gov/31843923/). Epub 2019 Dec 16. PMID: 31843923; PMCID: PMC6969523.
 
-Song S, Starunov V, Bailly X, Ruta C, Kerner P, Cornelissen AJM, Balavoine G. **Globins in the marine annelid Platynereis dumerilii shed new light on hemoglobin evolution in bilaterians.** BMC Evol Biol. 2020 Dec 29;20(1):165. doi: 10.1186/s12862-020-01714-4. PMID: 33371890; PMCID: PMC7771090.
+Song S, Starunov V, Bailly X, Ruta C, Kerner P, Cornelissen AJM, Balavoine G. **Globins in the marine annelid Platynereis dumerilii shed new light on hemoglobin evolution in bilaterians.** BMC Evol Biol. 2020 Dec 29;20(1):165. [doi: 10.1186/s12862-020-01714-4](https://pubmed.ncbi.nlm.nih.gov/33371890/). PMID: 33371890; PMCID: PMC7771090.
 
-Marinković M, Berger J, Jékely G. **Neuronal coordination of motile cilia in locomotion and feeding.** Philos Trans R Soc Lond B Biol Sci. 2020 Feb 17;375(1792):20190165. doi: 10.1098/rstb.2019.0165. Epub 2019 Dec 30. PMID: 31884921; PMCID: PMC7017327.
+Marinković M, Berger J, Jékely G. **Neuronal coordination of motile cilia in locomotion and feeding.** Philos Trans R Soc Lond B Biol Sci. 2020 Feb 17;375(1792):20190165. [doi: 10.1098/rstb.2019.0165](https://pubmed.ncbi.nlm.nih.gov/31884921/). Epub 2019 Dec 30. PMID: 31884921; PMCID: PMC7017327.
 
-Pende M, Vadiwala K, Schmidbaur H, Stockinger AW, Murawala P, Saghafi S, Dekens MPS, Becker K, Revilla-I-Domingo R, Papadopoulos SC, Zurl M, Pasierbek P, Simakov O, Tanaka EM, Raible F, Dodt HU. **A versatile depigmentation, clearing, and labeling method for exploring nervous system diversity.** Sci Adv. 2020 May 29;6(22):eaba0365. doi: 10.1126/sciadv.aba0365. PMID: 32523996; PMCID: PMC7259959.
+Pende M, Vadiwala K, Schmidbaur H, Stockinger AW, Murawala P, Saghafi S, Dekens MPS, Becker K, Revilla-I-Domingo R, Papadopoulos SC, Zurl M, Pasierbek P, Simakov O, Tanaka EM, Raible F, Dodt HU. **A versatile depigmentation, clearing, and labeling method for exploring nervous system diversity.** Sci Adv. 2020 May 29;6(22):eaba0365. [doi: 10.1126/sciadv.aba0365](https://pubmed.ncbi.nlm.nih.gov/32523996/). PMID: 32523996; PMCID: PMC7259959.
 
-Kara J, Santos CSG, Macdonald AHH, Simon CA **Resolving the taxonomic identities and genetic structure of two cryptic Platynereis Kinberg species from South Africa** Invertebrate Systematic 2020; 34(6):618-636. doi: 10.1071/IS19072
+Kara J, Santos CSG, Macdonald AHH, Simon CA **Resolving the taxonomic identities and genetic structure of two cryptic Platynereis Kinberg species from South Africa** Invertebrate Systematic 2020; 34(6):618-636. [doi: 10.1071/IS19072](https://bioone.org/journals/invertebrate-systematics/volume-34/issue-6/IS19072/Resolving-the-taxonomic-identities-and-genetic-structure-of-two-cryptic/10.1071/IS19072.short).
 
 [[go to the top]](#literature)
 
