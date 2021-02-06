@@ -3,9 +3,7 @@
 
 # Databases
 
-[**Back to Homepage**](index.md)
-
-[Back to Resources](resources.md)
+[**Back to Homepage**](index.md)/ [Resources](resources.md)
 
 
 Openly accessible [Imaging](#imaging) and [Genome and transcriptome](#genome-and-transcriptome) databases. 
