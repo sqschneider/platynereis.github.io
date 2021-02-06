@@ -5,7 +5,5 @@
 
 [Databases](database.md)
 
-[Genome/ transcriptome](genome.md)
-
 [Protocols](protocol.md)
 
