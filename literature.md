@@ -308,61 +308,61 @@ Hui JHL, Kortchagina N, Arendt D, Balavoine G, Ferrier DEK. **Duplication of the
 
 ### 2006
 
-Kerner P, Zelada González F, Le Gouar M, Ledent V, Arendt D, Vervoort M. **The expression of a hunchback ortholog in the polychaete annelid Platynereis dumerilii suggests an ancestral role in mesoderm development and neurogenesis.** Dev Genes Evol. 2006 Dec;216(12):821-8. doi: 10.1007/s00427-006-0100-9. Epub 2006 Sep 16. PMID: 16983541.
+Kerner P, Zelada González F, Le Gouar M, Ledent V, Arendt D, Vervoort M. **The expression of a hunchback ortholog in the polychaete annelid Platynereis dumerilii suggests an ancestral role in mesoderm development and neurogenesis.** Dev Genes Evol. 2006 Dec;216(12):821-8. [doi: 10.1007/s00427-006-0100-9](https://pubmed.ncbi.nlm.nih.gov/16983541/). Epub 2006 Sep 16. PMID: 16983541.
 
 [[go to the top]](#literature)
 
 ### 2005
 
-Raible F, Tessmar-Raible K, Osoegawa K, Wincker P, Jubin C, Balavoine G, Ferrier D, Benes V, de Jong P, Weissenbach J, Bork P, Arendt D. **Vertebrate-type intron-rich genes in the marine annelid Platynereis dumerilii.** Science. 2005 Nov 25;310(5752):1325-6. doi: 10.1126/science.1119089. PMID: 16311335.
+Raible F, Tessmar-Raible K, Osoegawa K, Wincker P, Jubin C, Balavoine G, Ferrier D, Benes V, de Jong P, Weissenbach J, Bork P, Arendt D. **Vertebrate-type intron-rich genes in the marine annelid Platynereis dumerilii.** Science. 2005 Nov 25;310(5752):1325-6. [doi: 10.1126/science.1119089](https://pubmed.ncbi.nlm.nih.gov/16311335/). PMID: 16311335.
 
-Ackermann C, Dorresteijn A, Fischer A. **Clonal domains in postlarval Platynereis dumerilii (Annelida: Polychaeta).** J Morphol. 2005 Dec;266(3):258-80. doi: 10.1002/jmor.10375. PMID: 16170805.
+Ackermann C, Dorresteijn A, Fischer A. **Clonal domains in postlarval Platynereis dumerilii (Annelida: Polychaeta).** J Morphol. 2005 Dec;266(3):258-80. [doi: 10.1002/jmor.10375](https://pubmed.ncbi.nlm.nih.gov/16170805/). PMID: 16170805.
 
-de Rosa R, Prud'homme B, Balavoine G. **Caudal and even-skipped in the annelid Platynereis dumerilii and the ancestry of posterior growth.** Evol Dev. 2005 Nov-Dec;7(6):574-87. doi: 10.1111/j.1525-142X.2005.05061.x. PMID: 16336411.
+de Rosa R, Prud'homme B, Balavoine G. **Caudal and even-skipped in the annelid Platynereis dumerilii and the ancestry of posterior growth.** Evol Dev. 2005 Nov-Dec;7(6):574-87. [doi: 10.1111/j.1525-142X.2005.05061.x](https://pubmed.ncbi.nlm.nih.gov/16336411/). PMID: 16336411.
 
-Tessmar-Raible K, Steinmetz PR, Snyman H, Hassel M, Arendt D. **Fluorescent two-color whole mount in situ hybridization in Platynereis dumerilii (Polychaeta, Annelida), an emerging marine molecular model for evolution and development.** Biotechniques. 2005 Oct;39(4):460, 462, 464. doi: 10.2144/000112023. PMID: 16235555.
+Tessmar-Raible K, Steinmetz PR, Snyman H, Hassel M, Arendt D. **Fluorescent two-color whole mount in situ hybridization in Platynereis dumerilii (Polychaeta, Annelida), an emerging marine molecular model for evolution and development.** Biotechniques. 2005 Oct;39(4):460, 462, 464. [doi: 10.2144/000112023](https://pubmed.ncbi.nlm.nih.gov/16235555/). PMID: 16235555.
 
 [[go to the top]](#literature)
 
 ### 2004
 
-Fischer A, Dorresteijn A. **The polychaete Platynereis dumerilii (Annelida): a laboratory animal with spiralian cleavage, lifelong segment proliferation and a mixed benthic/pelagic life cycle.** Bioessays. 2004 Mar;26(3):314-25. doi: 10.1002/bies.10409. PMID: 14988933.
+Fischer A, Dorresteijn A. **The polychaete Platynereis dumerilii (Annelida): a laboratory animal with spiralian cleavage, lifelong segment proliferation and a mixed benthic/pelagic life cycle.** Bioessays. 2004 Mar;26(3):314-25. [doi: 10.1002/bies.10409](https://pubmed.ncbi.nlm.nih.gov/14988933/). PMID: 14988933.
 
-Arendt D, Tessmar-Raible K, Snyman H, Dorresteijn AW, Wittbrodt J. **Ciliary photoreceptors with a vertebrate-type opsin in an invertebrate brain.** Science. 2004 Oct 29;306(5697):869-71. doi: 10.1126/science.1099955. PMID: 15514158.
+Arendt D, Tessmar-Raible K, Snyman H, Dorresteijn AW, Wittbrodt J. **Ciliary photoreceptors with a vertebrate-type opsin in an invertebrate brain.** Science. 2004 Oct 29;306(5697):869-71. [doi: 10.1126/science.1099955](https://pubmed.ncbi.nlm.nih.gov/15514158/). PMID: 15514158.
 
 [[go to the top]](#literature)
 
 ### 2003
 
-Prud'homme B, de Rosa R, Arendt D, Julien JF, Pajaziti R, Dorresteijn AW, Adoutte A, Wittbrodt J, Balavoine G. **Arthropod-like expression patterns of engrailed and wingless in the annelid Platynereis dumerilii suggest a role in segment formation.** Curr Biol. 2003 Oct 28;13(21):1876-81. doi: 10.1016/j.cub.2003.10.006. PMID: 14588243.
+Prud'homme B, de Rosa R, Arendt D, Julien JF, Pajaziti R, Dorresteijn AW, Adoutte A, Wittbrodt J, Balavoine G. **Arthropod-like expression patterns of engrailed and wingless in the annelid Platynereis dumerilii suggest a role in segment formation.** Curr Biol. 2003 Oct 28;13(21):1876-81. [doi: 10.1016/j.cub.2003.10.006](https://pubmed.ncbi.nlm.nih.gov/14588243/). PMID: 14588243.
 
 [[go to the top]](#literature)
 
 ### 2002
 
-Arendt D, Tessmar K, de Campos-Baptista MI, Dorresteijn A, Wittbrodt J. **Development of pigment-cup eyes in the polychaete Platynereis dumerilii and evolutionary conservation of larval eyes in Bilateria.** Development. 2002 Mar;129(5):1143-54. PMID: 11874910.
+Arendt D, Tessmar K, de Campos-Baptista MI, Dorresteijn A, Wittbrodt J. **Development of pigment-cup eyes in the polychaete Platynereis dumerilii and evolutionary conservation of larval eyes in Bilateria.** Development. 2002 Mar;129(5):1143-54. [PMID: 11874910](https://pubmed.ncbi.nlm.nih.gov/11874910/).
 
-Prud'homme B, Lartillot N, Balavoine G, Adoutte A, Vervoort M. **Phylogenetic analysis of the Wnt gene family. Insights from lophotrochozoan members.** Curr Biol. 2002 Aug 20;12(16):1395. doi: 10.1016/s0960-9822(02)01068-0. PMID: 12194820.
+Prud'homme B, Lartillot N, Balavoine G, Adoutte A, Vervoort M. **Phylogenetic analysis of the Wnt gene family. Insights from lophotrochozoan members.** Curr Biol. 2002 Aug 20;12(16):1395. [doi: 10.1016/s0960-9822(02)01068-0](https://pubmed.ncbi.nlm.nih.gov/12194820/). PMID: 12194820.
 
-Hagger JA, Fisher AS, Hill SJ, Depledge MH, Jha AN. **Genotoxic, cytotoxic and ontogenetic effects of tri-n-butyltin on the marine worm, Platynereis dumerilii (Polychaeta: Nereidae).** Aquat Toxicol. 2002 Jun;57(4):243-55. doi: 10.1016/s0166-445x(01)00200-4. PMID: 11932004.
+Hagger JA, Fisher AS, Hill SJ, Depledge MH, Jha AN. **Genotoxic, cytotoxic and ontogenetic effects of tri-n-butyltin on the marine worm, Platynereis dumerilii (Polychaeta: Nereidae).** Aquat Toxicol. 2002 Jun;57(4):243-55. [doi: 10.1016/s0166-445x(01)00200-4](https://www.sciencedirect.com/science/article/pii/S0166445X01002004). PMID: 11932004.
 
-Giangrande A, Fraschetti S, Terlizzi, A **Local recruitment differences in Platynereis dumerilii (Polychaeta, Nereididae) and their consequences for population structure** Ital. J. Zool. 2002;69(2):133-139. doi: 10.1080/11250000209356450.
+Giangrande A, Fraschetti S, Terlizzi, A **Local recruitment differences in Platynereis dumerilii (Polychaeta, Nereididae) and their consequences for population structure** Ital. J. Zool. 2002;69(2):133-139. [doi: 10.1080/11250000209356450](https://www.tandfonline.com/doi/abs/10.1080/11250000209356450).
 
 [[go to the top]](#literature)
 
 ### 2001
 
-Boore JL. **Complete mitochondrial genome sequence of the polychaete annelid Platynereis dumerilii.** Mol Biol Evol. 2001 Jul;18(7):1413-6. doi: 10.1093/oxfordjournals.molbev.a003925. PMID: 11420379.
+Boore JL. **Complete mitochondrial genome sequence of the polychaete annelid Platynereis dumerilii.** Mol Biol Evol. 2001 Jul;18(7):1413-6. [doi: 10.1093/oxfordjournals.molbev.a003925](https://pubmed.ncbi.nlm.nih.gov/11420379/). PMID: 11420379.
 
-Arendt D, Technau U, Wittbrodt J. **Evolution of the bilaterian larval foregut.** Nature. 2001 Jan 4;409(6816):81-5. doi: 10.1038/35051075. PMID: 11343117.
+Arendt D, Technau U, Wittbrodt J. **Evolution of the bilaterian larval foregut.** Nature. 2001 Jan 4;409(6816):81-5. [doi: 10.1038/35051075](https://pubmed.ncbi.nlm.nih.gov/11343117/). PMID: 11343117.
 
 [[go to the top]](#literature)
 
 ### 2000
 
-Boore JL, Brown WM. **Mitochondrial genomes of Galathealinum, Helobdella, and Platynereis: sequence and gene arrangement comparisons indicate that Pogonophora is not a phylum and Annelida and Arthropoda are not sister taxa.** Mol Biol Evol. 2000 Jan;17(1):87-106. doi: 10.1093/oxfordjournals.molbev.a026241. PMID: 10666709.
+Boore JL, Brown WM. **Mitochondrial genomes of Galathealinum, Helobdella, and Platynereis: sequence and gene arrangement comparisons indicate that Pogonophora is not a phylum and Annelida and Arthropoda are not sister taxa.** Mol Biol Evol. 2000 Jan;17(1):87-106. [doi: 10.1093/oxfordjournals.molbev.a026241](https://academic.oup.com/mbe/article/17/1/87/975573). PMID: 10666709.
 
-Gambi MC, Zupo V, Buia MC, Mazzella L. **Feeding ecology of Platynereis dumerilii (Audouin & Milne-Edwards) in the seagrass Posidonia oceanica system: The role of the epiphytic flora (Polychaeta, Nereididae)** Ophelia 2000 Dec;53(3):189-202. doi: 10.1080/00785326.2000.10409449.
+Gambi MC, Zupo V, Buia MC, Mazzella L. **Feeding ecology of Platynereis dumerilii (Audouin & Milne-Edwards) in the seagrass Posidonia oceanica system: The role of the epiphytic flora (Polychaeta, Nereididae)** Ophelia 2000 Dec;53(3):189-202. [doi: 10.1080/00785326.2000.10409449](10.1080/00785326.2000.10409449).
 
 [[go to the top]](#literature)
 
@@ -374,59 +374,59 @@ Rohl I, Schneider B, Schmidt B, Zeeck E. **L-Ovothiol A: The egg release pheromo
 
 ### 1998
 
-Palau-Casellas A, Hutchinson TH. **Acute toxicity of chlorinated organic chemicals to the embryos and larvae of the marine worm Platynereis dumerilii (Polychaeta : Nereidae)** Environ Toxicol Water Qual 1998 May;13(2):149-155. doi: 10.1002/(SICI)1098-2256(1998)13:2<149::AID-TOX6>3.0.CO;2-7.
+Palau-Casellas A, Hutchinson TH. **Acute toxicity of chlorinated organic chemicals to the embryos and larvae of the marine worm Platynereis dumerilii (Polychaeta : Nereidae)** Environ Toxicol Water Qual 1998 May;13(2):149-155. [doi: 10.1002/(SICI)1098-2256(1998)13:2<149::AID-TOX6>3.0.CO;2-7](https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1098-2256(1998)13:2%3C149::AID-TOX6%3E3.0.CO;2-7).
 
-Hutchinson TH, Jha AN, Mackay JM, Elliott BM, Dixon DR. **Assessment of developmental effects, cytotoxicity and genotoxicity in the marine polychaete (Platynereis dumerilii) exposed to disinfected municipal sewage effluent** MUTATION RESEARCH-FUNDAMENTAL AND MOLECULAR MECHANISMS OF MUTAGENESIS 1998 Mar;399(1):97-108. doi: 10.1016/S0027-5107(97)00269-8.
+Hutchinson TH, Jha AN, Mackay JM, Elliott BM, Dixon DR. **Assessment of developmental effects, cytotoxicity and genotoxicity in the marine polychaete (Platynereis dumerilii) exposed to disinfected municipal sewage effluent** MUTATION RESEARCH-FUNDAMENTAL AND MOLECULAR MECHANISMS OF MUTAGENESIS 1998 Mar;399(1):97-108. [doi: 10.1016/S0027-5107(97)00269-8](https://pubmed.ncbi.nlm.nih.gov/9635492/).
 
-Hardege JD, Muller CT, Beckmann M, Hardege DB, Bentley MG. **Timing of reproduction in marine polychaetes: The role of sex pheromones** ECOSCIENCE 1998;5(3):395-404. doi: 10.1080/11956860.1998.11682477.
+Hardege JD, Muller CT, Beckmann M, Hardege DB, Bentley MG. **Timing of reproduction in marine polychaetes: The role of sex pheromones** ECOSCIENCE 1998;5(3):395-404. [doi: 10.1080/11956860.1998.11682477](https://www.tandfonline.com/doi/abs/10.1080/11956860.1998.11682477).
 
-Zeeck E, Harder T, Beckmann M. **Uric acid: The sperm-release pheromone of the marine polychaete Platynereis dumerilii** J. Chem. Ecol 1998 JAN;24(1):13-22. doi: 10.1023/A:1022328610423.
+Zeeck E, Harder T, Beckmann M. **Uric acid: The sperm-release pheromone of the marine polychaete Platynereis dumerilii** J. Chem. Ecol 1998 JAN;24(1):13-22. [doi: 10.1023/A:1022328610423](https://link.springer.com/article/10.1023/A:1022328610423).
 
 [[go to the top]](#literature)
 
 ### 1997
 
-Jha AN, Hutchinson TH, Mackay JM, Elliott BM, Dixons DR. **Evaluation of the genotoxicity of municipal sewage effluent using the marine worm Platynereis dumerilii (Polychaeta: Nereidae)** MUTATION RESEARCH-GENETIC TOXICOLOGY AND ENVIRONMENTAL MUTAGENESIS 1997 Jul;391(3):179-188. doi: 10.1016/S1383-5718(97)00070-3.
+Jha AN, Hutchinson TH, Mackay JM, Elliott BM, Dixons DR. **Evaluation of the genotoxicity of municipal sewage effluent using the marine worm Platynereis dumerilii (Polychaeta: Nereidae)** MUTATION RESEARCH-GENETIC TOXICOLOGY AND ENVIRONMENTAL MUTAGENESIS 1997 Jul;391(3):179-188. [doi: 10.1016/S1383-5718(97)00070-3](https://pubmed.ncbi.nlm.nih.gov/9268043/).
 
 [[go to the top]](#literature)
 
 ### 1996
 
-Jha AN, Hutchinson TH, Mackay JM, Elliott BM, Dixons DR. **Development of an in vivo genotoxicity assay using the marine worm Platynereis dumerilii (Polychaeta: Nereidae)** MUTATION RESEARCH-ENVIRONMENTAL MUTAGENESIS AND RELATED SUBJECTS 1996 Feb;359(2):141-150. doi: 10.1016/S0165-1161(96)90260-5.
+Jha AN, Hutchinson TH, Mackay JM, Elliott BM, Dixons DR. **Development of an in vivo genotoxicity assay using the marine worm Platynereis dumerilii (Polychaeta: Nereidae)** MUTATION RESEARCH-ENVIRONMENTAL MUTAGENESIS AND RELATED SUBJECTS 1996 Feb;359(2):141-150. [doi: 10.1016/S0165-1161(96)90260-5](https://www.sciencedirect.com/science/article/pii/S0165116196902605).
 
 [[go to the top]](#literature)
 
 ### 1995
 
-JHA AN, HUTCHINSON TH, MACKAY JM, ELLIOTT BM, PASCOE PL, DIXON DR. **The chromosomes of Platynereis dumerilii (Polychaeta, Nereidae)** J. Mar. Biolog 1995 Aug;75(3):551-562. doi: 10.1017/S002531540003900X.
+JHA AN, HUTCHINSON TH, MACKAY JM, ELLIOTT BM, PASCOE PL, DIXON DR. **The chromosomes of Platynereis dumerilii (Polychaeta, Nereidae)** J. Mar. Biolog 1995 Aug;75(3):551-562. [doi: 10.1017/S002531540003900X](https://www.cambridge.org/core/journals/journal-of-the-marine-biological-association-of-the-united-kingdom/article/abs/chromosomes-of-platynereis-dumerilii-polychaeta-nereidae/DDFDD48E13CF9282D24BCD018C01345C).
 
-Kluge B, Lehmann-Greif M, Fischer A. **Long-lasting exocytosis and massive structural reorganisation in the egg periphery during cortical reaction in Platynereis dumerilii (Annelida, Polychaeta).** Zygote. 1995 May;3(2):141-56. doi: 10.1017/s0967199400002513. PMID: 7582916.
+Kluge B, Lehmann-Greif M, Fischer A. **Long-lasting exocytosis and massive structural reorganisation in the egg periphery during cortical reaction in Platynereis dumerilii (Annelida, Polychaeta).** Zygote. 1995 May;3(2):141-56. [doi: 10.1017/s0967199400002513](https://pubmed.ncbi.nlm.nih.gov/7582916/). PMID: 7582916.
 
 [[go to the top]](#literature)
 
 ### 1993
 
-Dorresteijn AW, O'Grady B, Fischer A, Porchet-Henneré E, Boilly-Marer Y. **Molecular specification of cell lines in the embryo of Platynereis (Annelida).** Rouxs Arch Dev Biol. 1993 May;202(5):260-269. doi: 10.1007/BF00363215. PMID: 28306038.
+Dorresteijn AW, O'Grady B, Fischer A, Porchet-Henneré E, Boilly-Marer Y. **Molecular specification of cell lines in the embryo of Platynereis (Annelida).** Rouxs Arch Dev Biol. 1993 May;202(5):260-269. [doi: 10.1007/BF00363215](https://pubmed.ncbi.nlm.nih.gov/28306038/). PMID: 28306038.
 
-Dorresteijn AW, Graffy C. **Competence of blastomeres for the expression of molecular tissue markers is acquired by diverse mechanisms in the embryo of Platynereis (Annelida).** Rouxs Arch Dev Biol. 1993 May;202(5):270-275. doi: 10.1007/BF00363216. PMID: 28306039.
+Dorresteijn AW, Graffy C. **Competence of blastomeres for the expression of molecular tissue markers is acquired by diverse mechanisms in the embryo of Platynereis (Annelida).** Rouxs Arch Dev Biol. 1993 May;202(5):270-275. [doi: 10.1007/BF00363216](https://pubmed.ncbi.nlm.nih.gov/28306039/). PMID: 28306039.
 
-Krawetz SA, Sellos D, Dixon GH. **Analysis of the core histone gene cluster of the annelid Platynereis dumerilii.** DNA Seq. 1993;4(1):29-35. doi: 10.3109/10425179309015619. PMID: 8312603.
+Krawetz SA, Sellos D, Dixon GH. **Analysis of the core histone gene cluster of the annelid Platynereis dumerilii.** DNA Seq. 1993;4(1):29-35. [doi: 10.3109/10425179309015619](https://pubmed.ncbi.nlm.nih.gov/8312603/). PMID: 8312603.
 
 [[go to the top]](#literature)
 
 ### 1992
 
-Schneider S, Fischer A, Dorresteijn AW. **A morphometric comparison of dissimilar early development in sibling species of Platynereis (Annelida, Polychaeta).** Rouxs Arch Dev Biol. 1992 Jun;201(4):243-256. doi: 10.1007/BF00188755. PMID: 28305848.
+Schneider S, Fischer A, Dorresteijn AW. **A morphometric comparison of dissimilar early development in sibling species of Platynereis (Annelida, Polychaeta).** Rouxs Arch Dev Biol. 1992 Jun;201(4):243-256. [doi: 10.1007/BF00188755](https://link.springer.com/article/10.1007%2FBF00188755). PMID: 28305848.
 
-Rhode B. **Development and differentiation of the eye in Platynereis dumerilii (Annelida, Polychaeta).** J Morphol. 1992 Apr;212(1):71-85. doi: 10.1002/jmor.1052120108. PMID: 29865584.
+Rhode B. **Development and differentiation of the eye in Platynereis dumerilii (Annelida, Polychaeta).** J Morphol. 1992 Apr;212(1):71-85. [doi: 10.1002/jmor.1052120108](https://pubmed.ncbi.nlm.nih.gov/29865584/). PMID: 29865584.
 
 [[go to the top]](#literature)
 
 ### 1991
 
-Dorresteijn AW, Eich P. **Experimental change of cytoplasmic composition can convert determination of blastomeres inPlatynereis dumerilii (Annelida, Polychaeta).** Rouxs Arch Dev Biol. 1991 Nov;200(6):342-351. doi: 10.1007/BF00665530. PMID: 28305909.
+Dorresteijn AW, Eich P. **Experimental change of cytoplasmic composition can convert determination of blastomeres inPlatynereis dumerilii (Annelida, Polychaeta).** Rouxs Arch Dev Biol. 1991 Nov;200(6):342-351. [doi: 10.1007/BF00665530](https://link.springer.com/article/10.1007/BF00665530). PMID: 28305909.
 
-ZEECK E, HARDEGE JD, BARTELSHARDEGE H, WILLIG A, WESSELMANN G. **Sex pheromones in a marine polychaete: Biologically active compounds from female Platynereis dumerilii** J. Exp. Zool. 1991 Oct;260(1):93-98. doi: 10.1002/jez.1402600112.
+ZEECK E, HARDEGE JD, BARTELSHARDEGE H, WILLIG A, WESSELMANN G. **Sex pheromones in a marine polychaete: Biologically active compounds from female Platynereis dumerilii** J. Exp. Zool. 1991 Oct;260(1):93-98. [doi: 10.1002/jez.1402600112](https://onlinelibrary.wiley.com/doi/abs/10.1002/jez.1402600112).
 
 [[go to the top]](#literature)
 
