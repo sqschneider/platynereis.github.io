@@ -122,31 +122,31 @@ Arendt D, Tosches MA, Marlow H. **From nerve net to nerve ring, nerve cord and b
 
 ### 2015
 
-Williams EA, Conzelmann M, Jékely G. **Myoinhibitory peptide regulates feeding in the marine annelid Platynereis.** Front Zool. 2015 Jan 7;12(1):1. doi: 10.1186/s12983-014-0093-6. PMID: 25628752; PMCID: PMC4307165.
+Williams EA, Conzelmann M, Jékely G. **Myoinhibitory peptide regulates feeding in the marine annelid Platynereis.** Front Zool. 2015 Jan 7;12(1):1. [doi: 10.1186/s12983-014-0093-6](https://pubmed.ncbi.nlm.nih.gov/25628752/). PMID: 25628752; PMCID: PMC4307165.
 
-Achim K, Pettit JB, Saraiva LR, Gavriouchkina D, Larsson T, Arendt D, Marioni JC. **High-throughput spatial mapping of single-cell RNA-seq data to tissue of origin.** Nat Biotechnol. 2015 May;33(5):503-9. doi: 10.1038/nbt.3209. Epub 2015 Apr 13. PMID: 25867922.
+Achim K, Pettit JB, Saraiva LR, Gavriouchkina D, Larsson T, Arendt D, Marioni JC. **High-throughput spatial mapping of single-cell RNA-seq data to tissue of origin.** Nat Biotechnol. 2015 May;33(5):503-9. [doi: 10.1038/nbt.3209](https://www.nature.com/articles/nbt.3209). Epub 2015 Apr 13. PMID: 25867922.
 
-Randel N, Shahidi R, Verasztó C, Bezares-Calderón LA, Schmidt S, Jékely G. **Inter-individual stereotypy of the Platynereis larval visual connectome.** Elife. 2015 Jun 10;4:e08069. doi: 10.7554/eLife.08069. PMID: 26061864; PMCID: PMC4477197.
+Randel N, Shahidi R, Verasztó C, Bezares-Calderón LA, Schmidt S, Jékely G. **Inter-individual stereotypy of the Platynereis larval visual connectome.** Elife. 2015 Jun 10;4:e08069. [doi: 10.7554/eLife.08069](https://elifesciences.org/articles/08069). PMID: 26061864; PMCID: PMC4477197.
 
-Bauknecht P, Jékely G. **Large-Scale Combinatorial Deorphanization of Platynereis Neuropeptide GPCRs.** Cell Rep. 2015 Jul 28;12(4):684-93. doi: 10.1016/j.celrep.2015.06.052. Epub 2015 Jul 16. PMID: 26190115.
+Bauknecht P, Jékely G. **Large-Scale Combinatorial Deorphanization of Platynereis Neuropeptide GPCRs.** Cell Rep. 2015 Jul 28;12(4):684-93. [doi: 10.1016/j.celrep.2015.06.052](https://pubmed.ncbi.nlm.nih.gov/26190115/). Epub 2015 Jul 16. PMID: 26190115.
 
-Gühmann M, Jia H, Randel N, Verasztó C, Bezares-Calderón LA, Michiels NK, Yokoyama S, Jékely G. **Spectral Tuning of Phototaxis by a Go-Opsin in the Rhabdomeric Eyes of Platynereis.** Curr Biol. 2015 Aug 31;25(17):2265-71. doi: 10.1016/j.cub.2015.07.017. Epub 2015 Aug 6. PMID: 26255845.
+Gühmann M, Jia H, Randel N, Verasztó C, Bezares-Calderón LA, Michiels NK, Yokoyama S, Jékely G. **Spectral Tuning of Phototaxis by a Go-Opsin in the Rhabdomeric Eyes of Platynereis.** Curr Biol. 2015 Aug 31;25(17):2265-71. [doi: 10.1016/j.cub.2015.07.017](https://pubmed.ncbi.nlm.nih.gov/26255845/). Epub 2015 Aug 6. PMID: 26255845.
 
-Wäge J, Hardege JD, Larsson TA, Simakov O, Chapman EC, Arendt D, Rotchell JM. **Effects of low seawater pH on the marine polychaete Platynereis dumerilii.** Mar Pollut Bull. 2015 Jun 15;95(1):166-72. doi: 10.1016/j.marpolbul.2015.04.027. Epub 2015 Apr 22. PMID: 25913791.
+Wäge J, Hardege JD, Larsson TA, Simakov O, Chapman EC, Arendt D, Rotchell JM. **Effects of low seawater pH on the marine polychaete Platynereis dumerilii.** Mar Pollut Bull. 2015 Jun 15;95(1):166-72. [doi: 10.1016/j.marpolbul.2015.04.027](https://pubmed.ncbi.nlm.nih.gov/25913791/). Epub 2015 Apr 22. PMID: 25913791.
 
-Bastin BR, Chou HC, Pruitt MM, Schneider SQ. **Structure, phylogeny, and expression of the frizzled-related gene family in the lophotrochozoan annelid Platynereis dumerilii.** Evodevo. 2015 Dec 4;6:37. doi: 10.1186/s13227-015-0032-4. PMID: 26640641; PMCID: PMC4669655.
+Bastin BR, Chou HC, Pruitt MM, Schneider SQ. **Structure, phylogeny, and expression of the frizzled-related gene family in the lophotrochozoan annelid Platynereis dumerilii.** Evodevo. 2015 Dec 4;6:37. [doi: 10.1186/s13227-015-0032-4](https://pubmed.ncbi.nlm.nih.gov/26640641/). PMID: 26640641; PMCID: PMC4669655.
 
-Ramanathan N, Simakov O, Merten CA, Arendt D. **Quantifying Preferences and Responsiveness of Marine Zooplankton to Changing Environmental Conditions using Microfluidics.** PLoS One. 2015 Oct 30;10(10):e0140553. doi: 10.1371/journal.pone.0140553. PMID: 26517120; PMCID: PMC4627805.
+Ramanathan N, Simakov O, Merten CA, Arendt D. **Quantifying Preferences and Responsiveness of Marine Zooplankton to Changing Environmental Conditions using Microfluidics.** PLoS One. 2015 Oct 30;10(10):e0140553. [doi: 10.1371/journal.pone.0140553](https://pubmed.ncbi.nlm.nih.gov/26517120/). PMID: 26517120; PMCID: PMC4627805.
 
-Starunov VV, Dray N, Belikova EV, Kerner P, Vervoort M, Balavoine G. **A metameric origin for the annelid pygidium?** BMC Evol Biol. 2015 Feb 25;15:25. doi: 10.1186/s12862-015-0299-z. PMID: 25880037; PMCID: PMC4357181.
+Starunov VV, Dray N, Belikova EV, Kerner P, Vervoort M, Balavoine G. **A metameric origin for the annelid pygidium?** BMC Evol Biol. 2015 Feb 25;15:25. [doi: 10.1186/s12862-015-0299-z](https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-015-0299-z). PMID: 25880037; PMCID: PMC4357181.
 
-Shahidi R, Williams EA, Conzelmann M, Asadulina A, Verasztó C, Jasek S, Bezares-Calderón LA, Jékely G. **A serial multiplex immunogold labeling method for identifying peptidergic neurons in connectomes.** Elife. 2015 Dec 15;4:e11147. doi: 10.7554/eLife.11147. PMID: 26670546; PMCID: PMC4749568.
+Shahidi R, Williams EA, Conzelmann M, Asadulina A, Verasztó C, Jasek S, Bezares-Calderón LA, Jékely G. **A serial multiplex immunogold labeling method for identifying peptidergic neurons in connectomes.** Elife. 2015 Dec 15;4:e11147. [doi: 10.7554/eLife.11147](https://elifesciences.org/articles/11147). PMID: 26670546; PMCID: PMC4749568.
 
-Hanswillemenke A, Kuzdere T, Vogel P, Jékely G, Stafforst T. **Site-Directed RNA Editing in Vivo Can Be Triggered by the Light-Driven Assembly of an Artificial Riboprotein.** J Am Chem Soc. 2015 Dec 23;137(50):15875-81. doi: 10.1021/jacs.5b10216. Epub 2015 Dec 10. PMID: 26594902; PMCID: PMC4731850.
+Hanswillemenke A, Kuzdere T, Vogel P, Jékely G, Stafforst T. **Site-Directed RNA Editing in Vivo Can Be Triggered by the Light-Driven Assembly of an Artificial Riboprotein.** J Am Chem Soc. 2015 Dec 23;137(50):15875-81. [doi: 10.1021/jacs.5b10216](https://pubmed.ncbi.nlm.nih.gov/26594902/). Epub 2015 Dec 10. PMID: 26594902; PMCID: PMC4731850.
 
-Asadulina A, Conzelmann M, Williams EA, Panzera A, Jékely G. **Object-based representation and analysis of light and electron microscopic volume data using Blender.** BMC Bioinformatics. 2015 Jul 25;16:229. doi: 10.1186/s12859-015-0652-7. PMID: 26208945; PMCID: PMC4513682.
+Asadulina A, Conzelmann M, Williams EA, Panzera A, Jékely G. **Object-based representation and analysis of light and electron microscopic volume data using Blender.** BMC Bioinformatics. 2015 Jul 25;16:229. [doi: 10.1186/s12859-015-0652-7](https://pubmed.ncbi.nlm.nih.gov/26208945/). PMID: 26208945; PMCID: PMC4513682.
 
-Ricevuto E, Vizzini S, Gambi MC. **Ocean acidification effects on stable isotope signatures and trophic interactions of polychaete consumers and organic matter sources at a CO2 shallow vent system** J. Exp. Mar. Biol. Ecol. 2015 Jul;468:105-117. doi: 10.1016/j.jembe.2015.03.016.
+Ricevuto E, Vizzini S, Gambi MC. **Ocean acidification effects on stable isotope signatures and trophic interactions of polychaete consumers and organic matter sources at a CO2 shallow vent system** J. Exp. Mar. Biol. Ecol. 2015 Jul;468:105-117. [doi: 10.1016/j.jembe.2015.03.016](https://www.infona.pl/resource/bwmeta1.element.elsevier-f5b58810-4f48-3d26-a147-4ecf93544205).
 
 [[go to the top]](#literature)
 
