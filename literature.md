@@ -50,25 +50,25 @@ Vopalensky P, Tosches MA, Achim K, Handberg-Thorsager M, Arendt D. **From spiral
 
 ### 2018
 
-Chou HC, Acevedo-Luna N, Kuhlman JA, Schneider SQ. **PdumBase: a transcriptome database and research tool for Platynereis dumerilii and early development of other metazoans.** BMC Genomics. 2018 Aug 16;19(1):618. doi: 10.1186/s12864-018-4987-0. PMID: 30115014; PMCID: PMC6097317.
+Chou HC, Acevedo-Luna N, Kuhlman JA, Schneider SQ. **PdumBase: a transcriptome database and research tool for Platynereis dumerilii and early development of other metazoans.** BMC Genomics. 2018 Aug 16;19(1):618. [doi: 10.1186/s12864-018-4987-0](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-4987-0). PMID: 30115014; PMCID: PMC6097317.
 
-Chartier TF, Deschamps J, Dürichen W, Jékely G, Arendt D. **Whole-head recording of chemosensory activity in the marine annelid Platynereis dumerilii.** Open Biol. 2018 Oct 31;8(10):180139. doi: 10.1098/rsob.180139. PMID: 30381362; PMCID: PMC6223215.
+Chartier TF, Deschamps J, Dürichen W, Jékely G, Arendt D. **Whole-head recording of chemosensory activity in the marine annelid Platynereis dumerilii.** Open Biol. 2018 Oct 31;8(10):180139. [doi: 10.1098/rsob.180139](https://pubmed.ncbi.nlm.nih.gov/30381362/). PMID: 30381362; PMCID: PMC6223215.
 
-Ayers T, Tsukamoto H, Gühmann M, Veedin Rajan VB, Tessmar-Raible K. **A Go-type opsin mediates the shadow reflex in the annelid Platynereis dumerilii.** BMC Biol. 2018 Apr 18;16(1):41. doi: 10.1186/s12915-018-0505-8. PMID: 29669554; PMCID: PMC5904973.
+Ayers T, Tsukamoto H, Gühmann M, Veedin Rajan VB, Tessmar-Raible K. **A Go-type opsin mediates the shadow reflex in the annelid Platynereis dumerilii.** BMC Biol. 2018 Apr 18;16(1):41. [doi: 10.1186/s12915-018-0505-8](https://pubmed.ncbi.nlm.nih.gov/29669554/). PMID: 29669554; PMCID: PMC5904973.
 
-Schmidt A, Bauknecht P, Williams EA, Augustinowski K, Gründer S, Jékely G. **Dual signaling of Wamide myoinhibitory peptides through a peptide-gated channel and a GPCR in Platynereis.** FASEB J. 2018 Oct;32(10):5338-5349. doi: 10.1096/fj.201800274R. Epub 2018 Apr 24. PMID: 29688813.
+Schmidt A, Bauknecht P, Williams EA, Augustinowski K, Gründer S, Jékely G. **Dual signaling of Wamide myoinhibitory peptides through a peptide-gated channel and a GPCR in Platynereis.** FASEB J. 2018 Oct;32(10):5338-5349. [doi: 10.1096/fj.201800274R](https://faseb.onlinelibrary.wiley.com/doi/full/10.1096/fj.201800274R). Epub 2018 Apr 24. PMID: 29688813.
 
-Žídek R, Machoň O, Kozmik Z. **Wnt/β-catenin signalling is necessary for gut differentiation in a marine annelid, Platynereis dumerilii.** Evodevo. 2018 Jun 11;9:14. doi: 10.1186/s13227-018-0100-7. PMID: 29942461; PMCID: PMC5996498.
+Žídek R, Machoň O, Kozmik Z. **Wnt/β-catenin signalling is necessary for gut differentiation in a marine annelid, Platynereis dumerilii.** Evodevo. 2018 Jun 11;9:14. [doi: 10.1186/s13227-018-0100-7](https://evodevojournal.biomedcentral.com/articles/10.1186/s13227-018-0100-7). PMID: 29942461; PMCID: PMC5996498.
 
-Verasztó C, Gühmann M, Jia H, Rajan VBV, Bezares-Calderón LA, Piñeiro-Lopez C, Randel N, Shahidi R, Michiels NK, Yokoyama S, Tessmar-Raible K, Jékely G. **Ciliary and rhabdomeric photoreceptor-cell circuits form a spectral depth gauge in marine zooplankton.** Elife. 2018 May 29;7:e36440. doi: 10.7554/eLife.36440. PMID: 29809157; PMCID: PMC6019069.
+Verasztó C, Gühmann M, Jia H, Rajan VBV, Bezares-Calderón LA, Piñeiro-Lopez C, Randel N, Shahidi R, Michiels NK, Yokoyama S, Tessmar-Raible K, Jékely G. **Ciliary and rhabdomeric photoreceptor-cell circuits form a spectral depth gauge in marine zooplankton.** Elife. 2018 May 29;7:e36440. [doi: 10.7554/eLife.36440](https://elifesciences.org/articles/36440). PMID: 29809157; PMCID: PMC6019069.
 
-Bezares-Calderón LA, Berger J, Jasek S, Verasztó C, Mendes S, Gühmann M, Almeda R, Shahidi R, Jékely G. **Neural circuitry of a polycystin-mediated hydrodynamic startle response for predator avoidance.** Elife. 2018 Dec 14;7:e36262. doi: 10.7554/eLife.36262. PMID: 30547885; PMCID: PMC6294549.
+Bezares-Calderón LA, Berger J, Jasek S, Verasztó C, Mendes S, Gühmann M, Almeda R, Shahidi R, Jékely G. **Neural circuitry of a polycystin-mediated hydrodynamic startle response for predator avoidance.** Elife. 2018 Dec 14;7:e36262. [doi: 10.7554/eLife.36262](https://elifesciences.org/articles/36262). PMID: 30547885; PMCID: PMC6294549.
 
-Achim K, Eling N, Vergara HM, Bertucci PY, Musser J, Vopalensky P, Brunet T, Collier P, Benes V, Marioni JC, Arendt D. **Whole-Body Single-Cell Sequencing Reveals Transcriptional Domains in the Annelid Larval Body.** Mol Biol Evol. 2018 May 1;35(5):1047-1062. doi: 10.1093/molbev/msx336. PMID: 29373712; PMCID: PMC5913682.
+Achim K, Eling N, Vergara HM, Bertucci PY, Musser J, Vopalensky P, Brunet T, Collier P, Benes V, Marioni JC, Arendt D. **Whole-Body Single-Cell Sequencing Reveals Transcriptional Domains in the Annelid Larval Body.** Mol Biol Evol. 2018 May 1;35(5):1047-1062. [doi: 10.1093/molbev/msx336](https://academic.oup.com/mbe/article/35/5/1047/4823215). PMID: 29373712; PMCID: PMC5913682.
 
-Handberg-Thorsager M, Gutierrez-Mazariegos J, Arold ST, Kumar Nadendla E, Bertucci PY, Germain P, Tomançak P, Pierzchalski K, Jones JW, Albalat R, Kane MA, Bourguet W, Laudet V, Arendt D, Schubert M. **The ancestral retinoic acid receptor was a low-affinity sensor triggering neuronal differentiation.** Sci Adv. 2018 Feb 21;4(2):eaao1261. doi: 10.1126/sciadv.aao1261. PMID: 29492455; PMCID: PMC5821490.
+Handberg-Thorsager M, Gutierrez-Mazariegos J, Arold ST, Kumar Nadendla E, Bertucci PY, Germain P, Tomançak P, Pierzchalski K, Jones JW, Albalat R, Kane MA, Bourguet W, Laudet V, Arendt D, Schubert M. **The ancestral retinoic acid receptor was a low-affinity sensor triggering neuronal differentiation.** Sci Adv. 2018 Feb 21;4(2):eaao1261. [doi: 10.1126/sciadv.aao1261](https://pubmed.ncbi.nlm.nih.gov/29492455/). PMID: 29492455; PMCID: PMC5821490.
 
-Wage J, Rotchell JM, Gambi MC, Hardege JD **Target gene expression studies on Platynereis dumerilii and Platynereis cfr massiliensis at the shallow CO2 vents off Ischia, Italy** Estuarine Coastal and Shelf Science 2018 Jul;207:351-358. doi: 10.1016/j.ecss.2017.11.012 
+Wage J, Rotchell JM, Gambi MC, Hardege JD **Target gene expression studies on Platynereis dumerilii and Platynereis cfr massiliensis at the shallow CO2 vents off Ischia, Italy** Estuarine Coastal and Shelf Science 2018 Jul;207:351-358. [doi: 10.1016/j.ecss.2017.11.012](https://www.sciencedirect.com/science/article/pii/S0272771416305418). 
 
 [[go to the top]](#literature)
 
