@@ -216,27 +216,27 @@ Yang M, Zhang X. **Comparative developmental toxicity of new aromatic halogenate
 
 ### 2012
 
-Asadulina A, Panzera A, Verasztó C, Liebig C, Jékely G. **Whole-body gene expression pattern registration in Platynereis larvae.** Evodevo. 2012 Dec 3;3(1):27. doi: 10.1186/2041-9139-3-27. PMID: 23199348; PMCID: PMC3586958.
+Asadulina A, Panzera A, Verasztó C, Liebig C, Jékely G. **Whole-body gene expression pattern registration in Platynereis larvae.** Evodevo. 2012 Dec 3;3(1):27. [doi: 10.1186/2041-9139-3-27](https://evodevojournal.biomedcentral.com/articles/10.1186/2041-9139-3-27). PMID: 23199348; PMCID: PMC3586958.
 
-Rebscher N, Lidke AK, Ackermann CF. **Hidden in the crowd: primordial germ cells and somatic stem cells in the mesodermal posterior growth zone of the polychaete Platynereis dumerillii are two distinct cell populations.** Evodevo. 2012 Apr 18;3:9. doi: 10.1186/2041-9139-3-9. PMID: 22512981; PMCID: PMC3348064.
+Rebscher N, Lidke AK, Ackermann CF. **Hidden in the crowd: primordial germ cells and somatic stem cells in the mesodermal posterior growth zone of the polychaete Platynereis dumerillii are two distinct cell populations.** Evodevo. 2012 Apr 18;3:9. [doi: 10.1186/2041-9139-3-9](https://evodevojournal.biomedcentral.com/articles/10.1186/2041-9139-3-9). PMID: 22512981; PMCID: PMC3348064.
 
-Pfeifer K, Dorresteijn AW, Fröbius AC. **Activation of Hox genes during caudal regeneration of the polychaete annelid Platynereis dumerilii.** Dev Genes Evol. 2012 May;222(3):165-79. doi: 10.1007/s00427-012-0402-z. Epub 2012 May 9. PMID: 22569931.
+Pfeifer K, Dorresteijn AW, Fröbius AC. **Activation of Hox genes during caudal regeneration of the polychaete annelid Platynereis dumerilii.** Dev Genes Evol. 2012 May;222(3):165-79. [doi: 10.1007/s00427-012-0402-z](https://pubmed.ncbi.nlm.nih.gov/22569931/). Epub 2012 May 9. PMID: 22569931.
 
-Hui JH, McDougall C, Monteiro AS, Holland PW, Arendt D, Balavoine G, Ferrier DE. **Extensive chordate and annelid macrosynteny reveals ancestral homeobox gene organization.** Mol Biol Evol. 2012 Jan;29(1):157-65. doi: 10.1093/molbev/msr175. Epub 2011 Jul 4. PMID: 21727239.
+Hui JH, McDougall C, Monteiro AS, Holland PW, Arendt D, Balavoine G, Ferrier DE. **Extensive chordate and annelid macrosynteny reveals ancestral homeobox gene organization.** Mol Biol Evol. 2012 Jan;29(1):157-65. [doi: 10.1093/molbev/msr175](https://pubmed.ncbi.nlm.nih.gov/21727239/). Epub 2011 Jul 4. PMID: 21727239.
 
-Conzelmann M, Jékely G. **Antibodies against conserved amidated neuropeptide epitopes enrich the comparative neurobiology toolbox.** Evodevo. 2012 Oct 1;3(1):23. doi: 10.1186/2041-9139-3-23. PMID: 23020891; PMCID: PMC3503879.
+Conzelmann M, Jékely G. **Antibodies against conserved amidated neuropeptide epitopes enrich the comparative neurobiology toolbox.** Evodevo. 2012 Oct 1;3(1):23. [doi: 10.1186/2041-9139-3-23](https://evodevojournal.biomedcentral.com/articles/10.1186/2041-9139-3-23). PMID: 23020891; PMCID: PMC3503879.
 
 [[go to the top]](#literature)
 
 ### 2011
 
-Conzelmann M, Offenburger SL, Asadulina A, Keller T, Münch TA, Jékely G. **Neuropeptides regulate swimming depth of Platynereis larvae.** Proc Natl Acad Sci U S A. 2011 Nov 15;108(46):E1174-83. doi: 10.1073/pnas.1109085108. Epub 2011 Oct 17. PMID: 22006315; PMCID: PMC3219130.
+Conzelmann M, Offenburger SL, Asadulina A, Keller T, Münch TA, Jékely G. **Neuropeptides regulate swimming depth of Platynereis larvae.** Proc Natl Acad Sci U S A. 2011 Nov 15;108(46):E1174-83. [doi: 10.1073/pnas.1109085108](https://www.pnas.org/content/early/2011/10/11/1109085108). Epub 2011 Oct 17. PMID: 22006315; PMCID: PMC3219130.
 
-Steinmetz PR, Kostyuchenko RP, Fischer A, Arendt D. **The segmental pattern of otx, gbx, and Hox genes in the annelid Platynereis dumerilii.** Evol Dev. 2011 Jan-Feb;13(1):72-9. doi: 10.1111/j.1525-142X.2010.00457.x. PMID: 21210944.
+Steinmetz PR, Kostyuchenko RP, Fischer A, Arendt D. **The segmental pattern of otx, gbx, and Hox genes in the annelid Platynereis dumerilii.** Evol Dev. 2011 Jan-Feb;13(1):72-9. [doi: 10.1111/j.1525-142X.2010.00457.x](https://pubmed.ncbi.nlm.nih.gov/21210944/). PMID: 21210944.
 
-García-Alonso J, Ayoola JA, Crompton J, Rebscher N, Hardege JD. **Development and maturation in the nereidid polychaetes Platynereis dumerilii and Nereis succinea exposed to xenoestrogens.** Comp Biochem Physiol C Toxicol Pharmacol. 2011 Sep;154(3):196-203. doi: 10.1016/j.cbpc.2011.05.007. Epub 2011 May 30. PMID: 21642012.
+García-Alonso J, Ayoola JA, Crompton J, Rebscher N, Hardege JD. **Development and maturation in the nereidid polychaetes Platynereis dumerilii and Nereis succinea exposed to xenoestrogens.** Comp Biochem Physiol C Toxicol Pharmacol. 2011 Sep;154(3):196-203. [doi: 10.1016/j.cbpc.2011.05.007](https://pubmed.ncbi.nlm.nih.gov/21642012/). Epub 2011 May 30. PMID: 21642012.
 
-McDougall C, Korchagina N, Tobin JL, Ferrier DE. **Annelid Distal-less/Dlx duplications reveal varied post-duplication fates.** BMC Evol Biol. 2011 Aug 16;11:241. doi: 10.1186/1471-2148-11-241. PMID: 21846345; PMCID: PMC3199776.
+McDougall C, Korchagina N, Tobin JL, Ferrier DE. **Annelid Distal-less/Dlx duplications reveal varied post-duplication fates.** BMC Evol Biol. 2011 Aug 16;11:241. [doi: 10.1186/1471-2148-11-241](https://bmcecolevol.biomedcentral.com/articles/10.1186/1471-2148-11-241). PMID: 21846345; PMCID: PMC3199776.
 
 [[go to the top]](#literature)
 
