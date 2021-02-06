@@ -152,35 +152,35 @@ Ricevuto E, Vizzini S, Gambi MC. **Ocean acidification effects on stable isotope
 
 ### 2014
 
-Raible F, Tessmar-Raible K. **Platynereis dumerilii.** Curr Biol. 2014 Aug 4;24(15):R676-7. doi: 10.1016/j.cub.2014.06.032. PMID: 25093553.
+Raible F, Tessmar-Raible K. **Platynereis dumerilii.** Curr Biol. 2014 Aug 4;24(15):R676-7. [doi: 10.1016/j.cub.2014.06.032](https://pubmed.ncbi.nlm.nih.gov/25093553/). PMID: 25093553.
 
-Zantke J, Bannister S, Rajan VB, Raible F, Tessmar-Raible K. **Genetic and genomic tools for the marine annelid Platynereis dumerilii.** Genetics. 2014 May;197(1):19-31. doi: 10.1534/genetics.112.148254. PMID: 24807110; PMCID: PMC4012478.
+Zantke J, Bannister S, Rajan VB, Raible F, Tessmar-Raible K. **Genetic and genomic tools for the marine annelid Platynereis dumerilii.** Genetics. 2014 May;197(1):19-31. [doi: 10.1534/genetics.112.148254](https://pubmed.ncbi.nlm.nih.gov/24807110/). PMID: 24807110; PMCID: PMC4012478.
 
-Marlow H, Tosches MA, Tomer R, Steinmetz PR, Lauri A, Larsson T, Arendt D. **Larval body patterning and apical organs are conserved in animal evolution.** BMC Biol. 2014 Jan 29;12:7. doi: 10.1186/1741-7007-12-7. PMID: 24476105; PMCID: PMC3939940.
+Marlow H, Tosches MA, Tomer R, Steinmetz PR, Lauri A, Larsson T, Arendt D. **Larval body patterning and apical organs are conserved in animal evolution.** BMC Biol. 2014 Jan 29;12:7. [doi: 10.1186/1741-7007-12-7](https://bmcbiol.biomedcentral.com/articles/10.1186/1741-7007-12-7). PMID: 24476105; PMCID: PMC3939940.
 
-Backfisch B, Kozin VV, Kirchmaier S, Tessmar-Raible K, Raible F. **Tools for gene-regulatory analyses in the marine annelid Platynereis dumerilii.** PLoS One. 2014 Apr 8;9(4):e93076. doi: 10.1371/journal.pone.0093076. PMID: 24714200; PMCID: PMC3979674.
+Backfisch B, Kozin VV, Kirchmaier S, Tessmar-Raible K, Raible F. **Tools for gene-regulatory analyses in the marine annelid Platynereis dumerilii.** PLoS One. 2014 Apr 8;9(4):e93076. [doi: 10.1371/journal.pone.0093076](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0093076). PMID: 24714200; PMCID: PMC3979674.
 
-Pfeifer K, Schaub C, Domsch K, Dorresteijn A, Wolfstetter G. **Maternal inheritance of twist and analysis of MAPK activation in embryos of the polychaete annelid Platynereis dumerilii.** PLoS One. 2014 May 2;9(5):e96702. doi: 10.1371/journal.pone.0096702. PMID: 24792484; PMCID: PMC4008618.
+Pfeifer K, Schaub C, Domsch K, Dorresteijn A, Wolfstetter G. **Maternal inheritance of twist and analysis of MAPK activation in embryos of the polychaete annelid Platynereis dumerilii.** PLoS One. 2014 May 2;9(5):e96702. [doi: 10.1371/journal.pone.0096702](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0096702). PMID: 24792484; PMCID: PMC4008618.
 
-Bannister S, Antonova O, Polo A, Lohs C, Hallay N, Valinciute A, Raible F, Tessmar-Raible K. **TALENs mediate efficient and heritable mutation of endogenous genes in the marine annelid Platynereis dumerilii.** Genetics. 2014 May;197(1):77-89. doi: 10.1534/genetics.113.161091. Epub 2014 Mar 20. PMID: 24653002; PMCID: PMC4012502.
+Bannister S, Antonova O, Polo A, Lohs C, Hallay N, Valinciute A, Raible F, Tessmar-Raible K. **TALENs mediate efficient and heritable mutation of endogenous genes in the marine annelid Platynereis dumerilii.** Genetics. 2014 May;197(1):77-89. [doi: 10.1534/genetics.113.161091](https://www.genetics.org/content/197/1/77). Epub 2014 Mar 20. PMID: 24653002; PMCID: PMC4012502.
 
-Gazave E, Guillou A, Balavoine G. **History of a prolific family: the Hes/Hey-related genes of the annelid Platynereis.** Evodevo. 2014 Sep 5;5:29. doi: 10.1186/2041-9139-5-29. PMID: 25250171; PMCID: PMC4172395.
+Gazave E, Guillou A, Balavoine G. **History of a prolific family: the Hes/Hey-related genes of the annelid Platynereis.** Evodevo. 2014 Sep 5;5:29. [doi: 10.1186/2041-9139-5-29](https://evodevojournal.biomedcentral.com/articles/10.1186/2041-9139-5-29). PMID: 25250171; PMCID: PMC4172395.
 
-Pruitt MM, Letcher EJ, Chou HC, Bastin BR, Schneider SQ. **Expression of the wnt gene complement in a spiral-cleaving embryo and trochophore larva.** Int J Dev Biol. 2014;58(6-8):563-73. doi: 10.1387/ijdb.140084ss. PMID: 25690970.
+Pruitt MM, Letcher EJ, Chou HC, Bastin BR, Schneider SQ. **Expression of the wnt gene complement in a spiral-cleaving embryo and trochophore larva.** Int J Dev Biol. 2014;58(6-8):563-73. [doi: 10.1387/ijdb.140084ss](http://www.ijdb.ehu.es/web/paper/140084ss/expression-of-the-wnt-gene-complement-in-a-spiral-cleaving-embryo-and-trochophore-larva). PMID: 25690970.
 
-Lidke AK, Bannister S, Löwer AM, Apel DM, Podleschny M, Kollmann M, Ackermann CF, García-Alonso J, Raible F, Rebscher N. **17β-Estradiol induces supernumerary primordial germ cells in embryos of the polychaete Platynereis dumerilii.** Gen Comp Endocrinol. 2014 Jan 15;196:52-61. doi: 10.1016/j.ygcen.2013.11.017. Epub 2013 Nov 25. PMID: 24287341.
+Lidke AK, Bannister S, Löwer AM, Apel DM, Podleschny M, Kollmann M, Ackermann CF, García-Alonso J, Raible F, Rebscher N. **17β-Estradiol induces supernumerary primordial germ cells in embryos of the polychaete Platynereis dumerilii.** Gen Comp Endocrinol. 2014 Jan 15;196:52-61. [doi: 10.1016/j.ygcen.2013.11.017](https://pubmed.ncbi.nlm.nih.gov/24287341/). Epub 2013 Nov 25. PMID: 24287341.
 
-García-Alonso J, Rodriguez-Sanchez N, Misra SK, Valsami-Jones E, Croteau MN, Luoma SN, Rainbow PS. **Toxicity and accumulation of silver nanoparticles during development of the marine polychaete Platynereis dumerilii.** Sci Total Environ. 2014 Apr 1;476-477:688-95. doi: 10.1016/j.scitotenv.2014.01.039. Epub 2014 Feb 7. PMID: 24514586.
+García-Alonso J, Rodriguez-Sanchez N, Misra SK, Valsami-Jones E, Croteau MN, Luoma SN, Rainbow PS. **Toxicity and accumulation of silver nanoparticles during development of the marine polychaete Platynereis dumerilii.** Sci Total Environ. 2014 Apr 1;476-477:688-95. [doi: 10.1016/j.scitotenv.2014.01.039](https://www.sciencedirect.com/science/article/pii/S0048969714000485). Epub 2014 Feb 7. PMID: 24514586.
 
-Pettit JB, Tomer R, Achim K, Richardson S, Azizi L, Marioni J. **Identifying cell types from spatially referenced single-cell expression datasets.** PLoS Comput Biol. 2014 Sep 25;10(9):e1003824. doi: 10.1371/journal.pcbi.1003824. PMID: 25254363; PMCID: PMC4177667.
+Pettit JB, Tomer R, Achim K, Richardson S, Azizi L, Marioni J. **Identifying cell types from spatially referenced single-cell expression datasets.** PLoS Comput Biol. 2014 Sep 25;10(9):e1003824. [doi: 10.1371/journal.pcbi.1003824](https://pubmed.ncbi.nlm.nih.gov/25254363/). PMID: 25254363; PMCID: PMC4177667.
 
-Lauri A, Brunet T, Handberg-Thorsager M, Fischer AH, Simakov O, Steinmetz PR, Tomer R, Keller PJ, Arendt D. **Development of the annelid axochord: insights into notochord evolution.** Science. 2014 Sep 12;345(6202):1365-8. doi: 10.1126/science.1253396. PMID: 25214631.
+Lauri A, Brunet T, Handberg-Thorsager M, Fischer AH, Simakov O, Steinmetz PR, Tomer R, Keller PJ, Arendt D. **Development of the annelid axochord: insights into notochord evolution.** Science. 2014 Sep 12;345(6202):1365-8. [doi: 10.1126/science.1253396](https://pubmed.ncbi.nlm.nih.gov/25214631/). PMID: 25214631.
 
-Randel N, Asadulina A, Bezares-Calderón LA, Verasztó C, Williams EA, Conzelmann M, Shahidi R, Jékely G. **Neuronal connectome of a sensory-motor circuit for visual navigation.** Elife. 2014 May 27;3:e02730. doi: 10.7554/eLife.02730. PMID: 24867217; PMCID: PMC4059887.
+Randel N, Asadulina A, Bezares-Calderón LA, Verasztó C, Williams EA, Conzelmann M, Shahidi R, Jékely G. **Neuronal connectome of a sensory-motor circuit for visual navigation.** Elife. 2014 May 27;3:e02730. [doi: 10.7554/eLife.02730](https://elifesciences.org/articles/02730). PMID: 24867217; PMCID: PMC4059887.
 
-Tosches MA, Bucher D, Vopalensky P, Arendt D. **Melatonin signaling controls circadian swimming behavior in marine zooplankton.** Cell. 2014 Sep 25;159(1):46-57. doi: 10.1016/j.cell.2014.07.042. PMID: 25259919; PMCID: PMC4182423.
+Tosches MA, Bucher D, Vopalensky P, Arendt D. **Melatonin signaling controls circadian swimming behavior in marine zooplankton.** Cell. 2014 Sep 25;159(1):46-57. [doi: 10.1016/j.cell.2014.07.042](https://www.sciencedirect.com/science/article/pii/S0092867414009921). PMID: 25259919; PMCID: PMC4182423.
 
-Popa LO, Popa OP, Krapal AM, Iorgu EI, Surugiu V. **Fine-scale population genetics analysis of Platynereis dumerilii (Polychaeta, Nereididae) in the Black Sea: how do local marine currents drive geographical differentiation?** J Exp Zool A Ecol Genet Physiol. 2014 Jan;321(1):41-7. doi: 10.1002/jez.1835. Epub 2013 Oct 7. PMID: 24123900.
+Popa LO, Popa OP, Krapal AM, Iorgu EI, Surugiu V. **Fine-scale population genetics analysis of Platynereis dumerilii (Polychaeta, Nereididae) in the Black Sea: how do local marine currents drive geographical differentiation?** J Exp Zool A Ecol Genet Physiol. 2014 Jan;321(1):41-7. [doi: 10.1002/jez.1835](https://onlinelibrary.wiley.com/doi/abs/10.1002/jez.1835). Epub 2013 Oct 7. PMID: 24123900.
 
 Rajasree V, Shankar CVS, Satheesh S, Punitha SMJ. **Biofilm inhibitory activity of Extracellular Polymeric Substance produced by Exiguobacterium sp. associated with the polychaete Platynereis dumerilii.** Thalassas 2014 Jul;30(2):13-19.
 
