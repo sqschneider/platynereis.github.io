@@ -1,5 +1,3 @@
 # Protocols
 
-[**Back to Homepage**](index.md)
-
-[Back to Resources](resources.md)
+[**Back to Homepage**](index.md)/ [Resources](resources.md)
