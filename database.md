@@ -1,3 +1,6 @@
+# Work in Progress
+
+
 # Databases
 
 [**Back to Homepage**](index.md)
@@ -5,7 +8,14 @@
 [Back to Resources](resources.md)
 
 
+Openly accessible [Imaging](#imaging) and [Genome and transcriptome](#genome-and-transcriptome) databases. 
 
-[Genome/ transcriptome](genome.md)
+## Imaging
 
-[Imaging](imaging.md)
+
+### PlatyBrowser
+
+The [Arendt lab](lab.md#arendt-lab) 
+
+
+## Genome and transcriptome
