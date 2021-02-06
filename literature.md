@@ -74,29 +74,29 @@ Wage J, Rotchell JM, Gambi MC, Hardege JD **Target gene expression studies on Pl
 
 ### 2017
 
-Gazave E, Lemaître QI, Balavoine G. **The Notch pathway in the annelid Platynereis: insights into chaetogenesis and neurogenesis processes.** Open Biol. 2017 Feb;7(2):160242. doi: 10.1098/rsob.160242. PMID: 28148821; PMCID: PMC5356439.
+Gazave E, Lemaître QI, Balavoine G. **The Notch pathway in the annelid Platynereis: insights into chaetogenesis and neurogenesis processes.** Open Biol. 2017 Feb;7(2):160242. [doi: 10.1098/rsob.160242](https://pubmed.ncbi.nlm.nih.gov/28148821/). PMID: 28148821; PMCID: PMC5356439.
 
-Verasztó C, Ueda N, Bezares-Calderón LA, Panzera A, Williams EA, Shahidi R, Jékely G. **Ciliomotor circuitry underlying whole-body coordination of ciliary activity in the Platynereis larva.** Elife. 2017 May 16;6:e26000. doi: 10.7554/eLife.26000. PMID: 28508746; PMCID: PMC5531833.
+Verasztó C, Ueda N, Bezares-Calderón LA, Panzera A, Williams EA, Shahidi R, Jékely G. **Ciliomotor circuitry underlying whole-body coordination of ciliary activity in the Platynereis larva.** Elife. 2017 May 16;6:e26000. [doi: 10.7554/eLife.26000](https://elifesciences.org/articles/26000). PMID: 28508746; PMCID: PMC5531833.
 
-Özpolat BD, Handberg-Thorsager M, Vervoort M, Balavoine G. **Cell lineage and cell cycling analyses of the 4d micromere using live imaging in the marine annelid Platynereis dumerilii.** Elife. 2017 Dec 12;6:e30463. doi: 10.7554/eLife.30463. PMID: 29231816; PMCID: PMC5764573.
+Özpolat BD, Handberg-Thorsager M, Vervoort M, Balavoine G. **Cell lineage and cell cycling analyses of the 4d micromere using live imaging in the marine annelid Platynereis dumerilii.** Elife. 2017 Dec 12;6:e30463. [doi: 10.7554/eLife.30463](https://elifesciences.org/articles/30463). PMID: 29231816; PMCID: PMC5764573.
 
-André A, Ruivo R, Capitão A, Froufe E, Páscoa I, Costa Castro LF, Santos MM. **Cloning and functional characterization of a retinoid X receptor orthologue in Platynereis dumerilii: An evolutionary and toxicological perspective.** Chemosphere. 2017 Sep;182:753-761. doi: 10.1016/j.chemosphere.2017.05.064. Epub 2017 May 20. PMID: 28535483.
+André A, Ruivo R, Capitão A, Froufe E, Páscoa I, Costa Castro LF, Santos MM. **Cloning and functional characterization of a retinoid X receptor orthologue in Platynereis dumerilii: An evolutionary and toxicological perspective.** Chemosphere. 2017 Sep;182:753-761. [doi: 10.1016/j.chemosphere.2017.05.064](https://pubmed.ncbi.nlm.nih.gov/28535483/). Epub 2017 May 20. PMID: 28535483.
 
-Nakama AB, Chou HC, Schneider SQ. **The asymmetric cell division machinery in the spiral-cleaving egg and embryo of the marine annelid Platynereis dumerilii.** BMC Dev Biol. 2017 Dec 11;17(1):16. doi: 10.1186/s12861-017-0158-9. PMID: 29228898; PMCID: PMC5725810.
+Nakama AB, Chou HC, Schneider SQ. **The asymmetric cell division machinery in the spiral-cleaving egg and embryo of the marine annelid Platynereis dumerilii.** BMC Dev Biol. 2017 Dec 11;17(1):16. [doi: 10.1186/s12861-017-0158-9](https://pubmed.ncbi.nlm.nih.gov/29228898/). PMID: 29228898; PMCID: PMC5725810.
 
-Vergara HM, Bertucci PY, Hantz P, Tosches MA, Achim K, Vopalensky P, Arendt D. **Whole-organism cellular gene-expression atlas reveals conserved cell types in the ventral nerve cord of Platynereis dumerilii.** Proc Natl Acad Sci U S A. 2017 Jun 6;114(23):5878-5885. doi: 10.1073/pnas.1610602114. PMID: 28584082; PMCID: PMC5468599.
+Vergara HM, Bertucci PY, Hantz P, Tosches MA, Achim K, Vopalensky P, Arendt D. **Whole-organism cellular gene-expression atlas reveals conserved cell types in the ventral nerve cord of Platynereis dumerilii.** Proc Natl Acad Sci U S A. 2017 Jun 6;114(23):5878-5885. [doi: 10.1073/pnas.1610602114](https://www.pnas.org/content/114/23/5878.short). PMID: 28584082; PMCID: PMC5468599.
 
-Williams EA, Verasztó C, Jasek S, Conzelmann M, Shahidi R, Bauknecht P, Mirabeau O, Jékely G. **Synaptic and peptidergic connectome of a neurosecretory center in the annelid brain.** Elife. 2017 Dec 4;6:e26349. doi: 10.7554/eLife.26349. PMID: 29199953; PMCID: PMC5747525.
+Williams EA, Verasztó C, Jasek S, Conzelmann M, Shahidi R, Bauknecht P, Mirabeau O, Jékely G. **Synaptic and peptidergic connectome of a neurosecretory center in the annelid brain.** Elife. 2017 Dec 4;6:e26349. [doi: 10.7554/eLife.26349](https://elifesciences.org/articles/26349). PMID: 29199953; PMCID: PMC5747525.
 
-Tsukamoto H, Chen IS, Kubo Y, Furutani Y. **A ciliary opsin in the brain of a marine annelid zooplankton is ultraviolet-sensitive, and the sensitivity is tuned by a single amino acid residue.** J Biol Chem. 2017 Aug 4;292(31):12971-12980. doi: 10.1074/jbc.M117.793539. Epub 2017 Jun 16. PMID: 28623234; PMCID: PMC5546036.
+Tsukamoto H, Chen IS, Kubo Y, Furutani Y. **A ciliary opsin in the brain of a marine annelid zooplankton is ultraviolet-sensitive, and the sensitivity is tuned by a single amino acid residue.** J Biol Chem. 2017 Aug 4;292(31):12971-12980. [doi: 10.1074/jbc.M117.793539](https://pubmed.ncbi.nlm.nih.gov/28623234/). Epub 2017 Jun 16. PMID: 28623234; PMCID: PMC5546036.
 
-Bauknecht P, Jékely G. **Ancient coexistence of norepinephrine, tyramine, and octopamine signaling in bilaterians.** BMC Biol. 2017 Jan 30;15(1):6. doi: 10.1186/s12915-016-0341-7. PMID: 28137258; PMCID: PMC5282848.
+Bauknecht P, Jékely G. **Ancient coexistence of norepinephrine, tyramine, and octopamine signaling in bilaterians.** BMC Biol. 2017 Jan 30;15(1):6. [doi: 10.1186/s12915-016-0341-7](https://pubmed.ncbi.nlm.nih.gov/28137258/). PMID: 28137258; PMCID: PMC5282848.
 
-Wage J, Valvassori G, Hardege JD, Schulze A, Gambi, MC. **The sibling polychaetes Platynereis dumerilii and Platynereis massiliensis in the Mediterranean Sea: are phylogeographic patterns related to exposure to ocean acidification?** Mar Biol 2017 Oct;164(10). doi: 10.1007/s00227-017-3222-x.
+Wage J, Valvassori G, Hardege JD, Schulze A, Gambi, MC. **The sibling polychaetes Platynereis dumerilii and Platynereis massiliensis in the Mediterranean Sea: are phylogeographic patterns related to exposure to ocean acidification?** Mar Biol 2017 Oct;164(10). [doi: 10.1007/s00227-017-3222-x](https://link.springer.com/article/10.1007/s00227-017-3222-x).
 
-Starunov VV, Voronezhskaya EE, Nezlin LP. **Development of the nervous system in Platynereis dumerilii (Nereididae, Annelida).** Front Zool. 2017 May 25;14:27. doi: 10.1186/s12983-017-0211-3. PMID: 28559917; PMCID: PMC5445494.
+Starunov VV, Voronezhskaya EE, Nezlin LP. **Development of the nervous system in Platynereis dumerilii (Nereididae, Annelida).** Front Zool. 2017 May 25;14:27. [doi: 10.1186/s12983-017-0211-3](https://pubmed.ncbi.nlm.nih.gov/28559917/). PMID: 28559917; PMCID: PMC5445494.
 
-Bakalenko NI, Poznyak AV, Novikova EL, Kulakova MA. **Effect of Retinoids on Post2 Hox gene Expression in Nereid Polychaetes** Russ. J. Dev. Biol. 2017 May;48(3):211-218. doi: 10.1134/S106236041703002X.
+Bakalenko NI, Poznyak AV, Novikova EL, Kulakova MA. **Effect of Retinoids on Post2 Hox gene Expression in Nereid Polychaetes** Russ. J. Dev. Biol. 2017 May;48(3):211-218. [doi: 10.1134/S106236041703002X](https://link.springer.com/article/10.1134/S106236041703002X).
 
 [[go to the top]](#literature)
 
