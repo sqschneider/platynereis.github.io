@@ -8,7 +8,7 @@ A selection of *Platynereis dumerilii* research paper.
 
 ### 2021
 
-Veedin Rajan VB, Häfker NS, Arboleda E, Poehn B, Gossenreiter T, Gerrard E, Hofbauer M, Mühlestein C, Bileck A, Gerner C, Ribera d'Alcala M, Buia MC, Hartl M, Lucas RJ, Tessmar-Raible K. **Seasonal variation in UVA light drives hormonal and behavioural changes in a marine annelid via a ciliary opsin.** Nat Ecol Evol. 2021 Feb;5(2):204-218. doi: 10.1038/s41559-020-01356-1. Epub 2021 Jan 11. PMID: 33432133.
+Veedin Rajan VB, Häfker NS, Arboleda E, Poehn B, Gossenreiter T, Gerrard E, Hofbauer M, Mühlestein C, Bileck A, Gerner C, Ribera d'Alcala M, Buia MC, Hartl M, Lucas RJ, Tessmar-Raible K. **Seasonal variation in UVA light drives hormonal and behavioural changes in a marine annelid via a ciliary opsin.** Nat Ecol Evol. 2021 Feb;5(2):204-218. doi: [10.1038/s41559-020-01356-1](10.1038/s41559-020-01356-1). Epub 2021 Jan 11. PMID: 33432133.
 
 [[go to the top]](#literature)
 
