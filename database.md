@@ -15,7 +15,7 @@ Openly accessible [Imaging](#imaging) and [Genome and transcriptome](#genome-and
 
 ### PlatyBrowser
 
-The [Arendt lab](lab.md#arendt-lab) 
+The [Arendt lab](labs.md#arendt-lab) 
 
 
 ## Genome and transcriptome
