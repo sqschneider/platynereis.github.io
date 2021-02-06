@@ -102,21 +102,21 @@ Bakalenko NI, Poznyak AV, Novikova EL, Kulakova MA. **Effect of Retinoids on Pos
 
 ### 2016
 
-Williams EA, Jékely G. **Towards a systems-level understanding of development in the marine annelid Platynereis dumerilii.** Curr Opin Genet Dev. 2016 Aug;39:175-181. doi: 10.1016/j.gde.2016.07.005. Epub 2016 Aug 6. PMID: 27501412.
+Williams EA, Jékely G. **Towards a systems-level understanding of development in the marine annelid Platynereis dumerilii.** Curr Opin Genet Dev. 2016 Aug;39:175-181. [doi: 10.1016/j.gde.2016.07.005](https://pubmed.ncbi.nlm.nih.gov/27501412/). Epub 2016 Aug 6. PMID: 27501412.
 
-Chou HC, Pruitt MM, Bastin BR, Schneider SQ. **A transcriptional blueprint for a spiral-cleaving embryo.** BMC Genomics. 2016 Aug 5;17:552. doi: 10.1186/s12864-016-2860-6. PMID: 27496340; PMCID: PMC4974748.
+Chou HC, Pruitt MM, Bastin BR, Schneider SQ. **A transcriptional blueprint for a spiral-cleaving embryo.** BMC Genomics. 2016 Aug 5;17:552. [doi: 10.1186/s12864-016-2860-6](https://pubmed.ncbi.nlm.nih.gov/27496340/). PMID: 27496340; PMCID: PMC4974748.
 
-Grimmel J, Dorresteijn AW, Fröbius AC. **Formation of body appendages during caudal regeneration in Platynereis dumerilii: adaptation of conserved molecular toolsets.** Evodevo. 2016 Apr 12;7:10. doi: 10.1186/s13227-016-0046-6. PMID: 27076904; PMCID: PMC4830062.
+Grimmel J, Dorresteijn AW, Fröbius AC. **Formation of body appendages during caudal regeneration in Platynereis dumerilii: adaptation of conserved molecular toolsets.** Evodevo. 2016 Apr 12;7:10. [doi: 10.1186/s13227-016-0046-6](https://evodevojournal.biomedcentral.com/articles/10.1186/s13227-016-0046-6). PMID: 27076904; PMCID: PMC4830062.
 
-Lauri A, Bertucci P, Arendt D. **Neurotrophin, p75, and Trk Signaling Module in the Developing Nervous System of the Marine Annelid Platynereis dumerilii.** Biomed Res Int. 2016;2016:2456062. doi: 10.1155/2016/2456062. Epub 2016 Mar 16. PMID: 27069919; PMCID: PMC4812194.
+Lauri A, Bertucci P, Arendt D. **Neurotrophin, p75, and Trk Signaling Module in the Developing Nervous System of the Marine Annelid Platynereis dumerilii.** Biomed Res Int. 2016;2016:2456062. [doi: 10.1155/2016/2456062](https://pubmed.ncbi.nlm.nih.gov/27069919/). Epub 2016 Mar 16. PMID: 27069919; PMCID: PMC4812194.
 
-Wäge J, Lerebours A, Hardege JD, Rotchell JM. **Exposure to low pH induces molecular level changes in the marine worm, Platynereis dumerilii.** Ecotoxicol Environ Saf. 2016 Feb;124:105-110. doi: 10.1016/j.ecoenv.2015.10.008. Epub 2015 Oct 19. PMID: 26476878.
+Wäge J, Lerebours A, Hardege JD, Rotchell JM. **Exposure to low pH induces molecular level changes in the marine worm, Platynereis dumerilii.** Ecotoxicol Environ Saf. 2016 Feb;124:105-110. [doi: 10.1016/j.ecoenv.2015.10.008](https://www.sciencedirect.com/science/article/pii/S014765131530124X). Epub 2015 Oct 19. PMID: 26476878.
 
-Brunet T, Fischer AH, Steinmetz PR, Lauri A, Bertucci P, Arendt D. **The evolutionary origin of bilaterian smooth and striated myocytes.** Elife. 2016 Dec 1;5:e19607. doi: 10.7554/eLife.19607. PMID: 27906129; PMCID: PMC5167519.
+Brunet T, Fischer AH, Steinmetz PR, Lauri A, Bertucci P, Arendt D. **The evolutionary origin of bilaterian smooth and striated myocytes.** Elife. 2016 Dec 1;5:e19607. [doi: 10.7554/eLife.19607](https://elifesciences.org/articles/19607). PMID: 27906129; PMCID: PMC5167519.
 
-Gambi MC, Musco L, Giangrande A, Badalamenti F, Micheli F, Kroeker KJ. **Distribution and functional traits of polychaetes in a CO2 vent system: winners and losers among closely related species** Mar. Ecol. Prog. Ser. 2016 May;550:121-134. doi: 10.3354/meps11727.
+Gambi MC, Musco L, Giangrande A, Badalamenti F, Micheli F, Kroeker KJ. **Distribution and functional traits of polychaetes in a CO2 vent system: winners and losers among closely related species** Mar. Ecol. Prog. Ser. 2016 May;550:121-134. [doi: 10.3354/meps11727](https://www.int-res.com/abstracts/meps/v550/p121-134/).
 
-Arendt D, Tosches MA, Marlow H. **From nerve net to nerve ring, nerve cord and brain--evolution of the nervous system.** Nat Rev Neurosci. 2016 Jan;17(1):61-72. doi: 10.1038/nrn.2015.15. PMID: 26675821.
+Arendt D, Tosches MA, Marlow H. **From nerve net to nerve ring, nerve cord and brain--evolution of the nervous system.** Nat Rev Neurosci. 2016 Jan;17(1):61-72. [doi: 10.1038/nrn.2015.15](https://pubmed.ncbi.nlm.nih.gov/26675821/). PMID: 26675821.
 
 [[go to the top]](#literature)
 
