@@ -28,23 +28,23 @@ Kara J, Santos CSG, Macdonald AHH, Simon CA **Resolving the taxonomic identities
 
 ### 2019
 
-Williams EA, Jékely G. **Neuronal cell types in the annelid Platynereis dumerilii.** Curr Opin Neurobiol. 2019 Jun;56:106-116. doi: 10.1016/j.conb.2018.12.008. Epub 2019 Jan 24. PMID: 30685735.
+Williams EA, Jékely G. **Neuronal cell types in the annelid Platynereis dumerilii.** Curr Opin Neurobiol. 2019 Jun;56:106-116. [doi: 10.1016/j.conb.2018.12.008](https://www.sciencedirect.com/science/article/pii/S0959438818301594). Epub 2019 Jan 24. PMID: 30685735.
 
-Kuehn E, Stockinger AW, Girard J, Raible F, Özpolat BD. **A scalable culturing system for the marine annelid Platynereis dumerilii.** PLoS One. 2019 Dec 5;14(12):e0226156. doi: 10.1371/journal.pone.0226156. PMID: 31805142; PMCID: PMC6894799.
+Kuehn E, Stockinger AW, Girard J, Raible F, Özpolat BD. **A scalable culturing system for the marine annelid Platynereis dumerilii.** PLoS One. 2019 Dec 5;14(12):e0226156. [doi: 10.1371/journal.pone.0226156](https://pubmed.ncbi.nlm.nih.gov/31805142/). PMID: 31805142; PMCID: PMC6894799.
 
-Arboleda E, Zurl M, Waldherr M, Tessmar-Raible K. **Differential Impacts of the Head on Platynereis dumerilii Peripheral Circadian Rhythms.** Front Physiol. 2019 Jul 11;10:900. doi: 10.3389/fphys.2019.00900. PMID: 31354531; PMCID: PMC6638195.
+Arboleda E, Zurl M, Waldherr M, Tessmar-Raible K. **Differential Impacts of the Head on Platynereis dumerilii Peripheral Circadian Rhythms.** Front Physiol. 2019 Jul 11;10:900. [doi: 10.3389/fphys.2019.00900](https://pubmed.ncbi.nlm.nih.gov/31354531/). PMID: 31354531; PMCID: PMC6638195.
 
-Kostyuchenko RP, Kozin VV, Filippova NA, Sorokina EV. **FoxA expression pattern in two polychaete species, Alitta virens and Platynereis dumerilii: Examination of the conserved key regulator of the gut development from cleavage through larval life, postlarval growth, and regeneration.** Dev Dyn. 2019 Aug;248(8):728-743. doi: 10.1002/dvdy.7. Epub 2019 Jan 4. PMID: 30566266.
+Kostyuchenko RP, Kozin VV, Filippova NA, Sorokina EV. **FoxA expression pattern in two polychaete species, Alitta virens and Platynereis dumerilii: Examination of the conserved key regulator of the gut development from cleavage through larval life, postlarval growth, and regeneration.** Dev Dyn. 2019 Aug;248(8):728-743. [doi: 10.1002/dvdy.7](https://anatomypubs.onlinelibrary.wiley.com/doi/full/10.1002/dvdy.7). Epub 2019 Jan 4. PMID: 30566266.
 
-Planques A, Malem J, Parapar J, Vervoort M, Gazave E. **Morphological, cellular and molecular characterization of posterior regeneration in the marine annelid Platynereis dumerilii.** Dev Biol. 2019 Jan 15;445(2):189-210. doi: 10.1016/j.ydbio.2018.11.004. Epub 2018 Nov 13. PMID: 30445055.
+Planques A, Malem J, Parapar J, Vervoort M, Gazave E. **Morphological, cellular and molecular characterization of posterior regeneration in the marine annelid Platynereis dumerilii.** Dev Biol. 2019 Jan 15;445(2):189-210. [doi: 10.1016/j.ydbio.2018.11.004](https://www.sciencedirect.com/science/article/pii/S0012160618304536). Epub 2018 Nov 13. PMID: 30445055.
 
-Schenk S, Bannister SC, Sedlazeck FJ, Anrather D, Minh BQ, Bileck A, Hartl M, von Haeseler A, Gerner C, Raible F, Tessmar-Raible K. **Combined transcriptome and proteome profiling reveals specific molecular brain signatures for sex, maturation and circalunar clock phase.** Elife. 2019 Feb 15;8:e41556. doi: 10.7554/eLife.41556. PMID: 30767890; PMCID: PMC6377233.
+Schenk S, Bannister SC, Sedlazeck FJ, Anrather D, Minh BQ, Bileck A, Hartl M, von Haeseler A, Gerner C, Raible F, Tessmar-Raible K. **Combined transcriptome and proteome profiling reveals specific molecular brain signatures for sex, maturation and circalunar clock phase.** Elife. 2019 Feb 15;8:e41556. [doi: 10.7554/eLife.41556](https://elifesciences.org/articles/41556). PMID: 30767890; PMCID: PMC6377233.
 
-Bernardo-Garcia FJ, Syed M, Jékely G, Sprecher SG. **Glass confers rhabdomeric photoreceptor identity in Drosophila, but not across all metazoans.** Evodevo. 2019 Mar 5;10:4. doi: 10.1186/s13227-019-0117-6. PMID: 30873275; PMCID: PMC6399963.
+Bernardo-Garcia FJ, Syed M, Jékely G, Sprecher SG. **Glass confers rhabdomeric photoreceptor identity in Drosophila, but not across all metazoans.** Evodevo. 2019 Mar 5;10:4. [doi: 10.1186/s13227-019-0117-6](https://evodevojournal.biomedcentral.com/articles/10.1186/s13227-019-0117-6). PMID: 30873275; PMCID: PMC6399963.
 
-Handberg-Thorsager M, Ulman V, Tomançak P, Arendt D, Schubert M. A **Behavioral Assay to Study Effects of Retinoid Pharmacology on Nervous System Development in a Marine Annelid.** Methods Mol Biol. 2019;2019:193-207. doi: 10.1007/978-1-4939-9585-1_14. PMID: 31359398.
+Handberg-Thorsager M, Ulman V, Tomançak P, Arendt D, Schubert M. A **Behavioral Assay to Study Effects of Retinoid Pharmacology on Nervous System Development in a Marine Annelid.** Methods Mol Biol. 2019;2019:193-207. [doi: 10.1007/978-1-4939-9585-1_14](https://pubmed.ncbi.nlm.nih.gov/31359398/). PMID: 31359398.
 
-Vopalensky P, Tosches MA, Achim K, Handberg-Thorsager M, Arendt D. **From spiral cleavage to bilateral symmetry: the developmental cell lineage of the annelid brain.** BMC Biol. 2019 Oct 22;17(1):81. doi: 10.1186/s12915-019-0705-x. PMID: 31640768; PMCID: PMC6805352.
+Vopalensky P, Tosches MA, Achim K, Handberg-Thorsager M, Arendt D. **From spiral cleavage to bilateral symmetry: the developmental cell lineage of the annelid brain.** BMC Biol. 2019 Oct 22;17(1):81. [doi: 10.1186/s12915-019-0705-x](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-019-0705-x). PMID: 31640768; PMCID: PMC6805352.
 
 [[go to the top]](#literature)
 
