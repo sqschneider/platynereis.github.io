@@ -21,6 +21,6 @@ The [Arendt lab](labs.md#arendt-lab) registered a cellulare gene expression atla
 ### Pdum-base
 
 
-[^1] [Overview of Image resources](https://github.com/platynereis/resources/wiki/Imaging)
+[^1]: [Overview of Image resources](https://github.com/platynereis/resources/wiki/Imaging)
 
-[^2] [Overview of Genome/ transcriptome resources](https://github.com/platynereis/resources/wiki/Sequences)
+[^2]: [Overview of Genome/ transcriptome resources](https://github.com/platynereis/resources/wiki/Sequences)
