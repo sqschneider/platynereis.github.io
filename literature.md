@@ -212,6 +212,8 @@ Zantke J, Ishikawa-Fujiwara T, Arboleda E, Lohs C, Schipany K, Hallay N, Straw A
 
 Yang M, Zhang X. **Comparative developmental toxicity of new aromatic halogenated DBPs in a chlorinated saline sewage effluent to the marine polychaete Platynereis dumerilii.** Environ Sci Technol. 2013 Oct 1;47(19):10868-76. [doi: 10.1021/es401841t](https://pubmed.ncbi.nlm.nih.gov/24024886/). Epub 2013 Sep 20. PMID: 24024886.
 
+Calosi P, Rastrick SP, Lombardi C, de Guzman HJ, Davidson L, Jahnke M, Giangrande A, Hardege JD, Schulze A, Spicer JI, Gambi MC. **Adaptation and acclimatization to ocean acidification in marine ectotherms: an in situ transplant experiment with polychaetes at a shallow CO2 vent system.** Philos Trans R Soc Lond B Biol Sci. 2013 Aug 26;368(1627):20120444. [doi: 10.1098/rstb.2012.0444](https://pubmed.ncbi.nlm.nih.gov/23980245/). PMID: 23980245; PMCID: PMC3758176.
+
 [[go to the top]](#literature)
 
 ### 2012
