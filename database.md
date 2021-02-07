@@ -18,7 +18,7 @@ The [Arendt lab](labs.md#arendt-lab) registered a cellulare gene expression atla
 ## Genome and transcriptome
 ### PdumBase
 
-The online transcriptome database [PduBase](http://pdumbase.gdcb.iastate.edu) was developed by the [Schneider lab](labs.md#schneider-lab). It contains transcripts of early stage Platynereis (2 h- 14 h) and additional stages [(Chou et al. 2018)](https://link.springer.com/article/10.1186/s12864-018-4987-0). 
+The online transcriptome database [PduBase](http://pdumbase.gdcb.iastate.edu) was set up by the [Schneider lab](labs.md#schneider-lab). It contains transcripts of early stage Platynereis (2 h- 14 h) and additional stages [(Chou et al. 2018)](https://link.springer.com/article/10.1186/s12864-018-4987-0). 
 
 [^1]: [Overview of Image resources](https://github.com/platynereis/resources/wiki/Imaging)
 
