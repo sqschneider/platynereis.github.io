@@ -9,7 +9,7 @@
 
 ### Whole-animal connectome of a three day old *Platynereis* larva
 
-The whole animal connectome from the [Jékely lab](labs.md#jékely-lab) will be openly accessible via [CATMAID-Jékely-lab](https://catmaid.jekelylab.ex.ac.uk). It contains 180 neuronal and 90 non-neuronal cell-types and the synatic neuronal circuitries from sensory cells to one of the four effector systems [(Verasztó et al. 2020)](https://www.biorxiv.org/content/10.1101/2020.08.21.260984v2).
+The whole animal connectome from the [Jékely lab](labs.md#jékely-lab) will be accessible via [CATMAID-Jékely-lab](https://catmaid.jekelylab.ex.ac.uk). It contains 180 neuronal and 90 non-neuronal cell-types and the synatic neuronal circuitries from sensory cells to one of the four effector systems [(Verasztó et al. 2020)](https://www.biorxiv.org/content/10.1101/2020.08.21.260984v2).
 
 ### PlatyBrowser 
 
