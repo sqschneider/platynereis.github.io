@@ -1,6 +1,6 @@
 # Synopsis
 
-[[Click here to contribute]](https://github.com/platynereis/resources/issues/new)
+[[Click here to contribute]](https://github.com/platynereis/platynereis.github.io/issues/new)
 
 _Platynereis dumerilii_ is a marine annelid that lives in shallow waters around the globe [[citation needed]](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed). It is one of the coolest emerging model organisms around, for the following reasons (in no particular order):
 
