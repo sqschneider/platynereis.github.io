@@ -2,7 +2,7 @@
 
 [**Back to Homepage**](index.md)/ [Resources](resources.md)
 
-[Imaging](#imaging)[^1] and [Genome and transcriptome](#genome-and-transcriptome)[^2] databases.
+Publicly accessible [Imaging](#imaging) and [Genome and transcriptome](#genome-and-transcriptome) databases are listed below. Complete overview of availabe image and genome resources are summarized in the [wiki](https://github.com/platynereis/resources).
 
 
 ## Imaging
@@ -19,7 +19,3 @@ The [Arendt lab](labs.md#arendt-lab) registered a cellulare gene expression atla
 ### PdumBase
 
 The online transcriptome database [PduBase](http://pdumbase.gdcb.iastate.edu) was set up by the [Schneider lab](labs.md#schneider-lab). It contains transcriptomic data of early stage Platynereis (2 h- 14 h) and additional stages [(Chou et al. 2018)](https://link.springer.com/article/10.1186/s12864-018-4987-0). 
-
-[^1]: [Overview of Image resources](https://github.com/platynereis/resources/wiki/Imaging)
-
-[^2]: [Overview of Genome/ transcriptome resources](https://github.com/platynereis/resources/wiki/Sequences)
