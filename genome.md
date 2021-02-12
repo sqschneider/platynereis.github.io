@@ -4,4 +4,3 @@
 
 [Back to Resources](resources.md)
 
-[Back to Databases](database.md)
