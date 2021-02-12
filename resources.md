@@ -3,6 +3,6 @@
 
 [*Platynereis* culture](culture.md)
 
-[Imaging - Databases](image.md)
+[Imaging](image.md)
 
-[Genome/ transcriptome - Databases](genome.md)
+[Genome/ transcriptome](genome.md)
