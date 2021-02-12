@@ -5,5 +5,4 @@
 
 [Databases](database.md)
 
-[Protocols](protocol.md)
 
