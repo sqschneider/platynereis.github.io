@@ -10,7 +10,7 @@ A collection of genomic and transcriptomic resources.
 | -------- | ----------- | ----------- |
 | [PdumBase](http://pdumbase.gdcb.iastate.edu) | Openly accessible transcriptome database from the [Schneider lab](labs.md#schneider-lab) of multiple developmental stages [(Chou et al. 2018)](https://link.springer.com/article/10.1186/s12864-018-4987-0). | 2hpf-14hpf, larva and adult[^2] |
 | [Neuropeptide complement](http://pdumbase.gdcb.iastate.edu) | Stage specific transcription profile of the large neuropeptide repertoire in *Platynereis dumerilii* [(Conzelmann et al. 2013)](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-14-906). Data are accessible via PdumBase. | larva and adult[^2] |
-| COI sequences | Phylogeographic analysis in CO2 vent systems in the Mediterranean Sea [(Calosi et al. 2013](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3758176/), [Wäge et al. 2017)](https://link.springer.com/article/10.1007/s00227-017-3222-x)[^3],[^4] The COI sequences of of *Platynereis* sp. and *Amphiglena mediterranea* are hosted in [GenBank](https://www.ncbi.nlm.nih.gov/genbank/) | adult |
+| COI sequences | Phylogeographic analysis in CO2 vent systems in the Mediterranean Sea ([Calosi et al. 2013](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3758176/)[^3], [Wäge et al. 2017](https://link.springer.com/article/10.1007/s00227-017-3222-x)[^4]) The COI sequences of of *Platynereis* sp. and *Amphiglena mediterranea* are hosted in [GenBank](https://www.ncbi.nlm.nih.gov/genbank/) | adult |
 
 
 
