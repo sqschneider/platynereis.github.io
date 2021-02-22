@@ -7,4 +7,4 @@
 
 [Genome/ transcriptome](genome.md)
 
-[Strains](strains.md)
+[Strains](Xstrains.md)
