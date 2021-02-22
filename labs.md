@@ -7,12 +7,6 @@ Research about development, regeneration, evolution, neurobiology, ecology and b
 
 
 ## Arendt lab
-(Affiliation)
-(link to lab webpage, Twitter)
-
-Some text explaining what the people do.
-
-Add a small picture about research
 
 ## Balavoine lab
 
