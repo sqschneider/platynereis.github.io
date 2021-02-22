@@ -6,3 +6,5 @@
 [Imaging](image.md)
 
 [Genome/ transcriptome](genome.md)
+
+[Strains](strains.md)
