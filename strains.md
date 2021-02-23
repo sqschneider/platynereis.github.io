@@ -22,9 +22,9 @@ A list of [mutant strains](#mutant-strains) and [inbred lines](#inbred-lines) in
 | *I-cry, pt-cry* | L-cry (-34/-34), <br> pt-cry (-13/-13) | homozygous | Unpublished <br> Contact: kristin.tessmar@mfpl.ac.at |
 |r-opsin1; <br> r-ops1::egfp-f2a-ntr | r-ops1(-1/-1); <br> r-ops1::egfp-f2a-ntr | homozygous | [Revilla-i-Domingo et al. 2021](https://www.biorxiv.org/content/10.1101/2021.01.10.426124v1) |
 |r-opsin1; <br> r-ops1::egfp-f2a-ntr | r-ops1(-17/-17); <br> r-ops1::egfp-f2a-ntr | homozygous | [Revilla-i-Domingo et al. 2021](https://www.biorxiv.org/content/10.1101/2021.01.10.426124v1) |
-| *I-cry, r-ops* | I-cry (-34/-34), <br> r-ops(-1/-1), <br> r-ops(-17/17)| homozygous | Unpublished <br> Contact: kristin.tessmar@mfpl.ac.at |
+| *I-cry, r-ops* | I-cry (-34/-34), <br> r-ops(-1/-1), <br> r-ops(-1/17)| homozygous | Unpublished <br> Contact: kristin.tessmar@mfpl.ac.at |
 | *r-ops1::egfp-f2a-ntr* | Mariner <br> (transposase integrated construct) |  | [Veedin-Rajan et al. 2013](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0075811) |
-| *I-cry, c-ops1* | I-cry (-34/-34), c-ops1 (-7/-7) <br> I-cry (-34/-34), c-ops1 (-8/-8) | homozygous | Unpublished <br> Contact: kristin.tessmar@mfpl.ac.at |
+| *I-cry, c-ops1* | I-cry (-34/-34), c-ops1 (-7/-8) <br> I-cry (-34/-34), c-ops1 (-8/-8) | homozygous | Unpublished <br> Contact: kristin.tessmar@mfpl.ac.at |
 | *prepro-pdf* | pdf (-14/-14) | homozygous | Unpublished <br> Contact: kristin.tessmar@mfpl.ac.at |
 | *prepro-pdf* | pdf (+4/+4) | homozygous | Unpublished <br> Contact: kristin.tessmar@mfpl.ac.at |
 | *hiomt* | hiomt (-22/-22) | homozygous | Unpublished <br> Contact: florian.raible@univie.ac.at |
