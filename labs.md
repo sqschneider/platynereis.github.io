@@ -7,47 +7,47 @@ Research about development, regeneration, evolution, neurobiology, ecology and b
 
 
 ## [Arendt lab](https://www.embl.de/research/units/dev_biology/arendt/)
-EMBL, Heidelberg (Germany)
+# EMBL, Heidelberg (Germany)
 
 ## [Balavoine lab](https://www.ijm.fr/en/103/research-groups/metazoaires.htm)
-Institut Jacques Monod/ Université de Paris (France)
+# Institut Jacques Monod/ Université de Paris (France)
 
 ## [Ferrier lab](https://risweb.st-andrews.ac.uk/portal/en/persons/david-ellard-keith-ferrier(9d113045-bca1-49ef-8315-05b2d8425d14).html)
-University of St Andrews (United Kingdom)
+# University of St Andrews (United Kingdom)
 
 ## Gambi lab
-Stazione Zoologica Anton Dohrn, Naples (Italy)
+# Stazione Zoologica Anton Dohrn, Naples (Italy)
 
 ## [Hardege lab](https://www.hull.ac.uk/staff-directory/jorg-hardege)
-University of Hull (United Kingdom)
+# University of Hull (United Kingdom)
 
 ## Hui lab
-The Chinese University of Hong Kong (China)
+# The Chinese University of Hong Kong (China)
 
 ## [Jékely lab](https://biosciences.exeter.ac.uk/staff/profile/index.php?web_id=Gaspar_Jekely)
-University of Exeter (United Kingdom)
+# University of Exeter (United Kingdom)
 
 ## Kostyuchenko lab
-Saint-Petersburg State University (Russia)
+# Saint-Petersburg State University (Russia)
 
 ## [Özpolat lab](https://www.mbl.edu/bell/current-faculty/duygu-ozpolat/)
-Marine Biological Laboratory, Woods Hole (USA)
+# Marine Biological Laboratory, Woods Hole (USA)
 
 ## [Raible lab](https://www.maxperutzlabs.ac.at/research/research-groups/raible)
-Max Perutz Labs, University of Vienna (Austria)
+# Max Perutz Labs, University of Vienna (Austria)
 
 ## Schneider lab
-Academia Sinica, Taipei (Taiwan)
+# Academia Sinica, Taipei (Taiwan)
 
 ## [Tessmar-Raible lab](https://www.maxperutzlabs.ac.at/research/research-groups/tessmar)
-Max Perutz Labs, University of Vienna (Austria)
+# Max Perutz Labs, University of Vienna (Austria)
 
 ## Tomancak lab
-MPI of Molecular Cell Biology and Genetic, Dresden (Germany)
+# MPI of Molecular Cell Biology and Genetic, Dresden (Germany)
 
 ## [Vervoort and Gazave lab](https://www.ijm.fr/en/895/research-groups/stem-cells-development-and-evolution.htm)
-Institut Jacques Monod - CNRS/ Université de Paris (France)
+# Institut Jacques Monod - CNRS/ Université de Paris (France)
 
 ## [Williams lab](https://biosciences.exeter.ac.uk/staff/profile/index.php?web_id=Elizabeth_Williams)
-University of Exeter (United Kingdon)
+# University of Exeter (United Kingdom)
 
