@@ -9,5 +9,7 @@
 
 [Literature](literature.md)
 
+<br/>
+<br/>
 
-![Lifecycle of Platynereis dumerilii](https://github.com/platynereis/platynereis.github.io/blob/main/Pd-lifecycle_1.png)
+![Lifecycle of *Platynereis dumerilii*](https://github.com/platynereis/platynereis.github.io/blob/main/Pd-lifecycle_1small.png)
