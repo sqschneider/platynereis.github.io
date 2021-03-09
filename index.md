@@ -12,4 +12,4 @@
 <br/>
 <br/>
 
-![](https://github.com/platynereis/platynereis.github.io/blob/main/Pd-lifecycle_1small.png)
+![](Pd-lifecycle_1small.png)
