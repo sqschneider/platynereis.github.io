@@ -12,4 +12,4 @@
 <br/>
 <br/>
 
-![Lifecycle of *Platynereis dumerilii*](https://github.com/platynereis/platynereis.github.io/blob/main/Pd-lifecycle_1small.png)
+![](https://github.com/platynereis/platynereis.github.io/blob/main/Pd-lifecycle_1small.png)
