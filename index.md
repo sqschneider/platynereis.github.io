@@ -12,4 +12,4 @@
 <br/>
 <br/>
 
-![](Pd-lifecycle_1small.png)
+![Lifecycle of Platynereis dumerilii](Pd-lifecycle_1small.png)
