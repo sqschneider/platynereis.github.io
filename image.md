@@ -1,8 +1,15 @@
 # Imaging
 
-[**Back to Homepage**](index.md)
+[[Click here to contribute]](https://github.com/platynereis/platynereis.github.io/issues/new)
 
-[Back to Resources](resources.md)
+
+[Resources](resources.md)
+
+[Labs](labs.md) and [People](people.md)
+
+[Literature](literature.md)
+
+
 
 A collection of imaging resources for *Platynereis dumerilii*. Examples include gene expression, electron microscopy volumes, and live imaging.
 
