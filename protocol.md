@@ -1,3 +1,10 @@
 # Protocols
 
-[**Back to Homepage**](index.md)/ [Resources](resources.md)
+[[Click here to contribute]](https://github.com/platynereis/platynereis.github.io/issues/new)
+
+
+[Resources](resources.md)
+
+[Labs](labs.md) and [People](people.md)
+
+[Literature](literature.md)
