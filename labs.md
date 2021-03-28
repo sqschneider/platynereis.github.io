@@ -3,7 +3,7 @@
 
 Research about development, regeneration, evolution, neurobiology, ecology and behavior in *Platynereis dumerilii*.
 
-[Arendt lab](#arendt-lab)/ [Balavoine lab](#balavoine-lab)/ [Ferrier lab](#ferrier-lab)/ [Gambi lab](#gambi-lab)/ [Hardege lab](#hardege-lab)/ [Hui lab](#hui-lab)/ [Jékely lab](#jékely-lab)/ [Kostyuchenko lab](#kostyuchenko-lab)/ [Özpolat lab](#özpolat-lab)/ [Raible lab](#raible-lab)/ [Schneider lab](#schneider-lab)/ [Tessmar-Raible lab](#tessmar-raible-lab)/ [Tomancak lab](#tomancak-lab)/ [Vervoort and Gazave lab](#vervoort-and-gazave-lab)/ [Williams lab](#williams-lab)
+[Arendt lab](#arendt-lab)/ [Balavoine lab](#balavoine-lab)/ [Ferrier lab](#ferrier-lab)/ [Hardege lab](#hardege-lab)/ [Hui lab](#hui-lab)/ [Jékely lab](#jékely-lab)/ [Kostyuchenko lab](#kostyuchenko-lab)/ [Özpolat lab](#özpolat-lab)/ [Raible lab](#raible-lab)/ [Schneider lab](#schneider-lab)/ [Tessmar-Raible lab](#tessmar-raible-lab)/ [Tomancak lab](#tomancak-lab)/ [Vervoort and Gazave lab](#vervoort-and-gazave-lab)/ [Williams lab](#williams-lab)
 
 
 ## [Arendt lab](https://www.embl.de/research/units/dev_biology/arendt/)
@@ -16,10 +16,6 @@ Institut Jacques Monod/ Université de Paris (France)
 
 ## [Ferrier lab](https://risweb.st-andrews.ac.uk/portal/en/persons/david-ellard-keith-ferrier(9d113045-bca1-49ef-8315-05b2d8425d14).html)
 University of St Andrews (United Kingdom)
-
-
-## Gambi lab
-Stazione Zoologica Anton Dohrn, Naples (Italy)
 
 
 ## [Hardege lab](https://www.hull.ac.uk/staff-directory/jorg-hardege)
