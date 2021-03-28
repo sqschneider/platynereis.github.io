@@ -1,16 +1,18 @@
 # Resources
 
-Summary of available resources.
-
-<br> 
-
 [[Click here to contribute]](https://github.com/platynereis/platynereis.github.io/issues/new)
 
-[Resources](resources.md)
+[Homepage](index.md)
 
 [Labs](labs.md) and [People](people.md)
 
 [Literature](literature.md)
+
+<br>
+
+Summary of available resources.
+
+<br> 
 
 [*Platynereis* culture](culture.md)
 
