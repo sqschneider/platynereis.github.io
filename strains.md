@@ -13,6 +13,10 @@
 
 A list of [mutant strains](#mutant-strains) and [inbred lines](#inbred-lines) in Platynereis.
 
+<br>
+
+### Mutant strains
+
 | Mutant strains | Genotype | Viability | References |  
 | -------- | ----------- | ------------ | -------------- |
 | *pkd1-1* | pkd1-1(i1/i1) <br> pkd1-1(∆1/∆1) | homozygous | [Bezares-Calderón et al. 2018](https://elifesciences.org/articles/36262) |
@@ -39,7 +43,7 @@ A list of [mutant strains](#mutant-strains) and [inbred lines](#inbred-lines) in
 
 [[go to the top]](#strains)
 
-
+### Inbred linnes
 
 | Inbred lines | Genotype | References |  
 | -------- | ----------- | ------------ | 
