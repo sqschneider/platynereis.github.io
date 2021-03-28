@@ -43,7 +43,7 @@ A list of [mutant strains](#mutant-strains) and [inbred lines](#inbred-lines) in
 
 [[go to the top]](#strains)
 
-### Inbred linnes
+### Inbred lines
 
 | Inbred lines | Genotype | References |  
 | -------- | ----------- | ------------ | 
