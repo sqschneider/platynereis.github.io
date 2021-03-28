@@ -9,7 +9,13 @@
 
 [Literature](literature.md)
 
+<br>
 
+<br> 
+
+Summary of available resources.
+
+<br> 
 
 [*Platynereis* culture](culture.md)
 
