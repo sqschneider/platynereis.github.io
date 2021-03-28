@@ -1,7 +1,14 @@
 # *Platynereis* culture
-[**Back to Homepage**](index.md)
 
-[Back to Resources](resources.md)
+[[Click here to contribute]](https://github.com/platynereis/platynereis.github.io/issues/new)
+
+
+[Resources](resources.md)
+
+[Labs](labs.md) and [People](people.md)
+
+[Literature](literature.md)
+
 
 
 The standard [culturing protocol](https://github.com/platynereis/resources/blob/main/Fischer-Dorrenstejn_Culture_Instructions.txt) developed by Carl Hauenschild[^1] and adapted by Albrecht Fischer and Adriaan Dorresteijn, is still the basis of each *Platynereis* culture 
