@@ -4,7 +4,7 @@
 
 Information about individual Platynereis researchers.
 
-Last name: [A-E](#a-e)/ [F-J](f-j)/ [K-O](k-o)/ [P-T](p-t)/ [U-Z](u-z)
+Last name: [A-E](#a-e)/ [F-J](#f-j)/ [K-O](#k-o)/ [P-T](#p-t)/ [U-Z](#u-z)
 
 ### A-E
 
