@@ -12,8 +12,6 @@
 
 Summary of available resources.
 
-<br> 
-
 [*Platynereis* culture](culture.md)
 
 [Imaging](image.md)
