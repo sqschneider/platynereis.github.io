@@ -5,7 +5,7 @@
 
 [Resources](resources.md)
 
-[Labs and people](labs.md)
+[Labs](labs.md) and [People](people.md)
 
 [Literature](literature.md)
 
