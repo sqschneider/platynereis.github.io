@@ -1,5 +1,15 @@
 # Labs
-[**Back to Homepage**](index.md)
+
+[[Click here to contribute]](https://github.com/platynereis/platynereis.github.io/issues/new)
+
+
+[Resources](resources.md)
+
+[Labs](labs.md) and [People](people.md)
+
+[Literature](literature.md)
+
+
 
 Research about development, regeneration, evolution, neurobiology, ecology and behavior in *Platynereis dumerilii*.
 
