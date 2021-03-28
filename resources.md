@@ -18,6 +18,6 @@ Summary of available resources.
 
 [Genome/ transcriptome](genome.md)
 
-[Strains](Xstrains.md)
+[Strains](strains.md)
 
 [Protocols](protocol.md)
