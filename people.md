@@ -1,6 +1,15 @@
 # People
 
-[**Back to Homepage**](index.md)
+[[Click here to contribute]](https://github.com/platynereis/platynereis.github.io/issues/new)
+
+
+[Resources](resources.md)
+
+[Labs](labs.md) and [People](people.md)
+
+[Literature](literature.md)
+
+
 
 Information about individual Platynereis researchers.
 
