@@ -58,12 +58,14 @@ Saint-Petersburg State University (Russia)
 ## [Özpolat lab](https://www.mbl.edu/bell/current-faculty/duygu-ozpolat/)
 Marine Biological Laboratory, Woods Hole (USA)
 
-### Mechanisms of reproductive cell generation.
+### Understanding the mechanisms of reproductive cell generation.
 <br>
 
 ## [Raible lab](https://www.maxperutzlabs.ac.at/research/research-groups/raible)
 Max Perutz Labs, University of Vienna (Austria)
 
+### Investigating stem cells, regeneration and developmental plasticity.
+<br>
 
 ## Schneider lab
 Academia Sinica, Taipei (Taiwan)
@@ -71,6 +73,9 @@ Academia Sinica, Taipei (Taiwan)
 
 ## [Tessmar-Raible lab](https://www.maxperutzlabs.ac.at/research/research-groups/tessmar)
 Max Perutz Labs, University of Vienna (Austria)
+
+### Studying the sensory processing of solar and lunar light and their impact on the endogenous clocks.
+<br>
 
 
 ## Tomancak lab
@@ -80,7 +85,12 @@ MPI of Molecular Cell Biology and Genetic, Dresden (Germany)
 ## [Vervoort and Gazave lab](https://www.ijm.fr/en/895/research-groups/stem-cells-development-and-evolution.htm)
 Institut Jacques Monod - CNRS/ Université de Paris (France)
 
+### Understanding the evolution of stem cells and regeneration, using the model organism *Platynereis dumerilii*.
+<br>
 
 ## [Williams lab](https://biosciences.exeter.ac.uk/staff/profile/index.php?web_id=Elizabeth_Williams)
 University of Exeter (United Kingdom)
+
+### Studying larval development, ecology and evolution.
+<br>
 
