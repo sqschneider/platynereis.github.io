@@ -20,6 +20,8 @@ Research about development, regeneration, evolution, neurobiology, ecology and b
 ## [Arendt lab](https://www.embl.de/research/units/dev_biology/arendt/)
 EMBL, Heidelberg (Germany)
 
+### Studying the origin and evolution of the nervous system and the entire animal body in *Plathynereis dumerilii* and other marine animals.
+
 
 ## [Balavoine lab](https://www.ijm.fr/en/103/research-groups/metazoaires.htm)
 Institut Jacques Monod/ Université de Paris (France)
