@@ -26,6 +26,8 @@ EMBL, Heidelberg (Germany)
 ## [Balavoine lab](https://www.ijm.fr/en/103/research-groups/metazoaires.htm)
 Institut Jacques Monod/ Université de Paris (France)
 
+### Reconstructing the early stages of animal evolution by comparing genetic networks which regulate the key aspects of body plan development across metazoan.
+
 
 ## [Ferrier lab](https://risweb.st-andrews.ac.uk/portal/en/persons/david-ellard-keith-ferrier(9d113045-bca1-49ef-8315-05b2d8425d14).html)
 University of St Andrews (United Kingdom)
