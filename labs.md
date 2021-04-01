@@ -21,25 +21,25 @@ Research about development, regeneration, evolution, neurobiology, ecology and b
 EMBL, Heidelberg (Germany)
 
 ### Studying the origin and evolution of the nervous system and the entire animal body in *Plathynereis dumerilii* and other marine animals.
-<br>
+
 
 ## [Balavoine lab](https://www.ijm.fr/en/103/research-groups/metazoaires.htm)
 Institut Jacques Monod/ Université de Paris (France)
 
 ### Reconstructing the early stages of animal evolution by comparing genetic networks which regulate the key aspects of body plan development across metazoan.
-<br>
+
 
 ## [Ferrier lab](https://risweb.st-andrews.ac.uk/portal/en/persons/david-ellard-keith-ferrier(9d113045-bca1-49ef-8315-05b2d8425d14).html)
 University of St Andrews (United Kingdom)
 
 ### Combining the evolution of genome organization and development to understand the diversity of animal body plans.
-<br>
+
 
 ## [Hardege lab](https://www.hull.ac.uk/staff-directory/jorg-hardege)
 University of Hull (United Kingdom)
 
 ### Understanding the adaptation and plasticity in animal sensory systems.
-<br>
+
 
 ## Hui lab
 The Chinese University of Hong Kong (China)
@@ -49,7 +49,7 @@ The Chinese University of Hong Kong (China)
 University of Exeter (United Kingdom)
 
 ### Studying the structure, function and evolution of neural circuits and neuronal cell types and the mechanisms of neuromodulation. 
-<br>
+
 
 ## Kostyuchenko lab
 Saint-Petersburg State University (Russia)
@@ -59,13 +59,13 @@ Saint-Petersburg State University (Russia)
 Marine Biological Laboratory, Woods Hole (USA)
 
 ### Understanding the mechanisms of reproductive cell generation.
-<br>
+
 
 ## [Raible lab](https://www.maxperutzlabs.ac.at/research/research-groups/raible)
 Max Perutz Labs, University of Vienna (Austria)
 
 ### Investigating stem cells, regeneration and developmental plasticity.
-<br>
+
 
 ## Schneider lab
 Academia Sinica, Taipei (Taiwan)
@@ -75,7 +75,6 @@ Academia Sinica, Taipei (Taiwan)
 Max Perutz Labs, University of Vienna (Austria)
 
 ### Studying the sensory processing of solar and lunar light and their impact on the endogenous clocks.
-<br>
 
 
 ## Tomancak lab
@@ -86,11 +85,11 @@ MPI of Molecular Cell Biology and Genetic, Dresden (Germany)
 Institut Jacques Monod - CNRS/ Université de Paris (France)
 
 ### Understanding the evolution of stem cells and regeneration, using the model organism *Platynereis dumerilii*.
-<br>
+
 
 ## [Williams lab](https://biosciences.exeter.ac.uk/staff/profile/index.php?web_id=Elizabeth_Williams)
 University of Exeter (United Kingdom)
 
 ### Studying larval development, ecology and evolution.
-<br>
+
 
