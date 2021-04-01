@@ -48,6 +48,8 @@ The Chinese University of Hong Kong (China)
 ## [Jékely lab](https://biosciences.exeter.ac.uk/staff/profile/index.php?web_id=Gaspar_Jekely)
 University of Exeter (United Kingdom)
 
+### Studying the structure, function and evolution of neural circuits and neuronal cell types and the mechanisms of neuromodulation. 
+<br>
 
 ## Kostyuchenko lab
 Saint-Petersburg State University (Russia)
