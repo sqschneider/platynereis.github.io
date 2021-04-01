@@ -21,23 +21,25 @@ Research about development, regeneration, evolution, neurobiology, ecology and b
 EMBL, Heidelberg (Germany)
 
 ### Studying the origin and evolution of the nervous system and the entire animal body in *Plathynereis dumerilii* and other marine animals.
-
+<br>
 
 ## [Balavoine lab](https://www.ijm.fr/en/103/research-groups/metazoaires.htm)
 Institut Jacques Monod/ Université de Paris (France)
 
 ### Reconstructing the early stages of animal evolution by comparing genetic networks which regulate the key aspects of body plan development across metazoan.
-
+<br>
 
 ## [Ferrier lab](https://risweb.st-andrews.ac.uk/portal/en/persons/david-ellard-keith-ferrier(9d113045-bca1-49ef-8315-05b2d8425d14).html)
 University of St Andrews (United Kingdom)
 
 ### Combining the evolution of genome organization and development to understand the diversity of animal body plans.
-
+<br>
 
 ## [Hardege lab](https://www.hull.ac.uk/staff-directory/jorg-hardege)
 University of Hull (United Kingdom)
 
+### Understanding the adaptation and plasticity in animal sensory systems.
+<br>
 
 ## Hui lab
 The Chinese University of Hong Kong (China)
