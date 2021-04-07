@@ -18,7 +18,7 @@ EMBL, Heidelberg (Germany)
 
 
 ## [Balavoine lab](https://www.ijm.fr/en/103/research-groups/metazoaires.htm)
-Institut Jacques Monod/ Université de Paris (France)
+Institut Jacques Monod/ Université de Paris (France)
 
 ### Reconstructing the early stages of animal evolution by comparing genetic networks which regulate the key aspects of body plan development across metazoan.
 
@@ -61,8 +61,10 @@ Max Perutz Labs, University of Vienna (Austria)
 ### Investigating stem cells, regeneration and developmental plasticity.
 
 
-## Schneider lab
+## [Schneider lab](http://140.109.49.7/lab.php?id=48)
 Academia Sinica, Taipei (Taiwan)
+
+### Studying spiralian development and evolution.
 
 
 ## [Tessmar-Raible lab](https://www.maxperutzlabs.ac.at/research/research-groups/tessmar)
@@ -76,7 +78,7 @@ MPI of Molecular Cell Biology and Genetic, Dresden (Germany)
 
 
 ## [Vervoort and Gazave lab](https://www.ijm.fr/en/895/research-groups/stem-cells-development-and-evolution.htm)
-Institut Jacques Monod - CNRS/ Université de Paris (France)
+Institut Jacques Monod - CNRS/ Université de Paris (France)
 
 ### Understanding the evolution of stem cells and regeneration, using the model organism *Platynereis dumerilii*.
 
